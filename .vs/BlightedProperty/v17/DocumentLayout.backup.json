@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|c:\\users\\david\\blightedproperty 2026-01-14_23-37-26\\blightedproperty\\assets\\scripts\\combat\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\ability\\character_ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|c:\\users\\david\\blightedproperty 2026-01-14_23-37-26\\blightedproperty\\assets\\scripts\\combat\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -487,8 +487,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Combat\\State.cs",
               "ViewState": "AgIAALEAAAAAAAAAAAAAwM0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T09:11:11.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T09:11:11.398Z"
             },
             {
               "$type": "Document",
@@ -500,8 +499,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Combat\\Ability\\Character_Ability.cs",
               "ViewState": "AgIAAHMAAAAAAAAAAAAkwHwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T20:53:01.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T20:53:01.598Z"
             },
             {
               "$type": "Document",

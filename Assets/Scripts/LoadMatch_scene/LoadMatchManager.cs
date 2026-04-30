@@ -30,7 +30,7 @@ public class LoadMatchManager : MonoBehaviour
     public GameObject saveSlotPrefab;
     public Transform contenedorLayout; // Arrastra el padre con el Vertical Layout Group
 
-    private string apiUrl = "http://blightedproperty.somee.com/api/matches/active/";
+    private string apiUrl = "https://blightedproperty.somee.com/api/matches/active/";
 
     private void Start()
     {

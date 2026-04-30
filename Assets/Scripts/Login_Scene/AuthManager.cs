@@ -23,7 +23,7 @@ public class AuthResponse
 
 public class AuthManager : MonoBehaviour
 {
-    private string apiBaseUrl = "http://blightedproperty.somee.com/api/auth";
+    private string apiBaseUrl = "https://blightedproperty.somee.com/api/auth";
 
     [Header("Paneles Principales")]
     public GameObject panelLogin;

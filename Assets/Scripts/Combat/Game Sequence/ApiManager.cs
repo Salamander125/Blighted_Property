@@ -9,7 +9,7 @@ public class ApiManager : MonoBehaviour
 
     [Header("Configuración API")]
     [Tooltip("URL de tu servidor Somee que devuelve TODAS las habilidades")]
-    public string apiUrl = "http://www.blightedproperty.somee.com/api/abilities";
+    public string apiUrl = "https://www.blightedproperty.somee.com/api/abilities";
 
     [Header("Datos Descargados")]
     public List<Ability> habilidadesTotales = new List<Ability>();

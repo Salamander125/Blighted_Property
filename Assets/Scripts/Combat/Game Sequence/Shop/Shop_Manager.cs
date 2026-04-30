@@ -17,7 +17,7 @@ public class Shop_Manager : MonoBehaviour
     }
 
     [Header("Base de Datos API")]
-    public string apiUrl = "http://blightedproperty.somee.com/api/cards";
+    public string apiUrl = "https://blightedproperty.somee.com/api/cards";
     private List<CardModel> allDownloadedCards = new List<CardModel>();
 
     [Header("Configuración visual")]
