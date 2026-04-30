@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2364bb8cb2b1eea4a99f53bb79f440b3, type: 3}
+  m_Name: Corte Venenoso
+  m_EditorClassIdentifier: 
+  abilityName: Corte Venenoso
+  animationPrefab: {fileID: 3003382745586747442, guid: 1289bbeb44166f14588f835c65a01962, type: 3}
+  targetType: 0
+  chanceToUse: 50
+  damage: 20
+  heal: 0
+  appliesState: 1
+  stateToApply: 2
+  stateDuration: 2
+  stateIntensity: 2

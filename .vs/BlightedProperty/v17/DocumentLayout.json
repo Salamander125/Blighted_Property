@@ -1,0 +1,1634 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|c:\\users\\david\\blightedproperty 2026-01-14_23-37-26\\blightedproperty\\assets\\scripts\\combat\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\ability\\character_ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\ability\\character_ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\save\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\save\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\turn_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\turn_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\speed_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\speed_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\floor_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\floor_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\inspectormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\inspectormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\ui\\turntimelineui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\ui\\turntimelineui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\ui\\uimanager_combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\ui\\uimanager_combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\combat_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\combat_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\loadmatch_scene\\saveslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadmatch_scene\\saveslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\save\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\save\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\loadmatch_scene\\loadmatchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadmatch_scene\\loadmatchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\scenenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\login_scene\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\login_scene\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\ui\\stickybuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\ui\\stickybuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\character\\playerturncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\character\\playerturncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\ui\\anim_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\ui\\anim_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\ui\\visualeffect_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\ui\\visualeffect_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\ui\\turnpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\ui\\turnpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\ui\\abilitypreviewpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\ui\\abilitypreviewpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\ui\\abilitymenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\ui\\abilitymenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\shop\\shop_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\shop\\shop_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\ability\\ability_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\ability\\ability_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\shop\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\shop\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\shop\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\shop\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\character\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\character\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\characterselector\\playerselectiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characterselector\\playerselectiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\characterselector\\character_selection_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characterselector\\character_selection_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\characterselector\\characterdataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characterselector\\characterdataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\faction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\faction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\apimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\apimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\character\\combat_spawn_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\character\\combat_spawn_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\first_scene\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\first_scene\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\ability\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\ability\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\grid\\gridcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\grid\\gridcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\grid\\grid_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\grid\\grid_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\character\\character_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\character\\character_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\enemy\\enemyabilitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\enemy\\enemyabilitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\enemy\\enemy_spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\enemy\\enemy_spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\enemy\\enemy_pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\enemy\\enemy_pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\assets\\scripts\\combat\\enemy\\enemy_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\enemy\\enemy_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\AbilityMenuUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AbilityMenuUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\DamagePopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DamagePopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\TurnPopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TurnPopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Anim_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Anim_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Combat_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Grid_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Grid_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\GridSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GridSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\GridCell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GridCell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Grid_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game Sequence\\Grid_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\GridCell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game Sequence\\GridCell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\GridSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game Sequence\\GridSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Character\\Character_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Character\\Character_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\UiManager_Combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ui\\UiManager_Combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Character\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Character\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ability\\Character_Ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ability\\Character_Ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\TurnTimelineUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ui\\TurnTimelineUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\BattleLogUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ui\\BattleLogUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\AbilityMenuUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ui\\AbilityMenuUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\TurnPopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ui\\TurnPopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\VisualEffect_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ui\\VisualEffect_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Turn_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game Sequence\\Turn_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Grid\\GridSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game Sequence\\Grid\\GridSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Character\\Character_conector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Character\\Character_conector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Combat_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game Sequence\\Combat_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Grid\\Grid_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game Sequence\\Grid\\Grid_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\AbilityPreviewPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ui\\AbilityPreviewPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Grid\\GridCell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game Sequence\\Grid\\GridCell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\DamagePopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ui\\DamagePopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Floor_Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game Sequence\\Floor_Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Enemy\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Enemy\\Enemy_Spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy\\Enemy_Spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\ApiManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game Sequence\\ApiManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Shop\\Shop_Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game Sequence\\Shop\\Shop_Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ability\\Ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ability\\Ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Faction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Faction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\State.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\State.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\Anim_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ui\\Anim_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Shop\\ShopCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game Sequence\\Shop\\ShopCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Enemy\\EnemyAbilityData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy\\EnemyAbilityData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Shop\\CardData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game Sequence\\Shop\\CardData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\StickyButtons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ui\\StickyButtons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\InspectorManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game Sequence\\InspectorManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ability\\Ability_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ability\\Ability_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Enemy\\Enemy_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy\\Enemy_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\CameraFocus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game Sequence\\CameraFocus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Enemy\\Enemy_pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy\\Enemy_pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Sprites.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TextMesh Pro\\Examples \u0026 Extras\\Sprites.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Materials.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TextMesh Pro\\Examples \u0026 Extras\\Materials.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Prefabs.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TextMesh Pro\\Examples \u0026 Extras\\Prefabs.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Resources.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TextMesh Pro\\Examples \u0026 Extras\\Resources.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Textures.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TextMesh Pro\\Examples \u0026 Extras\\Textures.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scenes.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scenes.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 390,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TurnTimelineUI.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\TurnTimelineUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Ui\\TurnTimelineUI.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\TurnTimelineUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Ui\\TurnTimelineUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:03:46.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InspectorManager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\InspectorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\InspectorManager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\InspectorManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\InspectorManager.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAuwDgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T18:39:33.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Floor_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Floor_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\Floor_Manager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Floor_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\Floor_Manager.cs",
+              "ViewState": "AgIAAI0BAAAAAAAAAAAAAJEBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:27:42.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PauseManager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Save\\PauseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Save\\PauseManager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Save\\PauseManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Save\\PauseManager.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAuwGgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T09:36:03.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Entity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Entity.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Entity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Entity.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAlwH0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:56:30.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\State.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\State.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\State.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\State.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAwM0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:11:11.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character_Ability.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ability\\Character_Ability.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Ability\\Character_Ability.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ability\\Character_Ability.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Ability\\Character_Ability.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAkwHwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T20:53:01.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UiManager_Combat.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\UiManager_Combat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Ui\\UiManager_Combat.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\UiManager_Combat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Ui\\UiManager_Combat.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:21:33.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Turn_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Turn_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\Turn_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Turn_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\Turn_Controller.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAawC4BAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T18:42:31.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Speed_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Speed_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\Speed_Manager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Speed_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\Speed_Manager.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:54:41.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Combat_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Combat_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\Combat_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Combat_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\Combat_Controller.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T12:20:29.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaveSlotUI.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\LoadMatch_scene\\SaveSlotUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadMatch_scene\\SaveSlotUI.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\LoadMatch_scene\\SaveSlotUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadMatch_scene\\SaveSlotUI.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAGQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:24:16.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SceneNavigator.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\SceneNavigator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneNavigator.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\SceneNavigator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneNavigator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:31:31.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Save\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Save\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Save\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Save\\SaveManager.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAIwH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T09:06:03.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoadMatchManager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\LoadMatch_scene\\LoadMatchManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadMatch_scene\\LoadMatchManager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\LoadMatch_scene\\LoadMatchManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadMatch_scene\\LoadMatchManager.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAwwKUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:25:05.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Anim_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\Anim_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Ui\\Anim_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\Anim_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Ui\\Anim_Controller.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAYwEMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:00:47.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Login_Scene\\AuthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Login_Scene\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Login_Scene\\AuthManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Login_Scene\\AuthManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAawJMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:15:50.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayerTurnController.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Character\\PlayerTurnController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Character\\PlayerTurnController.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Character\\PlayerTurnController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Character\\PlayerTurnController.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAAAWwDsBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T20:56:14.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StickyButtons.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\StickyButtons.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Ui\\StickyButtons.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\StickyButtons.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Ui\\StickyButtons.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T18:34:43.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VisualEffect_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\VisualEffect_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Ui\\VisualEffect_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\VisualEffect_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Ui\\VisualEffect_Controller.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:20:27.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TurnPopup.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\TurnPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Ui\\TurnPopup.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\TurnPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Ui\\TurnPopup.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:20:17.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AbilityPreviewPanel.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\AbilityPreviewPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Ui\\AbilityPreviewPanel.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\AbilityPreviewPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Ui\\AbilityPreviewPanel.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T18:40:00.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AbilityMenuUI.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\AbilityMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Ui\\AbilityMenuUI.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\AbilityMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Ui\\AbilityMenuUI.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAawJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T17:19:11.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Shop_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\Shop_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\Shop_Manager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\Shop_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\Shop_Manager.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAcwN8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T18:52:13.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Ability_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ability\\Ability_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Ability\\Ability_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ability\\Ability_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Ability\\Ability_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T20:53:50.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Character\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Character\\Character.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Character\\Character.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Character\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:24:52.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CardData.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\CardData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\CardData.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\CardData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\CardData.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:02:20.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShopCard.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\ShopCard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\ShopCard.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\ShopCard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\ShopCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:02:27.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PlayerSelectionData.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\CharacterSelector\\PlayerSelectionData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterSelector\\PlayerSelectionData.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\CharacterSelector\\PlayerSelectionData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterSelector\\PlayerSelectionData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T17:04:54.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Character_Selection_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\CharacterSelector\\Character_Selection_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterSelector\\Character_Selection_Manager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\CharacterSelector\\Character_Selection_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterSelector\\Character_Selection_Manager.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T17:04:56.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CharacterDataSO.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\CharacterSelector\\CharacterDataSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterSelector\\CharacterDataSO.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\CharacterSelector\\CharacterDataSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterSelector\\CharacterDataSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T17:04:56.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApiManager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\ApiManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\ApiManager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\ApiManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\ApiManager.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAhwHYAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:57:19.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Combat_Spawn_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Character\\Combat_Spawn_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Character\\Combat_Spawn_Manager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Character\\Combat_Spawn_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Character\\Combat_Spawn_Manager.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T20:22:51.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Faction.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Faction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Faction.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Faction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Faction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T20:58:28.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Enemy\\Enemy.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Enemy\\Enemy.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T18:35:16.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\First_Scene\\Functions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\First_Scene\\Functions.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\First_Scene\\Functions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\First_Scene\\Functions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:01:26.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Ability.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ability\\Ability.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Ability\\Ability.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Ability\\Ability.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Ability\\Ability.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T20:53:31.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Fonts.meta",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts.meta",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts.meta",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts.meta",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-19T16:16:49.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GridCell.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Grid\\GridCell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\Grid\\GridCell.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Grid\\GridCell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\Grid\\GridCell.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAmwLkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T18:37:04.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Grid_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Grid\\Grid_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\Grid\\Grid_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Grid\\Grid_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\Grid\\Grid_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T19:02:43.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Character_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Character\\Character_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Character\\Character_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Character\\Character_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Character\\Character_Controller.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T12:04:07.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EnemyAbilityData.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Enemy\\EnemyAbilityData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Enemy\\EnemyAbilityData.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Enemy\\EnemyAbilityData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Enemy\\EnemyAbilityData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T18:35:19.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Enemy_Spawn.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Enemy\\Enemy_Spawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Enemy\\Enemy_Spawn.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Enemy\\Enemy_Spawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Enemy\\Enemy_Spawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T18:35:18.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Enemy_pool.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Enemy\\Enemy_pool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Enemy\\Enemy_pool.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Enemy\\Enemy_pool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Enemy\\Enemy_pool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T18:35:18.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Enemy_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Enemy\\Enemy_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Enemy\\Enemy_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat\\Enemy\\Enemy_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Enemy\\Enemy_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T18:35:16.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AbilityMenuUI.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\AbilityMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AbilityMenuUI.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\AbilityMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AbilityMenuUI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T18:03:00.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Textures.meta",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Textures.meta",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Textures.meta",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Textures.meta",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Textures.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-19T16:16:50.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Scripts.meta",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts.meta",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts.meta",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts.meta",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-19T16:16:50.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Sprites.meta",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Sprites.meta",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Sprites.meta",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Sprites.meta",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Sprites.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-19T16:16:50.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Materials.meta",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Materials.meta",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Materials.meta",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Materials.meta",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Materials.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-19T16:16:49.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Prefabs.meta",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Prefabs.meta",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Prefabs.meta",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Prefabs.meta",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Prefabs.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-19T16:16:50.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Resources.meta",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Resources.meta",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Resources.meta",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Resources.meta",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Resources.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-19T16:16:50.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Scenes.meta",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scenes.meta",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scenes.meta",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scenes.meta",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scenes.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-19T16:16:50.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "CardData.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Shop\\CardData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Sequence\\Shop\\CardData.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Shop\\CardData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Sequence\\Shop\\CardData.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwAsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:17:01.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "StickyButtons.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\StickyButtons.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ui\\StickyButtons.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\StickyButtons.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ui\\StickyButtons.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:13:32.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "InspectorManager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\InspectorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Sequence\\InspectorManager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\InspectorManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Sequence\\InspectorManager.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAcwAsBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T22:29:57.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Ability_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ability\\Ability_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ability\\Ability_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ability\\Ability_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ability\\Ability_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:47:34.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Enemy_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Enemy\\Enemy_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Enemy\\Enemy_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy_Controller.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAIwBIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T17:58:32.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Grid_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Grid_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Grid_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Grid_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Grid_Controller.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:41:54.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GridCell.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\GridCell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridCell.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\GridCell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridCell.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:59:44.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Combat_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Combat_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat_Controller.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:34:13.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GridSelector.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\GridSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridSelector.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\GridSelector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridSelector.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:39:54.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DamagePopup.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\DamagePopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamagePopup.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\DamagePopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamagePopup.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:34:14.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Character_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Character\\Character_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\Character_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Character\\Character_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\Character_Controller.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T17:58:11.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UiManager_Combat.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\UiManager_Combat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ui\\UiManager_Combat.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\UiManager_Combat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ui\\UiManager_Combat.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T21:09:23.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Character_Ability.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ability\\Character_Ability.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ability\\Character_Ability.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ability\\Character_Ability.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ability\\Character_Ability.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:47:38.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "CameraFocus.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\CameraFocus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Sequence\\CameraFocus.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\CameraFocus.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Sequence\\CameraFocus.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T10:16:14.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Entity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Entity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAA3wEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:32:48.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Character\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\Character.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Character\\Character.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\Character.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwDsAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T17:59:16.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Enemy_pool.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Enemy\\Enemy_pool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy_pool.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Enemy\\Enemy_pool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy_pool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:13:35.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Grid_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Grid_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Sequence\\Grid_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Grid_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Sequence\\Grid_Controller.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T22:34:41.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GridCell.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\GridCell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Sequence\\GridCell.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\GridCell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Sequence\\GridCell.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T22:33:08.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GridSelector.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\GridSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Sequence\\GridSelector.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\GridSelector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Sequence\\GridSelector.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:34:59.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TurnTimelineUI.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\TurnTimelineUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ui\\TurnTimelineUI.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\TurnTimelineUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ui\\TurnTimelineUI.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAuwMcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T11:17:08.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "BattleLogUI.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\BattleLogUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ui\\BattleLogUI.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\BattleLogUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ui\\BattleLogUI.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T18:32:11.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AbilityMenuUI.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\AbilityMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ui\\AbilityMenuUI.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\AbilityMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ui\\AbilityMenuUI.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:53:49.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "TurnPopup.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\TurnPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ui\\TurnPopup.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\TurnPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ui\\TurnPopup.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T17:57:24.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "VisualEffect_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\VisualEffect_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ui\\VisualEffect_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\VisualEffect_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ui\\VisualEffect_Controller.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:17:04.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Turn_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Turn_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Sequence\\Turn_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Turn_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Sequence\\Turn_Controller.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwHsBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:35:00.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "GridSelector.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Grid\\GridSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Sequence\\Grid\\GridSelector.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Grid\\GridSelector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Sequence\\Grid\\GridSelector.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T22:28:10.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Character_conector.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Character\\Character_conector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\Character_conector.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Character\\Character_conector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\Character_conector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T14:19:25.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Combat_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Combat_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Sequence\\Combat_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Combat_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Sequence\\Combat_Controller.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T22:34:43.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Grid_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Grid\\Grid_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Sequence\\Grid\\Grid_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Grid\\Grid_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Sequence\\Grid\\Grid_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T22:27:52.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AbilityPreviewPanel.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\AbilityPreviewPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ui\\AbilityPreviewPanel.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\AbilityPreviewPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ui\\AbilityPreviewPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T21:38:59.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "GridCell.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Grid\\GridCell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Sequence\\Grid\\GridCell.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Grid\\GridCell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Sequence\\Grid\\GridCell.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAewLgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T22:28:02.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DamagePopup.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\DamagePopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ui\\DamagePopup.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\DamagePopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ui\\DamagePopup.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:13:50.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Floor_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Floor_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Sequence\\Floor_Manager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Floor_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Sequence\\Floor_Manager.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAADwv6UAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T22:34:42.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAIA0wDgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:01:31.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Enemy_Spawn.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Enemy\\Enemy_Spawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy_Spawn.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Enemy\\Enemy_Spawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy_Spawn.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAmwGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:13:37.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ApiManager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\ApiManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Sequence\\ApiManager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\ApiManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Sequence\\ApiManager.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwFYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T17:41:49.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Shop_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Shop\\Shop_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Sequence\\Shop\\Shop_Manager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Shop\\Shop_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Sequence\\Shop\\Shop_Manager.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAgwPwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:17:07.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Ability.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ability\\Ability.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ability\\Ability.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ability\\Ability.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ability\\Ability.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T17:33:46.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Faction.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Faction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Faction.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Faction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Faction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:13:27.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\State.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\State.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\State.cs",
+              "RelativeToolTip": "Assets\\Scripts\\State.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwGMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:23:11.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Anim_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\Anim_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ui\\Anim_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Ui\\Anim_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ui\\Anim_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:53:48.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ShopCard.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Shop\\ShopCard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Sequence\\Shop\\ShopCard.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Game Sequence\\Shop\\ShopCard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Sequence\\Shop\\ShopCard.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:17:11.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "EnemyAbilityData.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Enemy\\EnemyAbilityData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAbilityData.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Enemy\\EnemyAbilityData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAbilityData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:20:55.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TurnPopup.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\TurnPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TurnPopup.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\TurnPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TurnPopup.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:30:54.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Anim_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Anim_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Anim_Controller.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty 2026-01-14_23-37-26\\BlightedProperty\\Assets\\Scripts\\Anim_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Anim_Controller.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T14:54:12.271Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 10,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 199,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

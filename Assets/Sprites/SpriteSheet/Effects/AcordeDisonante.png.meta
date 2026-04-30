@@ -1,0 +1,914 @@
+fileFormatVersion: 2
+guid: fe51d8583de2cf448963705692b47189
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3522615393195660811
+    second: AcordeDisonante_0
+  - first:
+      213: 6209082405493915417
+    second: AcordeDisonante_1
+  - first:
+      213: 6990640637227567097
+    second: AcordeDisonante_2
+  - first:
+      213: -6065769403214593155
+    second: AcordeDisonante_3
+  - first:
+      213: -6963415576204913835
+    second: AcordeDisonante_4
+  - first:
+      213: -906602056572325508
+    second: AcordeDisonante_5
+  - first:
+      213: 3396156595257348518
+    second: AcordeDisonante_6
+  - first:
+      213: -7694147958177778973
+    second: AcordeDisonante_7
+  - first:
+      213: 8609058454645385214
+    second: AcordeDisonante_8
+  - first:
+      213: -1708507673567872411
+    second: AcordeDisonante_9
+  - first:
+      213: -7031687020138744739
+    second: AcordeDisonante_10
+  - first:
+      213: 2395413114294348792
+    second: AcordeDisonante_11
+  - first:
+      213: -832464622258184950
+    second: AcordeDisonante_12
+  - first:
+      213: -3090477233289194121
+    second: AcordeDisonante_13
+  - first:
+      213: -1710080887811338312
+    second: AcordeDisonante_14
+  - first:
+      213: -3106187059260846333
+    second: AcordeDisonante_15
+  - first:
+      213: -6922857909328132360
+    second: AcordeDisonante_16
+  - first:
+      213: 6595427528497828584
+    second: AcordeDisonante_17
+  - first:
+      213: 3023376704134597484
+    second: AcordeDisonante_18
+  - first:
+      213: -8725715167482573252
+    second: AcordeDisonante_19
+  - first:
+      213: -8209259418117100503
+    second: AcordeDisonante_20
+  - first:
+      213: -8152199862850135435
+    second: AcordeDisonante_21
+  - first:
+      213: -5163379721715368548
+    second: AcordeDisonante_22
+  - first:
+      213: -7277622902690251416
+    second: AcordeDisonante_23
+  - first:
+      213: 7867121165837608171
+    second: AcordeDisonante_24
+  - first:
+      213: 2397687348808909089
+    second: AcordeDisonante_25
+  - first:
+      213: 4229292949369734665
+    second: AcordeDisonante_26
+  - first:
+      213: -2252940002262467780
+    second: AcordeDisonante_27
+  - first:
+      213: -9141148832003387484
+    second: AcordeDisonante_28
+  - first:
+      213: 6805287381457985478
+    second: AcordeDisonante_29
+  - first:
+      213: 143477440938663659
+    second: AcordeDisonante_30
+  - first:
+      213: -6226359663595490722
+    second: AcordeDisonante_31
+  - first:
+      213: 3310920307883714659
+    second: AcordeDisonante_32
+  - first:
+      213: 6444335415631270969
+    second: AcordeDisonante_33
+  - first:
+      213: 8151938329229061784
+    second: AcordeDisonante_34
+  - first:
+      213: -7056860018914329888
+    second: AcordeDisonante_35
+  - first:
+      213: 1129107473469180949
+    second: AcordeDisonante_36
+  - first:
+      213: 4411556485713839603
+    second: AcordeDisonante_37
+  - first:
+      213: -809118213032118512
+    second: AcordeDisonante_38
+  - first:
+      213: 3728625764090633919
+    second: AcordeDisonante_39
+  - first:
+      213: -7932149159551523590
+    second: AcordeDisonante_40
+  - first:
+      213: -4448881758072247542
+    second: AcordeDisonante_41
+  - first:
+      213: -3259443397881223914
+    second: AcordeDisonante_42
+  - first:
+      213: 4251556804808554507
+    second: AcordeDisonante_43
+  - first:
+      213: -8017561526802607950
+    second: AcordeDisonante_44
+  - first:
+      213: -5947534058305138988
+    second: AcordeDisonante_45
+  - first:
+      213: -2130643002579304242
+    second: AcordeDisonante_46
+  - first:
+      213: -2440841169134729340
+    second: AcordeDisonante_47
+  - first:
+      213: -2216552570531495299
+    second: AcordeDisonante_48
+  - first:
+      213: -5052623126194479477
+    second: AcordeDisonante_49
+  - first:
+      213: -4995794859028447398
+    second: AcordeDisonante_50
+  - first:
+      213: 7804699209167120663
+    second: AcordeDisonante_51
+  - first:
+      213: -535735364348709828
+    second: AcordeDisonante_52
+  - first:
+      213: -1439985062840682758
+    second: AcordeDisonante_53
+  - first:
+      213: 6678365085076238946
+    second: AcordeDisonante_54
+  - first:
+      213: -4551045169855691570
+    second: AcordeDisonante_55
+  - first:
+      213: 2145896907485157523
+    second: AcordeDisonante_56
+  - first:
+      213: 419391636392209488
+    second: AcordeDisonante_57
+  - first:
+      213: 2609896828098750778
+    second: AcordeDisonante_58
+  - first:
+      213: 1216180862841009244
+    second: AcordeDisonante_59
+  - first:
+      213: 1679913467177104066
+    second: AcordeDisonante_60
+  - first:
+      213: 4284646472750454559
+    second: AcordeDisonante_61
+  - first:
+      213: -4179511426288859812
+    second: AcordeDisonante_62
+  - first:
+      213: -2834692368951210192
+    second: AcordeDisonante_63
+  - first:
+      213: 4898386864489281273
+    second: AcordeDisonante_64
+  - first:
+      213: -1411762323069273499
+    second: AcordeDisonante_65
+  - first:
+      213: 1269250260076095570
+    second: AcordeDisonante_66
+  - first:
+      213: 3611622537075060167
+    second: AcordeDisonante_67
+  - first:
+      213: -5018204710202329801
+    second: AcordeDisonante_68
+  - first:
+      213: 7873374862660584369
+    second: AcordeDisonante_69
+  - first:
+      213: -4473026763818047788
+    second: AcordeDisonante_70
+  - first:
+      213: 8985006863112914891
+    second: AcordeDisonante_71
+  - first:
+      213: -6268132084669198535
+    second: AcordeDisonante_72
+  - first:
+      213: -7416053083341864435
+    second: AcordeDisonante_73
+  - first:
+      213: -179579325712823728
+    second: AcordeDisonante_74
+  - first:
+      213: 2360137418989132938
+    second: AcordeDisonante_75
+  - first:
+      213: -6622410878592499904
+    second: AcordeDisonante_76
+  - first:
+      213: -1499955049835424086
+    second: AcordeDisonante_77
+  - first:
+      213: -4969484814181153955
+    second: AcordeDisonante_78
+  - first:
+      213: 2709532654342930439
+    second: AcordeDisonante_79
+  - first:
+      213: -2057320967065507697
+    second: AcordeDisonante_80
+  - first:
+      213: 3740572450664333086
+    second: AcordeDisonante_81
+  - first:
+      213: 5393721186478819037
+    second: AcordeDisonante_82
+  - first:
+      213: 6165014931239334150
+    second: AcordeDisonante_83
+  - first:
+      213: 5609629575404926365
+    second: AcordeDisonante_84
+  - first:
+      213: -620591170408419253
+    second: AcordeDisonante_85
+  - first:
+      213: -9119736394502229698
+    second: AcordeDisonante_86
+  - first:
+      213: -7071648545990048187
+    second: AcordeDisonante_87
+  - first:
+      213: -758343205098254643
+    second: AcordeDisonante_88
+  - first:
+      213: -1688825273465196000
+    second: AcordeDisonante_89
+  - first:
+      213: -6178551855105679909
+    second: AcordeDisonante_90
+  - first:
+      213: 7342813728771124812
+    second: AcordeDisonante_91
+  - first:
+      213: -2613628982028728858
+    second: AcordeDisonante_92
+  - first:
+      213: -1081474986349807513
+    second: AcordeDisonante_93
+  - first:
+      213: 6047456035230744252
+    second: AcordeDisonante_94
+  - first:
+      213: 2471130116207847787
+    second: AcordeDisonante_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AcordeDisonante_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0610c75908d2e030800000000000000
+      internalID: 3522615393195660811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fb798fc871b2650800000000000000
+      internalID: 6209082405493915417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f70c5e1f9eb30160800000000000000
+      internalID: 6990640637227567097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7306f79dde02dba0800000000000000
+      internalID: -6065769403214593155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55352ec5d6afc5f90800000000000000
+      internalID: -6963415576204913835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c713e51ab3a1b63f0800000000000000
+      internalID: -906602056572325508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a11ae50e62912f20800000000000000
+      internalID: 3396156595257348518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e234878235e83590800000000000000
+      internalID: -7694147958177778973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef726bf3d05897770800000000000000
+      internalID: 8609058454645385214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a35fca2592a48e0800000000000000
+      internalID: -1708507673567872411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54b7e029ed6a6e90800000000000000
+      internalID: -7031687020138744739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fba3d739873e3120800000000000000
+      internalID: 2395413114294348792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d983e26dd7274f0800000000000000
+      internalID: -832464622258184950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7759d53945b6c15d0800000000000000
+      internalID: -3090477233289194121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf02d03e729448e0800000000000000
+      internalID: -1710080887811338312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f87dea35b94e4d0800000000000000
+      internalID: -3106187059260846333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f64efb09611def90800000000000000
+      internalID: -6922857909328132360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e212f1a46aa78b50800000000000000
+      internalID: 6595427528497828584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b4228081135f920800000000000000
+      internalID: 3023376704134597484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e86f6394808e680800000000000000
+      internalID: -8725715167482573252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcordeDisonante_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ca912cd0ad21e80800000000000000
+      internalID: -8209259418117100503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: be5232b1d88bf184da5b69ce5af486f4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AcordeDisonante_0: 3522615393195660811
+      AcordeDisonante_1: 6209082405493915417
+      AcordeDisonante_10: -7031687020138744739
+      AcordeDisonante_11: 2395413114294348792
+      AcordeDisonante_12: -832464622258184950
+      AcordeDisonante_13: -3090477233289194121
+      AcordeDisonante_14: -1710080887811338312
+      AcordeDisonante_15: -3106187059260846333
+      AcordeDisonante_16: -6922857909328132360
+      AcordeDisonante_17: 6595427528497828584
+      AcordeDisonante_18: 3023376704134597484
+      AcordeDisonante_19: -8725715167482573252
+      AcordeDisonante_2: 6990640637227567097
+      AcordeDisonante_20: -8209259418117100503
+      AcordeDisonante_3: -6065769403214593155
+      AcordeDisonante_4: -6963415576204913835
+      AcordeDisonante_5: -906602056572325508
+      AcordeDisonante_6: 3396156595257348518
+      AcordeDisonante_7: -7694147958177778973
+      AcordeDisonante_8: 8609058454645385214
+      AcordeDisonante_9: -1708507673567872411
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

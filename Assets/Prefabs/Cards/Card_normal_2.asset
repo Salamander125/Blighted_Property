@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c8d3ce070a9f204887cfc3f63adc927, type: 3}
+  m_Name: Card_normal_2
+  m_EditorClassIdentifier: 
+  rarity: 1
+  description: "Aumenta en 10 el da\xF1o base de los aliados"
+  buffType: 2
+  amount: 10
+  appliesState: 0
+  stateToApply: 0
+  stateDuration: 3

@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 28cc97599daf50445accac84233f652e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6547757722381936875
+    second: EmpujeToxico_0
+  - first:
+      213: -4780211554459559678
+    second: EmpujeToxico_1
+  - first:
+      213: 2775190085481098752
+    second: EmpujeToxico_2
+  - first:
+      213: -7565069357908191862
+    second: EmpujeToxico_3
+  - first:
+      213: -4255711941549214932
+    second: EmpujeToxico_4
+  - first:
+      213: -4882472875295583832
+    second: EmpujeToxico_5
+  - first:
+      213: -7277174495991891240
+    second: EmpujeToxico_6
+  - first:
+      213: 3924149829667267588
+    second: EmpujeToxico_7
+  - first:
+      213: -496195089812935267
+    second: EmpujeToxico_8
+  - first:
+      213: 74765637423508979
+    second: EmpujeToxico_9
+  - first:
+      213: -8769721945676547301
+    second: EmpujeToxico_10
+  - first:
+      213: 4007701522453443921
+    second: EmpujeToxico_11
+  - first:
+      213: 5791735574275929308
+    second: EmpujeToxico_12
+  - first:
+      213: -7523599298433946635
+    second: EmpujeToxico_13
+  - first:
+      213: 4271991293689024852
+    second: EmpujeToxico_14
+  - first:
+      213: 2351596958153454354
+    second: EmpujeToxico_15
+  - first:
+      213: -8401384462747521344
+    second: EmpujeToxico_16
+  - first:
+      213: 5000435422480221454
+    second: EmpujeToxico_17
+  - first:
+      213: 2680630684495948991
+    second: EmpujeToxico_18
+  - first:
+      213: 838130671122858746
+    second: EmpujeToxico_19
+  - first:
+      213: -2146351976522807017
+    second: EmpujeToxico_20
+  - first:
+      213: -3680915716365654763
+    second: EmpujeToxico_21
+  - first:
+      213: 9011358201899308807
+    second: EmpujeToxico_22
+  - first:
+      213: -222405216839644942
+    second: EmpujeToxico_23
+  - first:
+      213: -3118631266507530564
+    second: EmpujeToxico_24
+  - first:
+      213: 4931073139328408031
+    second: EmpujeToxico_25
+  - first:
+      213: 1250367501870932417
+    second: EmpujeToxico_26
+  - first:
+      213: -8002130176105467307
+    second: EmpujeToxico_27
+  - first:
+      213: 3720269580626879502
+    second: EmpujeToxico_28
+  - first:
+      213: -7949524457165040319
+    second: EmpujeToxico_29
+  - first:
+      213: 3107531101758046845
+    second: EmpujeToxico_30
+  - first:
+      213: -1435854923737012779
+    second: EmpujeToxico_31
+  - first:
+      213: 3594162185781391035
+    second: EmpujeToxico_32
+  - first:
+      213: -390076073322385469
+    second: EmpujeToxico_33
+  - first:
+      213: 5513764399028727580
+    second: EmpujeToxico_34
+  - first:
+      213: -7993227065775740998
+    second: EmpujeToxico_35
+  - first:
+      213: 4778092044593726044
+    second: EmpujeToxico_36
+  - first:
+      213: -8538182780791758594
+    second: EmpujeToxico_37
+  - first:
+      213: 7248625072027347559
+    second: EmpujeToxico_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EmpujeToxico_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5179a120b01b125a0800000000000000
+      internalID: -6547757722381936875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmpujeToxico_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2095839fae649adb0800000000000000
+      internalID: -4780211554459559678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmpujeToxico_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e694ddda4738620800000000000000
+      internalID: 2775190085481098752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmpujeToxico_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8590bc1089730790800000000000000
+      internalID: -7565069357908191862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmpujeToxico_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c233291798ca0f4c0800000000000000
+      internalID: -4255711941549214932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmpujeToxico_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1d682d9c8fd3cb0800000000000000
+      internalID: -4882472875295583832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmpujeToxico_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dafedd1a58420b90800000000000000
+      internalID: -7277174495991891240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmpujeToxico_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4042ab2aa71657630800000000000000
+      internalID: 3924149829667267588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmpujeToxico_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d286cd1392d19f0800000000000000
+      internalID: -496195089812935267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b2968903cdfce3948bcbaeda40812a8e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EmpujeToxico_0: -6547757722381936875
+      EmpujeToxico_1: -4780211554459559678
+      EmpujeToxico_2: 2775190085481098752
+      EmpujeToxico_3: -7565069357908191862
+      EmpujeToxico_4: -4255711941549214932
+      EmpujeToxico_5: -4882472875295583832
+      EmpujeToxico_6: -7277174495991891240
+      EmpujeToxico_7: 3924149829667267588
+      EmpujeToxico_8: -496195089812935267
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

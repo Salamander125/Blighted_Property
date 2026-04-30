@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 9c1a1ad3b4feb834fa377c71d1ab0ea5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5563574903817134728
+    second: CharcoMetalico_0
+  - first:
+      213: -2083816140970703812
+    second: CharcoMetalico_1
+  - first:
+      213: -6345600349450594682
+    second: CharcoMetalico_2
+  - first:
+      213: 2092622827004636460
+    second: CharcoMetalico_3
+  - first:
+      213: -5340788025509298724
+    second: CharcoMetalico_4
+  - first:
+      213: 8408686091684797677
+    second: CharcoMetalico_5
+  - first:
+      213: 6987492476720745035
+    second: CharcoMetalico_6
+  - first:
+      213: -4228016176304843903
+    second: CharcoMetalico_7
+  - first:
+      213: 1233161599043750961
+    second: CharcoMetalico_8
+  - first:
+      213: -3597848695067996223
+    second: CharcoMetalico_9
+  - first:
+      213: -8830543573236275510
+    second: CharcoMetalico_10
+  - first:
+      213: 8168593385350984209
+    second: CharcoMetalico_11
+  - first:
+      213: -3840669219573179508
+    second: CharcoMetalico_12
+  - first:
+      213: 4891846470887406830
+    second: CharcoMetalico_13
+  - first:
+      213: -4418973172585178728
+    second: CharcoMetalico_14
+  - first:
+      213: 6382016787953904724
+    second: CharcoMetalico_15
+  - first:
+      213: -5547734496014964318
+    second: CharcoMetalico_16
+  - first:
+      213: -854098977131579029
+    second: CharcoMetalico_17
+  - first:
+      213: -4066246091847526799
+    second: CharcoMetalico_18
+  - first:
+      213: 6865830997243867720
+    second: CharcoMetalico_19
+  - first:
+      213: -1552782510079217931
+    second: CharcoMetalico_20
+  - first:
+      213: -2258354525241119578
+    second: CharcoMetalico_21
+  - first:
+      213: -2665399306151261987
+    second: CharcoMetalico_22
+  - first:
+      213: 3354953940420510075
+    second: CharcoMetalico_23
+  - first:
+      213: -5887164891902366402
+    second: CharcoMetalico_24
+  - first:
+      213: -7873197741774404074
+    second: CharcoMetalico_25
+  - first:
+      213: 2508374048469161014
+    second: CharcoMetalico_26
+  - first:
+      213: 5789828078423923077
+    second: CharcoMetalico_27
+  - first:
+      213: -6028023468281319640
+    second: CharcoMetalico_28
+  - first:
+      213: 5700393694809955443
+    second: CharcoMetalico_29
+  - first:
+      213: 6372180469573494383
+    second: CharcoMetalico_30
+  - first:
+      213: -8122032284713222054
+    second: CharcoMetalico_31
+  - first:
+      213: 2658871830505292856
+    second: CharcoMetalico_32
+  - first:
+      213: -5038967453493551062
+    second: CharcoMetalico_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ImpactoMetalico_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 140
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947b8d2d38ddaea4684ee07f90ae46a8
+      internalID: 440913489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactoMetalico_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 140
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13cca51e8491db42bdb1be8bfe876a7
+      internalID: -2070667821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactoMetalico_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 140
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ca3e62485a8f745a5fd3f01dffed57
+      internalID: 528590075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactoMetalico_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 140
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbf10d28c66f4f4b90b5691497803d4
+      internalID: -564887598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactoMetalico_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 140
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f2444b0ef444943810797ea43375e6
+      internalID: 2034119221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactoMetalico_5
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 140
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a74252dc4a64b84dab16a49fab1655f
+      internalID: 1269429231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactoMetalico_6
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 140
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde15231b94c6954780a9afd4459a57a
+      internalID: 320090077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 29a6691f86cb659468957d0294fd5dc5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ImpactoMetalico_0: 440913489
+      ImpactoMetalico_1: -2070667821
+      ImpactoMetalico_2: 528590075
+      ImpactoMetalico_3: -564887598
+      ImpactoMetalico_4: 2034119221
+      ImpactoMetalico_5: 1269429231
+      ImpactoMetalico_6: 320090077
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

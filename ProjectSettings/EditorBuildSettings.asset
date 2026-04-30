@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login_scene.unity
+    guid: 0c07be1208d03b341b7cc5474bb88736
+  - enabled: 1
+    path: Assets/Scenes/First_scene.unity
+    guid: 5530ec199205a0744a33a3d9385562f1
+  - enabled: 1
+    path: Assets/Scenes/Character_selector.unity
+    guid: bb63250953f33064cb39cb336977f254
+  - enabled: 1
+    path: Assets/Scenes/LoadMatch_scene.unity
+    guid: 3395b79e567bfb44a84568771af22bff
+  - enabled: 1
+    path: Assets/Scenes/Combat_scene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0

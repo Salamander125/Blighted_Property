@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: 9ed53182606ffe74e842d451e24cca83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2591040808304887652
+    second: CancionDelBosque_0
+  - first:
+      213: -5107852893058206864
+    second: CancionDelBosque_1
+  - first:
+      213: -8276368555566026584
+    second: CancionDelBosque_2
+  - first:
+      213: 6527462398808522095
+    second: CancionDelBosque_3
+  - first:
+      213: 7454243459799418779
+    second: CancionDelBosque_4
+  - first:
+      213: 4429542293790133934
+    second: CancionDelBosque_5
+  - first:
+      213: 2617297740069170687
+    second: CancionDelBosque_6
+  - first:
+      213: 2635958238703875012
+    second: CancionDelBosque_7
+  - first:
+      213: 4813658639350300217
+    second: CancionDelBosque_8
+  - first:
+      213: -1116864509155947357
+    second: CancionDelBosque_9
+  - first:
+      213: 1577694674393379424
+    second: CancionDelBosque_10
+  - first:
+      213: 1727295183619521818
+    second: CancionDelBosque_11
+  - first:
+      213: 6585982361598460532
+    second: CancionDelBosque_12
+  - first:
+      213: -5347211972582438662
+    second: CancionDelBosque_13
+  - first:
+      213: -6192696605118485121
+    second: CancionDelBosque_14
+  - first:
+      213: 153072589423988279
+    second: CancionDelBosque_15
+  - first:
+      213: -4225149007666250910
+    second: CancionDelBosque_16
+  - first:
+      213: -6197880647852007725
+    second: CancionDelBosque_17
+  - first:
+      213: 2056598180593801147
+    second: CancionDelBosque_18
+  - first:
+      213: -6452591416307249501
+    second: CancionDelBosque_19
+  - first:
+      213: -8365810105230068110
+    second: CancionDelBosque_20
+  - first:
+      213: -7880597696219659216
+    second: CancionDelBosque_21
+  - first:
+      213: -2672012647195903292
+    second: CancionDelBosque_22
+  - first:
+      213: 6535312526849235014
+    second: CancionDelBosque_23
+  - first:
+      213: 9123843344231673055
+    second: CancionDelBosque_24
+  - first:
+      213: 6841973659939122407
+    second: CancionDelBosque_25
+  - first:
+      213: -2223946898934989705
+    second: CancionDelBosque_26
+  - first:
+      213: 8314589047249699145
+    second: CancionDelBosque_27
+  - first:
+      213: 8429371121496892138
+    second: CancionDelBosque_28
+  - first:
+      213: 6504853919225986840
+    second: CancionDelBosque_29
+  - first:
+      213: -7255933153999934253
+    second: CancionDelBosque_30
+  - first:
+      213: 8288437150744248012
+    second: CancionDelBosque_31
+  - first:
+      213: -2281835575967836126
+    second: CancionDelBosque_32
+  - first:
+      213: 8090555527018053559
+    second: CancionDelBosque_33
+  - first:
+      213: 2879469207687672625
+    second: CancionDelBosque_34
+  - first:
+      213: 2283660722130167183
+    second: CancionDelBosque_35
+  - first:
+      213: 6778749226823391651
+    second: CancionDelBosque_36
+  - first:
+      213: 3808785698631216478
+    second: CancionDelBosque_37
+  - first:
+      213: -8082181557930807541
+    second: CancionDelBosque_38
+  - first:
+      213: -6805433937121445821
+    second: CancionDelBosque_39
+  - first:
+      213: 1706230864932929791
+    second: CancionDelBosque_40
+  - first:
+      213: 4917675234537245926
+    second: CancionDelBosque_41
+  - first:
+      213: 6835992338502429493
+    second: CancionDelBosque_42
+  - first:
+      213: -357992207105854021
+    second: CancionDelBosque_43
+  - first:
+      213: 5607839111691622937
+    second: CancionDelBosque_44
+  - first:
+      213: -6338902313062011142
+    second: CancionDelBosque_45
+  - first:
+      213: 402622573338702229
+    second: CancionDelBosque_46
+  - first:
+      213: 4984571077701904245
+    second: CancionDelBosque_47
+  - first:
+      213: 5979952239295727827
+    second: CancionDelBosque_48
+  - first:
+      213: -2679890302957918307
+    second: CancionDelBosque_49
+  - first:
+      213: 8865580427252170117
+    second: CancionDelBosque_50
+  - first:
+      213: -3776889720977168054
+    second: CancionDelBosque_51
+  - first:
+      213: -3470722854324631457
+    second: CancionDelBosque_52
+  - first:
+      213: 5140747568572477974
+    second: CancionDelBosque_53
+  - first:
+      213: 6140940895467033182
+    second: CancionDelBosque_54
+  - first:
+      213: -3183238283731059119
+    second: CancionDelBosque_55
+  - first:
+      213: -8796219435389962700
+    second: CancionDelBosque_56
+  - first:
+      213: -3040609089047020815
+    second: CancionDelBosque_57
+  - first:
+      213: -292197157724323177
+    second: CancionDelBosque_58
+  - first:
+      213: 1068080508410429041
+    second: CancionDelBosque_59
+  - first:
+      213: -8272602519917807586
+    second: CancionDelBosque_60
+  - first:
+      213: 1192863856702678512
+    second: CancionDelBosque_61
+  - first:
+      213: 923788143516531402
+    second: CancionDelBosque_62
+  - first:
+      213: 5874226612174543004
+    second: CancionDelBosque_63
+  - first:
+      213: -5131377160507169088
+    second: CancionDelBosque_64
+  - first:
+      213: 1758401042099008772
+    second: CancionDelBosque_65
+  - first:
+      213: -52633071919671224
+    second: CancionDelBosque_66
+  - first:
+      213: 5638790998782190038
+    second: CancionDelBosque_67
+  - first:
+      213: 7294229203500989619
+    second: CancionDelBosque_68
+  - first:
+      213: 2040301840195833722
+    second: CancionDelBosque_69
+  - first:
+      213: 3350470952495189322
+    second: CancionDelBosque_70
+  - first:
+      213: -1121879830066465340
+    second: CancionDelBosque_71
+  - first:
+      213: 633806888540324106
+    second: CancionDelBosque_72
+  - first:
+      213: -295622414908026630
+    second: CancionDelBosque_73
+  - first:
+      213: 6501285528912878090
+    second: CancionDelBosque_74
+  - first:
+      213: 4365436618686891644
+    second: CancionDelBosque_75
+  - first:
+      213: 7779716310023526643
+    second: CancionDelBosque_76
+  - first:
+      213: -5506997727553580539
+    second: CancionDelBosque_77
+  - first:
+      213: -5794182586114586637
+    second: CancionDelBosque_78
+  - first:
+      213: -7014426753646418188
+    second: CancionDelBosque_79
+  - first:
+      213: -4842521410165584889
+    second: CancionDelBosque_80
+  - first:
+      213: -2500937177764185074
+    second: CancionDelBosque_81
+  - first:
+      213: 3669004317774569494
+    second: CancionDelBosque_82
+  - first:
+      213: 400886681770556032
+    second: CancionDelBosque_83
+  - first:
+      213: -8964829299076621990
+    second: CancionDelBosque_84
+  - first:
+      213: -8066992871696103116
+    second: CancionDelBosque_85
+  - first:
+      213: -4448092279541082544
+    second: CancionDelBosque_86
+  - first:
+      213: 1749930390285788301
+    second: CancionDelBosque_87
+  - first:
+      213: -4301574038445906638
+    second: CancionDelBosque_88
+  - first:
+      213: 6118851870172585281
+    second: CancionDelBosque_89
+  - first:
+      213: -7343897070661597147
+    second: CancionDelBosque_90
+  - first:
+      213: -5508207094171158677
+    second: CancionDelBosque_91
+  - first:
+      213: 5337067065484285730
+    second: CancionDelBosque_92
+  - first:
+      213: 7806108992988382024
+    second: CancionDelBosque_93
+  - first:
+      213: 5662909284133557049
+    second: CancionDelBosque_94
+  - first:
+      213: -8523732973620663383
+    second: CancionDelBosque_95
+  - first:
+      213: -6687678632907256290
+    second: CancionDelBosque_96
+  - first:
+      213: 5811012419986967925
+    second: CancionDelBosque_97
+  - first:
+      213: 8624200346467069512
+    second: CancionDelBosque_98
+  - first:
+      213: 8207144921003317841
+    second: CancionDelBosque_99
+  - first:
+      213: 9147068239870826813
+    second: CancionDelBosque_100
+  - first:
+      213: 4714489847490646637
+    second: CancionDelBosque_101
+  - first:
+      213: 1049485718820425067
+    second: CancionDelBosque_102
+  - first:
+      213: -3093553068347756293
+    second: CancionDelBosque_103
+  - first:
+      213: -2812794930898246513
+    second: CancionDelBosque_104
+  - first:
+      213: 4711708698097534375
+    second: CancionDelBosque_105
+  - first:
+      213: 6771167557667220231
+    second: CancionDelBosque_106
+  - first:
+      213: -9108986489203891811
+    second: CancionDelBosque_107
+  - first:
+      213: 4261500438095781038
+    second: CancionDelBosque_108
+  - first:
+      213: -7985541477360853783
+    second: CancionDelBosque_109
+  - first:
+      213: 8270608686031900051
+    second: CancionDelBosque_110
+  - first:
+      213: -2756473715521202715
+    second: CancionDelBosque_111
+  - first:
+      213: 7620048236864092954
+    second: CancionDelBosque_112
+  - first:
+      213: 6342470930844384595
+    second: CancionDelBosque_113
+  - first:
+      213: -8248433156579310488
+    second: CancionDelBosque_114
+  - first:
+      213: -6097275075234958152
+    second: CancionDelBosque_115
+  - first:
+      213: 392363413584261357
+    second: CancionDelBosque_116
+  - first:
+      213: 4127854405404195956
+    second: CancionDelBosque_117
+  - first:
+      213: -1694803704058595556
+    second: CancionDelBosque_118
+  - first:
+      213: -4909920615773031101
+    second: CancionDelBosque_119
+  - first:
+      213: -8846039951118728085
+    second: CancionDelBosque_120
+  - first:
+      213: 7353676907877769328
+    second: CancionDelBosque_121
+  - first:
+      213: 3961230407291898793
+    second: CancionDelBosque_122
+  - first:
+      213: 8738665766990031178
+    second: CancionDelBosque_123
+  - first:
+      213: 4094827585725206958
+    second: CancionDelBosque_124
+  - first:
+      213: 4793321256104288480
+    second: CancionDelBosque_125
+  - first:
+      213: 1915626550652805680
+    second: CancionDelBosque_126
+  - first:
+      213: -1555557665015905075
+    second: CancionDelBosque_127
+  - first:
+      213: -8674549031291105364
+    second: CancionDelBosque_128
+  - first:
+      213: -7331729294784165633
+    second: CancionDelBosque_129
+  - first:
+      213: -7816054499757373546
+    second: CancionDelBosque_130
+  - first:
+      213: -4435952199500104168
+    second: CancionDelBosque_131
+  - first:
+      213: -9174542599903560736
+    second: CancionDelBosque_132
+  - first:
+      213: 6080264342787528376
+    second: CancionDelBosque_133
+  - first:
+      213: -443432078761044835
+    second: CancionDelBosque_134
+  - first:
+      213: 4566786545355717706
+    second: CancionDelBosque_135
+  - first:
+      213: -7099200045524951714
+    second: CancionDelBosque_136
+  - first:
+      213: 1888261311011715996
+    second: CancionDelBosque_137
+  - first:
+      213: 6130912262965777356
+    second: CancionDelBosque_138
+  - first:
+      213: 828535036920535015
+    second: CancionDelBosque_139
+  - first:
+      213: 6109900118843829678
+    second: CancionDelBosque_140
+  - first:
+      213: 6315235637411572145
+    second: CancionDelBosque_141
+  - first:
+      213: 5965958124762956715
+    second: CancionDelBosque_142
+  - first:
+      213: -918403300482410458
+    second: CancionDelBosque_143
+  - first:
+      213: -6081554571106965898
+    second: CancionDelBosque_144
+  - first:
+      213: -8966136149012681894
+    second: CancionDelBosque_145
+  - first:
+      213: -6832326485671070792
+    second: CancionDelBosque_146
+  - first:
+      213: 2805839932282102748
+    second: CancionDelBosque_147
+  - first:
+      213: -7337722008396672304
+    second: CancionDelBosque_148
+  - first:
+      213: -6093144333302298684
+    second: CancionDelBosque_149
+  - first:
+      213: 4240557263358439339
+    second: CancionDelBosque_150
+  - first:
+      213: 1668268044561405499
+    second: CancionDelBosque_151
+  - first:
+      213: 981046933255431775
+    second: CancionDelBosque_152
+  - first:
+      213: -448192140013161186
+    second: CancionDelBosque_153
+  - first:
+      213: -3348966227522179522
+    second: CancionDelBosque_154
+  - first:
+      213: -9041606127755722709
+    second: CancionDelBosque_155
+  - first:
+      213: -5537611510630848607
+    second: CancionDelBosque_156
+  - first:
+      213: 3642443871094806074
+    second: CancionDelBosque_157
+  - first:
+      213: 1823239781318286724
+    second: CancionDelBosque_158
+  - first:
+      213: -376145303924069875
+    second: CancionDelBosque_159
+  - first:
+      213: -4427144472650493936
+    second: CancionDelBosque_160
+  - first:
+      213: 2856483470195870295
+    second: CancionDelBosque_161
+  - first:
+      213: -2045002547779876222
+    second: CancionDelBosque_162
+  - first:
+      213: -7689347756432357193
+    second: CancionDelBosque_163
+  - first:
+      213: -5156450630098828931
+    second: CancionDelBosque_164
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CancionDelBosque_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467cd8123e935f320800000000000000
+      internalID: 2591040808304887652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07370583bd24d19b0800000000000000
+      internalID: -5107852893058206864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0364716ae642d80800000000000000
+      internalID: -8276368555566026584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d73bdb774369a50800000000000000
+      internalID: 6527462398808522095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b978f92beeac27760800000000000000
+      internalID: 7454243459799418779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae0eea5f35e87d30800000000000000
+      internalID: 4429542293790133934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd61447d62825420800000000000000
+      internalID: 2617297740069170687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c375bc5d0ec49420800000000000000
+      internalID: 2635958238703875012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ef674570d8dc240800000000000000
+      internalID: 4813658639350300217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acc48575a91080f0800000000000000
+      internalID: -1116864509155947357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0623e3782f815e510800000000000000
+      internalID: 1577694674393379424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d72e161d598f710800000000000000
+      internalID: 1727295183619521818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4728018501c166b50800000000000000
+      internalID: 6585982361598460532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8028baa03eac5b0800000000000000
+      internalID: -5347211972582438662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d252a7f3f1f0aa0800000000000000
+      internalID: -6192696605118485121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e477585b2df1200800000000000000
+      internalID: 153072589423988279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b75f20d514d55c0800000000000000
+      internalID: -4225149007666250910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CancionDelBosque_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de53887364bcf9a0800000000000000
+      internalID: -6197880647852007725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7c816f117ec2be3448f81f510057a072
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CancionDelBosque_0: 2591040808304887652
+      CancionDelBosque_1: -5107852893058206864
+      CancionDelBosque_10: 1577694674393379424
+      CancionDelBosque_11: 1727295183619521818
+      CancionDelBosque_12: 6585982361598460532
+      CancionDelBosque_13: -5347211972582438662
+      CancionDelBosque_14: -6192696605118485121
+      CancionDelBosque_15: 153072589423988279
+      CancionDelBosque_16: -4225149007666250910
+      CancionDelBosque_17: -6197880647852007725
+      CancionDelBosque_2: -8276368555566026584
+      CancionDelBosque_3: 6527462398808522095
+      CancionDelBosque_4: 7454243459799418779
+      CancionDelBosque_5: 4429542293790133934
+      CancionDelBosque_6: 2617297740069170687
+      CancionDelBosque_7: 2635958238703875012
+      CancionDelBosque_8: 4813658639350300217
+      CancionDelBosque_9: -1116864509155947357
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,294 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7143662801253382752
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6428340633269934362}
+  m_Layer: 8
+  m_Name: FaceAnchor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6428340633269934362
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7143662801253382752}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.064, y: 0.336, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2818296682120673679}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7465859441329334029
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2818296682120673679}
+  - component: {fileID: 473404548872116029}
+  - component: {fileID: 1262124038060232222}
+  - component: {fileID: 16320320908757688}
+  - component: {fileID: 4381972525010305062}
+  - component: {fileID: 7840844841917043893}
+  - component: {fileID: 8806289341199067435}
+  m_Layer: 8
+  m_Name: Merida
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2818296682120673679
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7465859441329334029}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6, y: 2.3, z: 0}
+  m_LocalScale: {x: 4.3, y: 4.3, z: 4.3}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 6428340633269934362}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &473404548872116029
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7465859441329334029}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: -1421552201750721945, guid: bf62074b7d565914a811999121ebb47e, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 1
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.4921875, y: 0.9140625}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!95 &1262124038060232222
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7465859441329334029}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 2f1e004959e5e284498d18dcbfa9e9ac, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &16320320908757688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7465859441329334029}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b332c3c388c7a74095404fd2557a49c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  faction: 1
+  damagePopupPrefab: {fileID: 6585687843233639251, guid: fc85d8d9b5756b6458c144ca61e8bcb8, type: 3}
+  damagePopupOffset: {x: 0, y: 1.5, z: 0}
+  activeEffects: []
+  portraitIcon: {fileID: -3679900664859113437, guid: 6fc88d1589c7c8d49a6b97d7fb13b5e4, type: 3}
+  life: 200
+  attack: 25
+  speed: 200
+  mana: 250
+  defense: 0.2
+  critChance: 5
+  evasion: 19
+  textSpeed: 0.05
+  lifeRegenPerFloor: 15
+  manaRegenPerFloor: 15
+  deadSprite: {fileID: 3371719036434570380, guid: 44ccc2ed8010dbe4e99f85a74683f7ac, type: 3}
+  isDead: 0
+  combat: {fileID: 0}
+  combatController: {fileID: 0}
+--- !u!114 &4381972525010305062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7465859441329334029}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66918b89a3b5c1b4e828a43fbd9fa780, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterAbility: {fileID: 0}
+  grid: {fileID: 0}
+  player: {fileID: 16320320908757688}
+  combat: {fileID: 0}
+  abilityMenuUI: {fileID: 0}
+  waitingForTarget: 0
+  selectedAbility:
+    ownerCharacter: 
+    nombre: 
+    damage: 0
+    manaCost: 0
+    healAmount: 0
+    targetsAllies: 0
+    shape: 0
+    range: 1
+    aplicaEstado: 0
+    tipoEstado: 0
+    duracionEstado: 0
+    potenciaEstado: 0
+    moveOffset: {x: 0, y: 0}
+    spawnOffset: {x: 0, y: 0, z: 0}
+    prefabPath: 
+    prefabPorCasilla: 1
+    secuencial: 0
+    delayEntreCasillas: 0.1
+    esUnitarget: 0
+    tipoMovimiento: 0
+--- !u!114 &7840844841917043893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7465859441329334029}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa548bfb4329ee94e942004d83aa0999, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  selectedScale: 0.23
+  normalScale: 0.2
+  panelOffsetX: 150
+  panelOffsetY: 0
+  tiempoAnimacion: 0.15
+  selectingAllyTarget: 0
+  showingAbilityMenu: 0
+  selectingTarget: 0
+  inspecting: 0
+  inspectingAlly: 0
+--- !u!114 &8806289341199067435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7465859441329334029}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fe85c8055c2b4a4491b55fae0df50db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterName: Merida
+  abilities:
+  - ownerCharacter: 
+    nombre: Rayo Oscuro
+    damage: 40
+    manaCost: 20
+    healAmount: 0
+    targetsAllies: 0
+    shape: 1
+    range: 1
+    aplicaEstado: 1
+    tipoEstado: 2
+    duracionEstado: 3
+    potenciaEstado: 2
+    moveOffset: {x: 1, y: 0}
+    spawnOffset: {x: 0, y: 0, z: 0}
+    prefabPath: 
+    prefabPorCasilla: 1
+    secuencial: 0
+    delayEntreCasillas: 0.1
+    esUnitarget: 0
+    tipoMovimiento: 3
+  - ownerCharacter: 
+    nombre: Abisal
+    damage: 60
+    manaCost: 60
+    healAmount: 0
+    targetsAllies: 0
+    shape: 5
+    range: 1
+    aplicaEstado: 1
+    tipoEstado: 0
+    duracionEstado: 0
+    potenciaEstado: 0
+    moveOffset: {x: 0, y: 0}
+    spawnOffset: {x: 0, y: 0, z: 0}
+    prefabPath: 
+    prefabPorCasilla: 0
+    secuencial: 0
+    delayEntreCasillas: 0.1
+    esUnitarget: 0
+    tipoMovimiento: 1

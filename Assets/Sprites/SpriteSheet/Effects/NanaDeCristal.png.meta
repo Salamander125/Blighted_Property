@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: 5a391ab62ef12924db6632ad3edd6394
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1553452520524791651
+    second: NanaDeCristal_0
+  - first:
+      213: -6471317375377759270
+    second: NanaDeCristal_1
+  - first:
+      213: -7840539166819373021
+    second: NanaDeCristal_2
+  - first:
+      213: -202523494437973439
+    second: NanaDeCristal_3
+  - first:
+      213: 6077312273789448190
+    second: NanaDeCristal_4
+  - first:
+      213: -6993473532208585648
+    second: NanaDeCristal_5
+  - first:
+      213: 524350301977554157
+    second: NanaDeCristal_6
+  - first:
+      213: -7021035038463370479
+    second: NanaDeCristal_7
+  - first:
+      213: -5701291362685098438
+    second: NanaDeCristal_8
+  - first:
+      213: 6613829786789697964
+    second: NanaDeCristal_9
+  - first:
+      213: -5912276264456550599
+    second: NanaDeCristal_10
+  - first:
+      213: 4598329789225972931
+    second: NanaDeCristal_11
+  - first:
+      213: 8954533981836620945
+    second: NanaDeCristal_12
+  - first:
+      213: 7758423927501077942
+    second: NanaDeCristal_13
+  - first:
+      213: -7769487918938600331
+    second: NanaDeCristal_14
+  - first:
+      213: 4397570437857441520
+    second: NanaDeCristal_15
+  - first:
+      213: 5871686363118732587
+    second: NanaDeCristal_16
+  - first:
+      213: 4854678757217404699
+    second: NanaDeCristal_17
+  - first:
+      213: -3781777071775645479
+    second: NanaDeCristal_18
+  - first:
+      213: -2242054141039897480
+    second: NanaDeCristal_19
+  - first:
+      213: 2596433685438235631
+    second: NanaDeCristal_20
+  - first:
+      213: -8738209325540926822
+    second: NanaDeCristal_21
+  - first:
+      213: 1761386146468655309
+    second: NanaDeCristal_22
+  - first:
+      213: 3480433057874770383
+    second: NanaDeCristal_23
+  - first:
+      213: 6617948325204020498
+    second: NanaDeCristal_24
+  - first:
+      213: -7595103302927718551
+    second: NanaDeCristal_25
+  - first:
+      213: 2325290148342769144
+    second: NanaDeCristal_26
+  - first:
+      213: -8587697028716650303
+    second: NanaDeCristal_27
+  - first:
+      213: -1551003507153990183
+    second: NanaDeCristal_28
+  - first:
+      213: 6147594437818015912
+    second: NanaDeCristal_29
+  - first:
+      213: 4423216191692202319
+    second: NanaDeCristal_30
+  - first:
+      213: -6211081000901511125
+    second: NanaDeCristal_31
+  - first:
+      213: -8467425441286172751
+    second: NanaDeCristal_32
+  - first:
+      213: -2860866528376028559
+    second: NanaDeCristal_33
+  - first:
+      213: -8785699494720311260
+    second: NanaDeCristal_34
+  - first:
+      213: -4533141846950046864
+    second: NanaDeCristal_35
+  - first:
+      213: 5486257297249130589
+    second: NanaDeCristal_36
+  - first:
+      213: -520555764022664667
+    second: NanaDeCristal_37
+  - first:
+      213: 3503170456070249817
+    second: NanaDeCristal_38
+  - first:
+      213: 1721073387240189831
+    second: NanaDeCristal_39
+  - first:
+      213: -988356040799587849
+    second: NanaDeCristal_40
+  - first:
+      213: -7397397350705224708
+    second: NanaDeCristal_41
+  - first:
+      213: -1826273770792126690
+    second: NanaDeCristal_42
+  - first:
+      213: 4288995608228273788
+    second: NanaDeCristal_43
+  - first:
+      213: 2600421743737576886
+    second: NanaDeCristal_44
+  - first:
+      213: 5382171089661120487
+    second: NanaDeCristal_45
+  - first:
+      213: -7348160270024829100
+    second: NanaDeCristal_46
+  - first:
+      213: -1004170322742636038
+    second: NanaDeCristal_47
+  - first:
+      213: -1264004866854038538
+    second: NanaDeCristal_48
+  - first:
+      213: -2461491755661551803
+    second: NanaDeCristal_49
+  - first:
+      213: 7721307238998518568
+    second: NanaDeCristal_50
+  - first:
+      213: 6701393899711261029
+    second: NanaDeCristal_51
+  - first:
+      213: 2151319621292865195
+    second: NanaDeCristal_52
+  - first:
+      213: -4556001939175221811
+    second: NanaDeCristal_53
+  - first:
+      213: -5018549500785412298
+    second: NanaDeCristal_54
+  - first:
+      213: -2455610351772282952
+    second: NanaDeCristal_55
+  - first:
+      213: 5749344939109228565
+    second: NanaDeCristal_56
+  - first:
+      213: -4690633611187789237
+    second: NanaDeCristal_57
+  - first:
+      213: 8696610113555538290
+    second: NanaDeCristal_58
+  - first:
+      213: -8638786151122843006
+    second: NanaDeCristal_59
+  - first:
+      213: -528559278824265321
+    second: NanaDeCristal_60
+  - first:
+      213: 1325608865743832075
+    second: NanaDeCristal_61
+  - first:
+      213: 8683203961957942279
+    second: NanaDeCristal_62
+  - first:
+      213: -8460663066927604498
+    second: NanaDeCristal_63
+  - first:
+      213: -2451058356939760474
+    second: NanaDeCristal_64
+  - first:
+      213: 3015027844034329943
+    second: NanaDeCristal_65
+  - first:
+      213: -9058040713692203365
+    second: NanaDeCristal_66
+  - first:
+      213: 6800605833203316845
+    second: NanaDeCristal_67
+  - first:
+      213: -2458449517443924378
+    second: NanaDeCristal_68
+  - first:
+      213: -1931688321967028048
+    second: NanaDeCristal_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NanaDeCristal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d904fa2c927017ae0800000000000000
+      internalID: -1553452520524791651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanaDeCristal_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3abc332234136a0800000000000000
+      internalID: -6471317375377759270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanaDeCristal_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320b1323b2fc03390800000000000000
+      internalID: -7840539166819373021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanaDeCristal_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1429a5f64fd703df0800000000000000
+      internalID: -202523494437973439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanaDeCristal_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff67546053f65450800000000000000
+      internalID: 6077312273789448190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanaDeCristal_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0546c9e10e032fe90800000000000000
+      internalID: -6993473532208585648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanaDeCristal_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decad3f42ddd64700800000000000000
+      internalID: 524350301977554157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanaDeCristal_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bd1d0e4d5409e90800000000000000
+      internalID: -7021035038463370479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanaDeCristal_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36e62e56b1f0e0b0800000000000000
+      internalID: -5701291362685098438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanaDeCristal_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca95f76462b09cb50800000000000000
+      internalID: 6613829786789697964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanaDeCristal_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9370813ef0063fda0800000000000000
+      internalID: -5912276264456550599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanaDeCristal_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c439ee849c80df30800000000000000
+      internalID: 4598329789225972931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanaDeCristal_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194398c9635e44c70800000000000000
+      internalID: 8954533981836620945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanaDeCristal_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdb797c4757bab60800000000000000
+      internalID: 7758423927501077942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanaDeCristal_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cc9f8f6eb3d2490800000000000000
+      internalID: -7769487918938600331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanaDeCristal_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6704f830f470d30800000000000000
+      internalID: 4397570437857441520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanaDeCristal_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25823243ab6c7150800000000000000
+      internalID: 5871686363118732587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2d6bbfef172ca2d40a63bc1f6edeab60
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NanaDeCristal_0: -1553452520524791651
+      NanaDeCristal_1: -6471317375377759270
+      NanaDeCristal_10: -5912276264456550599
+      NanaDeCristal_11: 4598329789225972931
+      NanaDeCristal_12: 8954533981836620945
+      NanaDeCristal_13: 7758423927501077942
+      NanaDeCristal_14: -7769487918938600331
+      NanaDeCristal_15: 4397570437857441520
+      NanaDeCristal_16: 5871686363118732587
+      NanaDeCristal_2: -7840539166819373021
+      NanaDeCristal_3: -202523494437973439
+      NanaDeCristal_4: 6077312273789448190
+      NanaDeCristal_5: -6993473532208585648
+      NanaDeCristal_6: 524350301977554157
+      NanaDeCristal_7: -7021035038463370479
+      NanaDeCristal_8: -5701291362685098438
+      NanaDeCristal_9: 6613829786789697964
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

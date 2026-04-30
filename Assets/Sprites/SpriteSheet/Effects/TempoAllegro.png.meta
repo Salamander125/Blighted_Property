@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: ac3784f06d5b15e4a9b675694ef46634
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2248580983499917345
+    second: TempoAllegro_0
+  - first:
+      213: -2355026426152489292
+    second: TempoAllegro_1
+  - first:
+      213: 3210752636223759920
+    second: TempoAllegro_2
+  - first:
+      213: 3499495227283359871
+    second: TempoAllegro_3
+  - first:
+      213: 8124436938535188910
+    second: TempoAllegro_4
+  - first:
+      213: 1952032467781009541
+    second: TempoAllegro_5
+  - first:
+      213: -4980769630269850035
+    second: TempoAllegro_6
+  - first:
+      213: -8356592512649760249
+    second: TempoAllegro_7
+  - first:
+      213: -1903502409712787192
+    second: TempoAllegro_8
+  - first:
+      213: 3372616464863023467
+    second: TempoAllegro_9
+  - first:
+      213: -5436261407134652592
+    second: TempoAllegro_10
+  - first:
+      213: 8317780557617043001
+    second: TempoAllegro_11
+  - first:
+      213: -5963198472294500631
+    second: TempoAllegro_12
+  - first:
+      213: 1045592716593836551
+    second: TempoAllegro_13
+  - first:
+      213: 1329730883484283897
+    second: TempoAllegro_14
+  - first:
+      213: -2830295390471671092
+    second: TempoAllegro_15
+  - first:
+      213: -4201728194812106831
+    second: TempoAllegro_16
+  - first:
+      213: 5181499833062286285
+    second: TempoAllegro_17
+  - first:
+      213: -7901045096541268730
+    second: TempoAllegro_18
+  - first:
+      213: 7601622233903744558
+    second: TempoAllegro_19
+  - first:
+      213: -5611889928249530891
+    second: TempoAllegro_20
+  - first:
+      213: 8200616074179173243
+    second: TempoAllegro_21
+  - first:
+      213: 5539460518987721127
+    second: TempoAllegro_22
+  - first:
+      213: 294756308395692785
+    second: TempoAllegro_23
+  - first:
+      213: 7013674869084096060
+    second: TempoAllegro_24
+  - first:
+      213: 8586633781134355911
+    second: TempoAllegro_25
+  - first:
+      213: 7047901216124963873
+    second: TempoAllegro_26
+  - first:
+      213: -1728902823018455109
+    second: TempoAllegro_27
+  - first:
+      213: 1155967023862592155
+    second: TempoAllegro_28
+  - first:
+      213: 9203994433405563927
+    second: TempoAllegro_29
+  - first:
+      213: -2451315289646946169
+    second: TempoAllegro_30
+  - first:
+      213: -2496721807825504579
+    second: TempoAllegro_31
+  - first:
+      213: 5007299838065862845
+    second: TempoAllegro_32
+  - first:
+      213: -1734093801163982354
+    second: TempoAllegro_33
+  - first:
+      213: 5832990106021320621
+    second: TempoAllegro_34
+  - first:
+      213: 4601887528476915251
+    second: TempoAllegro_35
+  - first:
+      213: 4977763427080958324
+    second: TempoAllegro_36
+  - first:
+      213: 3949957447117564397
+    second: TempoAllegro_37
+  - first:
+      213: 5278945479051244982
+    second: TempoAllegro_38
+  - first:
+      213: -3559345856044501565
+    second: TempoAllegro_39
+  - first:
+      213: -7772934794914337263
+    second: TempoAllegro_40
+  - first:
+      213: 1276002326701151113
+    second: TempoAllegro_41
+  - first:
+      213: 169052189370765958
+    second: TempoAllegro_42
+  - first:
+      213: 8325764358367903806
+    second: TempoAllegro_43
+  - first:
+      213: 9212143686049913646
+    second: TempoAllegro_44
+  - first:
+      213: 7856907302511287931
+    second: TempoAllegro_45
+  - first:
+      213: -6996556540538795707
+    second: TempoAllegro_46
+  - first:
+      213: 5849977494577544082
+    second: TempoAllegro_47
+  - first:
+      213: -8439088846836865887
+    second: TempoAllegro_48
+  - first:
+      213: -2200415952653331514
+    second: TempoAllegro_49
+  - first:
+      213: 5262501726840529625
+    second: TempoAllegro_50
+  - first:
+      213: 6287562407081519693
+    second: TempoAllegro_51
+  - first:
+      213: 7917696074568654376
+    second: TempoAllegro_52
+  - first:
+      213: 5651413421560110790
+    second: TempoAllegro_53
+  - first:
+      213: 8047554588309101302
+    second: TempoAllegro_54
+  - first:
+      213: 6059812951777093662
+    second: TempoAllegro_55
+  - first:
+      213: -6584829427845051549
+    second: TempoAllegro_56
+  - first:
+      213: 6077875888098232102
+    second: TempoAllegro_57
+  - first:
+      213: 8568861795266618642
+    second: TempoAllegro_58
+  - first:
+      213: 300519698847836076
+    second: TempoAllegro_59
+  - first:
+      213: 7650421355864836105
+    second: TempoAllegro_60
+  - first:
+      213: -8958821392727518166
+    second: TempoAllegro_61
+  - first:
+      213: -6055373004846473446
+    second: TempoAllegro_62
+  - first:
+      213: 1068413478046273167
+    second: TempoAllegro_63
+  - first:
+      213: 4263309564601026497
+    second: TempoAllegro_64
+  - first:
+      213: 4752790636014610911
+    second: TempoAllegro_65
+  - first:
+      213: -4887075106700226102
+    second: TempoAllegro_66
+  - first:
+      213: 353463538994439416
+    second: TempoAllegro_67
+  - first:
+      213: 1810461788264381279
+    second: TempoAllegro_68
+  - first:
+      213: 3656839071431296860
+    second: TempoAllegro_69
+  - first:
+      213: 6566600283305555353
+    second: TempoAllegro_70
+  - first:
+      213: -8927618021620142113
+    second: TempoAllegro_71
+  - first:
+      213: 6434878419177728206
+    second: TempoAllegro_72
+  - first:
+      213: -8855894711420663319
+    second: TempoAllegro_73
+  - first:
+      213: 2046178521852912459
+    second: TempoAllegro_74
+  - first:
+      213: 1063450450932580193
+    second: TempoAllegro_75
+  - first:
+      213: 5411640163116688730
+    second: TempoAllegro_76
+  - first:
+      213: 6808333893645712789
+    second: TempoAllegro_77
+  - first:
+      213: 7280444225509015532
+    second: TempoAllegro_78
+  - first:
+      213: 8512438034400470393
+    second: TempoAllegro_79
+  - first:
+      213: -6020954571845073576
+    second: TempoAllegro_80
+  - first:
+      213: 3761732227635656726
+    second: TempoAllegro_81
+  - first:
+      213: -7640757959546899089
+    second: TempoAllegro_82
+  - first:
+      213: -7156767849704476912
+    second: TempoAllegro_83
+  - first:
+      213: 1995500313279920666
+    second: TempoAllegro_84
+  - first:
+      213: 1713296698786342585
+    second: TempoAllegro_85
+  - first:
+      213: 8934047252235853644
+    second: TempoAllegro_86
+  - first:
+      213: -8054784237577438420
+    second: TempoAllegro_87
+  - first:
+      213: -8887364337781609198
+    second: TempoAllegro_88
+  - first:
+      213: -8605670831714361505
+    second: TempoAllegro_89
+  - first:
+      213: -2350150182022774116
+    second: TempoAllegro_90
+  - first:
+      213: -2361164148341794149
+    second: TempoAllegro_91
+  - first:
+      213: -4794935939160412668
+    second: TempoAllegro_92
+  - first:
+      213: 745293225758843562
+    second: TempoAllegro_93
+  - first:
+      213: 6838605750375945320
+    second: TempoAllegro_94
+  - first:
+      213: -6116727341765906846
+    second: TempoAllegro_95
+  - first:
+      213: 2817728806759447
+    second: TempoAllegro_96
+  - first:
+      213: 1047912426153379225
+    second: TempoAllegro_97
+  - first:
+      213: -1693920372988259217
+    second: TempoAllegro_98
+  - first:
+      213: -4951018713496690307
+    second: TempoAllegro_99
+  - first:
+      213: -2311097471211466612
+    second: TempoAllegro_100
+  - first:
+      213: -4063552707165522834
+    second: TempoAllegro_101
+  - first:
+      213: 704895795952418991
+    second: TempoAllegro_102
+  - first:
+      213: -9071143230385779395
+    second: TempoAllegro_103
+  - first:
+      213: -3262542465074842838
+    second: TempoAllegro_104
+  - first:
+      213: -6564553822705318990
+    second: TempoAllegro_105
+  - first:
+      213: 7455426694330395645
+    second: TempoAllegro_106
+  - first:
+      213: 1640698948746976374
+    second: TempoAllegro_107
+  - first:
+      213: 6642376240530745662
+    second: TempoAllegro_108
+  - first:
+      213: -8178735197257787316
+    second: TempoAllegro_109
+  - first:
+      213: -5965614969317213349
+    second: TempoAllegro_110
+  - first:
+      213: 8115165449364783648
+    second: TempoAllegro_111
+  - first:
+      213: -6592454731335044567
+    second: TempoAllegro_112
+  - first:
+      213: -504920235781404155
+    second: TempoAllegro_113
+  - first:
+      213: 8883730189328480428
+    second: TempoAllegro_114
+  - first:
+      213: -4431788710450582065
+    second: TempoAllegro_115
+  - first:
+      213: 8509589450998695101
+    second: TempoAllegro_116
+  - first:
+      213: -5930828057107692727
+    second: TempoAllegro_117
+  - first:
+      213: 5645169280158146183
+    second: TempoAllegro_118
+  - first:
+      213: 2957900828474439409
+    second: TempoAllegro_119
+  - first:
+      213: -4325001091433441630
+    second: TempoAllegro_120
+  - first:
+      213: -4972598705067487656
+    second: TempoAllegro_121
+  - first:
+      213: 44606833503125400
+    second: TempoAllegro_122
+  - first:
+      213: -2803078303797283113
+    second: TempoAllegro_123
+  - first:
+      213: -3162270358682667303
+    second: TempoAllegro_124
+  - first:
+      213: -5961450870637769651
+    second: TempoAllegro_125
+  - first:
+      213: 5094511374089614990
+    second: TempoAllegro_126
+  - first:
+      213: 515417560716513124
+    second: TempoAllegro_127
+  - first:
+      213: -802488948832686016
+    second: TempoAllegro_128
+  - first:
+      213: -6499202745503182371
+    second: TempoAllegro_129
+  - first:
+      213: -1525860484324803744
+    second: TempoAllegro_130
+  - first:
+      213: -3387348054002201205
+    second: TempoAllegro_131
+  - first:
+      213: -4575952688799269267
+    second: TempoAllegro_132
+  - first:
+      213: -8049031113763209631
+    second: TempoAllegro_133
+  - first:
+      213: 1695370956406347200
+    second: TempoAllegro_134
+  - first:
+      213: 6612447542428400282
+    second: TempoAllegro_135
+  - first:
+      213: -8399201010462985884
+    second: TempoAllegro_136
+  - first:
+      213: 1359072957445527596
+    second: TempoAllegro_137
+  - first:
+      213: -2525735080991905920
+    second: TempoAllegro_138
+  - first:
+      213: 871907390542908802
+    second: TempoAllegro_139
+  - first:
+      213: 5669640338286187126
+    second: TempoAllegro_140
+  - first:
+      213: -502467855315923941
+    second: TempoAllegro_141
+  - first:
+      213: 10301772165993734
+    second: TempoAllegro_142
+  - first:
+      213: 7626195694911599936
+    second: TempoAllegro_143
+  - first:
+      213: 8903005386486449588
+    second: TempoAllegro_144
+  - first:
+      213: 1058214996407597550
+    second: TempoAllegro_145
+  - first:
+      213: -5418533957165192732
+    second: TempoAllegro_146
+  - first:
+      213: -4661685397622085732
+    second: TempoAllegro_147
+  - first:
+      213: 5662014331949006889
+    second: TempoAllegro_148
+  - first:
+      213: -8440759117545249050
+    second: TempoAllegro_149
+  - first:
+      213: 5488410194726149902
+    second: TempoAllegro_150
+  - first:
+      213: 3001536701260104051
+    second: TempoAllegro_151
+  - first:
+      213: 2809249664053582020
+    second: TempoAllegro_152
+  - first:
+      213: -5768444261841109733
+    second: TempoAllegro_153
+  - first:
+      213: 2540119853367623594
+    second: TempoAllegro_154
+  - first:
+      213: 3480488880287160379
+    second: TempoAllegro_155
+  - first:
+      213: -8641669539101236315
+    second: TempoAllegro_156
+  - first:
+      213: 7081579534268268195
+    second: TempoAllegro_157
+  - first:
+      213: 7927899707332666339
+    second: TempoAllegro_158
+  - first:
+      213: 3952394341190023885
+    second: TempoAllegro_159
+  - first:
+      213: 5202563589730433388
+    second: TempoAllegro_160
+  - first:
+      213: -3778665196594707034
+    second: TempoAllegro_161
+  - first:
+      213: -95868206439697276
+    second: TempoAllegro_162
+  - first:
+      213: 5771633147828029762
+    second: TempoAllegro_163
+  - first:
+      213: 882187884674733216
+    second: TempoAllegro_164
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TempoAllegro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7f9cd428f6bc0e0800000000000000
+      internalID: -2248580983499917345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bee58061f3415fd0800000000000000
+      internalID: -2355026426152489292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03624c7e282ee8c20800000000000000
+      internalID: 3210752636223759920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78466b3e54b09030800000000000000
+      internalID: 3499495227283359871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9b379b95ccfb070800000000000000
+      internalID: 8124436938535188910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580cd18ef23071b10800000000000000
+      internalID: 1952032467781009541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e36b71960c0eab0800000000000000
+      internalID: -4980769630269850035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70272d6826b670c80800000000000000
+      internalID: -8356592512649760249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80128ffb4a66595e0800000000000000
+      internalID: -1903502409712787192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b615bcf4ec0fdce20800000000000000
+      internalID: 3372616464863023467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057e2918d058e84b0800000000000000
+      internalID: -5436261407134652592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9361a600951be6370800000000000000
+      internalID: 8317780557617043001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6fbb575967e3da0800000000000000
+      internalID: -5963198472294500631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702bf443901b28e00800000000000000
+      internalID: 1045592716593836551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f372fc7137247210800000000000000
+      internalID: 1329730883484283897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2b2818655c8b8d0800000000000000
+      internalID: -2830295390471671092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b72b71f77670b5c0800000000000000
+      internalID: -4201728194812106831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoAllegro_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc36c6935a268e740800000000000000
+      internalID: 5181499833062286285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 43e6180a4c6a18240bdf312fae44aafe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TempoAllegro_0: -2248580983499917345
+      TempoAllegro_1: -2355026426152489292
+      TempoAllegro_10: -5436261407134652592
+      TempoAllegro_11: 8317780557617043001
+      TempoAllegro_12: -5963198472294500631
+      TempoAllegro_13: 1045592716593836551
+      TempoAllegro_14: 1329730883484283897
+      TempoAllegro_15: -2830295390471671092
+      TempoAllegro_16: -4201728194812106831
+      TempoAllegro_17: 5181499833062286285
+      TempoAllegro_2: 3210752636223759920
+      TempoAllegro_3: 3499495227283359871
+      TempoAllegro_4: 8124436938535188910
+      TempoAllegro_5: 1952032467781009541
+      TempoAllegro_6: -4980769630269850035
+      TempoAllegro_7: -8356592512649760249
+      TempoAllegro_8: -1903502409712787192
+      TempoAllegro_9: 3372616464863023467
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
