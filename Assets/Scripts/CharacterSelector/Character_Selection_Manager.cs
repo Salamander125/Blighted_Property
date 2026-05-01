@@ -3,17 +3,20 @@ using UnityEngine.UI;
 using TMPro;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
-using System.Threading.Tasks;
+using System.Collections; // Necesario para las Corrutinas
 
 public class Character_Selection_Manager : MonoBehaviour
 {
     [Header("Base de Datos de Personajes")]
-    public CharacterDataSO[] availableCharacters; 
+    public CharacterDataSO[] availableCharacters;
 
     [Header("Botones de Personajes")]
     public Button[] characterButtons;
     public TextMeshProUGUI[] orderTexts; // Los números que aparecen arriba
-    
+
+    [Header("Interfaz de Confirmación")]
+    public Button confirmButton; // <--- Asigna tu nuevo botón de "Empezar Combate" aquí
+
     [Header("Ajustes de Selección")]
     private int currentIndex = 0;
     private List<int> selectedIndices = new List<int>(); // Guarda el orden: [mago, guerrero, etc]
@@ -26,6 +29,14 @@ public class Character_Selection_Manager : MonoBehaviour
 
     private void Start()
     {
+        // Configuramos el botón de confirmar al inicio
+        if (confirmButton != null)
+        {
+            confirmButton.interactable = false;
+            // Asignamos la función al botón por código (así no tienes que hacerlo en el Inspector)
+            confirmButton.onClick.AddListener(OnConfirmButtonClicked);
+        }
+
         ActualizarVisualizacion();
     }
 
@@ -43,17 +54,10 @@ public class Character_Selection_Manager : MonoBehaviour
             audioSource.PlayOneShot(navigateAudio);
         }
 
-        // 2. Confirmar selección (Espacio o Enter)
+        // 2. Seleccionar o Deseleccionar (Espacio o Enter)
         if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Return))
         {
-            SelectCharacter(currentIndex);
-            audioSource.PlayOneShot(confirmAudio);
-        }
-
-        // 3. Deshacer última selección (Opcional, con Escape o B)
-        if (Input.GetKeyDown(KeyCode.B) || Input.GetKeyDown(KeyCode.Escape))
-        {
-            DeshacerSeleccion();
+            ToggleCharacterSelection(currentIndex);
         }
     }
 
@@ -67,31 +71,30 @@ public class Character_Selection_Manager : MonoBehaviour
         ActualizarVisualizacion();
     }
 
-    async void SelectCharacter(int index)
+    // Nueva función que hace de interruptor
+    void ToggleCharacterSelection(int index)
     {
-        // Si ya lo elegimos, no hacemos nada (o lo quitamos)
-        if (selectedIndices.Contains(index)) return;
-
-        if (selectedIndices.Count < 3)
+        // Si YA está seleccionado, lo quitamos (Deseleccionar)
+        if (selectedIndices.Contains(index))
+        {
+            selectedIndices.Remove(index);
+            // Opcional: audioSource.PlayOneShot(sonidoDeCancelar);
+        }
+        // Si NO está seleccionado y aún nos caben personajes, lo añadimos
+        else if (selectedIndices.Count < 3)
         {
             selectedIndices.Add(index);
-            ActualizarVisualizacion();
-            
-            if (selectedIndices.Count == 3)
-            {
-                audioSource.PlayOneShot(SelectionAudio);
-                await Task.Delay((int)(SelectionAudio.length * 1000));
-                Debug.Log("¡Equipo completo! Preparando combate...");
-                IniciarCombate();
-            }
+            audioSource.PlayOneShot(confirmAudio);
         }
+
+        ActualizarVisualizacion();
     }
 
     void ActualizarVisualizacion()
     {
         for (int i = 0; i < characterButtons.Length; i++)
         {
-            // Resaltar el botón que tenemos enfocado actualmente (escala o color)
+            // Resaltar el botón que tenemos enfocado actualmente
             float scale = (i == currentIndex) ? 0.50f : 0.46f;
             characterButtons[i].transform.localScale = Vector3.one * scale;
 
@@ -101,31 +104,51 @@ public class Character_Selection_Manager : MonoBehaviour
             {
                 orderTexts[i].text = (order + 1).ToString();
                 orderTexts[i].gameObject.SetActive(true);
-                // Opcional: Oscurecer el botón para indicar que ya está elegido
-                characterButtons[i].interactable = false;
+                // NOTA: Eliminado el interactable = false para permitir deseleccionar
             }
             else
             {
                 orderTexts[i].gameObject.SetActive(false);
-                characterButtons[i].interactable = true;
             }
+        }
+
+        // Habilitar o deshabilitar el botón de continuar según la cantidad elegida
+        if (confirmButton != null)
+        {
+            confirmButton.interactable = (selectedIndices.Count == 3);
         }
     }
 
-    void DeshacerSeleccion()
+    // Esta función la llama el botón de Confirmar
+    public void OnConfirmButtonClicked()
     {
-        if (selectedIndices.Count > 0)
+        if (selectedIndices.Count == 3)
         {
-            selectedIndices.RemoveAt(selectedIndices.Count - 1);
-            ActualizarVisualizacion();
+            StartCoroutine(TransitionToCombatRoutine());
         }
+    }
+
+    // Corrutina segura para WebGL
+    IEnumerator TransitionToCombatRoutine()
+    {
+        // Desactivamos el botón para evitar dobles clics
+        if (confirmButton != null) confirmButton.interactable = false;
+
+        if (SelectionAudio != null)
+        {
+            audioSource.PlayOneShot(SelectionAudio);
+            yield return new WaitForSeconds(SelectionAudio.length);
+        }
+
+        Debug.Log("¡Equipo completo! Preparando combate...");
+        IniciarCombate();
     }
 
     void IniciarCombate()
     {
         // 1. Limpiamos la lista estática y la partida cargada por seguridad
         PlayerSelectionData.ChosenCharacters.Clear();
-        PlayerSelectionData.PartidaCargada = null; // <--- SEGURO AÑADIDO
+        PlayerSelectionData.PartidaCargada = null;
 
         // 2. Traducimos los índices (0, 1, 2...) a los ScriptableObjects reales
         foreach (int index in selectedIndices)
