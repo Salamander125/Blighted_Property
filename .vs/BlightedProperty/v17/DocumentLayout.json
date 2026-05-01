@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty\\BlightedProperty\\assets\\scripts\\characterselector\\character_selection_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty\\BlightedProperty\\assets\\scripts\\login_scene\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\login_scene\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\shop\\shop_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\shop\\shop_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\shop\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\shop\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\apimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\apimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|c:\\users\\david\\blightedproperty\\blightedproperty\\assets\\scripts\\characterselector\\character_selection_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characterselector\\character_selection_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,28 +35,16 @@
       "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\shop\\shop_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\shop\\shop_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\shop\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\shop\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\apimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\apimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty\\BlightedProperty\\assets\\scripts\\combat\\ability\\character_ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\ability\\character_ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|c:\\users\\david\\blightedproperty\\blightedproperty\\assets\\scripts\\combat\\game sequence\\camerafocus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\camerafocus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\camerafocus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty\\BlightedProperty\\assets\\scripts\\combat\\game sequence\\shop\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\game sequence\\shop\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty\\BlightedProperty\\assets\\scripts\\combat\\enemy\\enemyabilitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -109,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty\\BlightedProperty\\assets\\scripts\\loadmatch_scene\\loadmatchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadmatch_scene\\loadmatchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty\\BlightedProperty\\assets\\scripts\\login_scene\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\login_scene\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D837A3D-C231-DE2C-0593-460B9560196D}|Assembly-CSharp.csproj|C:\\Users\\david\\BlightedProperty\\BlightedProperty\\assets\\scripts\\scenenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -363,7 +363,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 390,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -375,72 +375,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CardData.cs",
-              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\CardData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\CardData.cs",
-              "ToolTip": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\CardData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\CardData.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwBEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T19:02:20.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Shop_Manager.cs",
-              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\Shop_Manager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\Shop_Manager.cs",
-              "ToolTip": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\Shop_Manager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\Shop_Manager.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T18:52:13.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ApiManager.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\ApiManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\ApiManager.cs",
               "ToolTip": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\ApiManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\ApiManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T08:57:19.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "State.cs",
-              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\State.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\State.cs",
-              "ToolTip": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\State.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Combat\\State.cs",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAAwM0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T09:11:11.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerSelectionData.cs",
-              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\CharacterSelector\\PlayerSelectionData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterSelector\\PlayerSelectionData.cs",
-              "ToolTip": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\CharacterSelector\\PlayerSelectionData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CharacterSelector\\PlayerSelectionData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T17:04:54.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CharacterDataSO.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\CharacterSelector\\CharacterDataSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterSelector\\CharacterDataSO.cs",
@@ -448,25 +396,99 @@
               "RelativeToolTip": "Assets\\Scripts\\CharacterSelector\\CharacterDataSO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T17:04:56.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T17:04:56.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Character_Selection_Manager.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\CharacterSelector\\Character_Selection_Manager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterSelector\\Character_Selection_Manager.cs",
               "ToolTip": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\CharacterSelector\\Character_Selection_Manager.cs",
               "RelativeToolTip": "Assets\\Scripts\\CharacterSelector\\Character_Selection_Manager.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAASwJgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAASwJgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T17:04:56.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopCard.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\ShopCard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\ShopCard.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\ShopCard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\ShopCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:02:27.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\Shop_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\Shop_Manager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\Shop_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\Shop_Manager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T18:52:13.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Login_Scene\\AuthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Login_Scene\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Login_Scene\\AuthManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Login_Scene\\AuthManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAASwB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:15:50.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerSelectionData.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\CharacterSelector\\PlayerSelectionData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterSelector\\PlayerSelectionData.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\CharacterSelector\\PlayerSelectionData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterSelector\\PlayerSelectionData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T17:04:54.418Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\State.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\State.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\State.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\State.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAwM0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:11:11.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CardData.cs",
+              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\CardData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\CardData.cs",
+              "ToolTip": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\CardData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\CardData.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:02:20.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Character_Ability.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Ability\\Character_Ability.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Ability\\Character_Ability.cs",
@@ -474,12 +496,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Combat\\Ability\\Character_Ability.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T20:53:01.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T20:53:01.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "PlayerTurnController.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Character\\PlayerTurnController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Character\\PlayerTurnController.cs",
@@ -491,19 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ShopCard.cs",
-              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\ShopCard.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\ShopCard.cs",
-              "ToolTip": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\Shop\\ShopCard.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\Shop\\ShopCard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T19:02:27.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Enemy\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Enemy\\Enemy.cs",
@@ -515,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "EnemyAbilityData.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Enemy\\EnemyAbilityData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Enemy\\EnemyAbilityData.cs",
@@ -527,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Enemy_Spawn.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Enemy\\Enemy_Spawn.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Enemy\\Enemy_Spawn.cs",
@@ -539,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Enemy_pool.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Enemy\\Enemy_pool.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Enemy\\Enemy_pool.cs",
@@ -551,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Enemy_Controller.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Enemy\\Enemy_Controller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Enemy\\Enemy_Controller.cs",
@@ -563,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CameraFocus.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Game Sequence\\CameraFocus.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Game Sequence\\CameraFocus.cs",
@@ -571,12 +580,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Combat\\Game Sequence\\CameraFocus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T20:08:49.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T20:08:49.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Combat_Spawn_Manager.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Character\\Combat_Spawn_Manager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Character\\Combat_Spawn_Manager.cs",
@@ -588,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Character\\Character.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Character\\Character.cs",
@@ -600,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Character_Controller.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Character\\Character_Controller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Character\\Character_Controller.cs",
@@ -612,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Ability_Controller.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Ability\\Ability_Controller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Ability\\Ability_Controller.cs",
@@ -624,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Ability.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Ability\\Ability.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Ability\\Ability.cs",
@@ -636,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "AbilityMenuUI.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Ui\\AbilityMenuUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Ui\\AbilityMenuUI.cs",
@@ -648,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Faction.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Faction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Faction.cs",
@@ -660,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Combat\\Entity.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Entity.cs",
@@ -672,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Functions.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\First_Scene\\Functions.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\First_Scene\\Functions.cs",
@@ -684,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "SaveSlotUI.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\LoadMatch_scene\\SaveSlotUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LoadMatch_scene\\SaveSlotUI.cs",
@@ -696,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "LoadMatchManager.cs",
               "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\LoadMatch_scene\\LoadMatchManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LoadMatch_scene\\LoadMatchManager.cs",
@@ -705,18 +713,6 @@
               "ViewState": "AgIAABIAAAAAAAAAAAAhwCAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-22T14:25:05.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "AuthManager.cs",
-              "DocumentMoniker": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Login_Scene\\AuthManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Login_Scene\\AuthManager.cs",
-              "ToolTip": "C:\\Users\\david\\BlightedProperty\\BlightedProperty\\Assets\\Scripts\\Login_Scene\\AuthManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Login_Scene\\AuthManager.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAawBkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T10:15:50.589Z"
             },
             {
               "$type": "Document",
