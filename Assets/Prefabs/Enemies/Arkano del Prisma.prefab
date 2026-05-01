@@ -139,11 +139,14 @@ MonoBehaviour:
   textSpeed: 0.05
   lifeRegenPerFloor: 0
   manaRegenPerFloor: 0
+  deadSprite: {fileID: 0}
+  isDead: 0
   combat: {fileID: 0}
   isBusy: 0
   visualOffset: {x: 0.3, y: 0.1, z: 0}
   goldValue: 30
   baseSortingOrder: 0
+  enemyID: Arkano del Prisma
   archetype: 1
   abilities:
   - {fileID: 11400000, guid: 319759ef6180ab5488bc1a101cc988c9, type: 2}

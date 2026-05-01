@@ -226,7 +226,7 @@ public class Entity : MonoBehaviour
         return true;
     }
 
-    protected void ShowPopup(string text, Color color)
+    public void ShowPopup(string text, Color color)
     {
         if (damagePopupPrefab != null)
         {
@@ -242,30 +242,30 @@ public class Entity : MonoBehaviour
         }
     }
 
-        public virtual void Die()
+    public virtual void Die()
+    {
+        Debug.Log($"{name} ha caído inconsciente.");
+        isDead = true;
+        _currentLife = 0;
+
+        // 1. Limpiamos sus estados para que no resucite envenenado o sangrando
+        activeEffects.Clear();
+
+        // 2. El Truco del Sprite: Apagamos el motor de animación y forzamos la imagen
+        Animator anim = GetComponentInChildren<Animator>();
+        SpriteRenderer sr = GetComponentInChildren<SpriteRenderer>();
+
+        if (anim != null) anim.enabled = false;
+
+        if (sr != null)
         {
-            Debug.Log($"{name} ha caído inconsciente.");
-            isDead = true;
-            _currentLife = 0;
-            
-            // 1. Limpiamos sus estados para que no resucite envenenado o sangrando
-            activeEffects.Clear();
-
-            // 2. El Truco del Sprite: Apagamos el motor de animación y forzamos la imagen
-            Animator anim = GetComponentInChildren<Animator>();
-            SpriteRenderer sr = GetComponentInChildren<SpriteRenderer>();
-
-            if (anim != null) anim.enabled = false;
-
-            if (sr != null)
-            {
-                if (deadSprite != null) sr.sprite = deadSprite;
-                sr.color = Color.gray; // Un tono apagado para dar dramatismo
-            }
-
-            // Actualizamos UI
-            if (TryGetComponent<Character_Controller>(out var controller)) controller.RefreshUI();
+            if (deadSprite != null) sr.sprite = deadSprite;
+            sr.color = Color.gray; // Un tono apagado para dar dramatismo
         }
+
+        // Actualizamos UI
+        if (TryGetComponent<Character_Controller>(out var controller)) controller.RefreshUI();
+    }
 
     // ==========================================
     // SISTEMA DE RESURRECCIÓN
@@ -460,6 +460,72 @@ public class Entity : MonoBehaviour
         _currentMana = manaGuardado;
 
         // Si el personaje tenía 0 de vida en la base de datos, lo tumbamos directamente
+        if (_currentLife <= 0)
+        {
+            Die();
+        }
+    }
+
+    //Api
+
+    public virtual SavedCharacter GenerarSaveDataAliado()
+    {
+        InitializeStatsIfNeeded();
+
+        SavedCharacter data = new SavedCharacter
+        {
+            characterName = this.name.Replace("(Clone)", "").Trim(),
+            currentLife = this._currentLife,
+            currentMana = this._currentMana,
+            maxLife = this._maxLife,
+            maxMana = this._maxMana,
+            attack = this._currentAttack,
+            defense = this._currentDefense,
+            speed = this._currentSpeed,
+            critChance = this._currentCritChance,
+            evasion = this._currentEvasion,
+            activeEffects = new List<SavedEffect>()
+        };
+
+        // Guardamos los efectos limpios
+        foreach (var effect in activeEffects)
+        {
+            data.activeEffects.Add(new SavedEffect
+            {
+                type = effect.type,
+                duration = effect.duration,
+                intensity = effect.intensity
+            });
+        }
+
+        return data;
+    }
+
+    public void SetStatsFromLoad(SavedCharacter savedData)
+    {
+        _currentLife = savedData.currentLife;
+        _currentMana = savedData.currentMana;
+        _maxLife = savedData.maxLife;
+        _maxMana = savedData.maxMana;
+        _currentAttack = savedData.attack;
+        _currentDefense = savedData.defense;
+        _currentSpeed = savedData.speed;
+        _currentCritChance = savedData.critChance;
+        _currentEvasion = savedData.evasion;
+
+        // Limpiamos cualquier efecto residual y aplicamos los guardados
+        activeEffects.Clear();
+        if (savedData.activeEffects != null && savedData.activeEffects.Count > 0)
+        {
+            foreach (var effectData in savedData.activeEffects)
+            {
+                if (State.instance != null)
+                {
+                    State.instance.ApplyNewStatus(this, effectData.type, effectData.duration, effectData.intensity);
+                }
+            }
+        }
+
         if (_currentLife <= 0)
         {
             Die();

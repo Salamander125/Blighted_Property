@@ -146,6 +146,7 @@ MonoBehaviour:
   visualOffset: {x: 0.6, y: 0, z: 0}
   goldValue: 30
   baseSortingOrder: 0
+  enemyID: Radaz
   archetype: 0
   abilities:
   - {fileID: 11400000, guid: 469414d826782174d86d224bd34f8ed3, type: 2}

@@ -4,13 +4,65 @@ using UnityEngine;
 using UnityEngine.Networking;
 using System.Text;
 
-// 1. Replicamos las clases DTO de C# para que Unity sepa empaquetarlo
+// ==========================================
+// ESTRUCTURAS DTO (Deben coincidir con tu API en Somee)
+// ==========================================
+[System.Serializable]
+public class SavedEffect
+{
+    public State.StateType type;
+    public int duration;
+    public int intensity;
+}
+
 [System.Serializable]
 public class SavedCharacter
 {
     public string characterName;
     public int currentLife;
     public int currentMana;
+    public int maxLife;
+    public int maxMana;
+    public int attack;
+    public float defense;
+    public int speed;
+    public int critChance;
+    public int evasion;
+    public List<SavedEffect> activeEffects = new List<SavedEffect>();
+}
+
+// Preparado para la Fase 3 de los enemigos
+[System.Serializable]
+public class EnemySaveData
+{
+    public string enemyID;
+
+    // Posición en el Tablero
+    public int gridX;
+    public int gridY;
+
+    // Estadísticas Actuales y Máximas (Igual que los aliados)
+    public int currentLife;
+    public int currentMana;
+    public int maxLife;
+    public int maxMana;
+
+    public int attack;
+    public float defense;
+    public int speed;
+    public int critChance;
+    public int evasion;
+
+    // Efectos Alterados
+    public List<SavedEffect> activeEffects = new List<SavedEffect>();
+}
+
+[System.Serializable]
+public class SavedGridCell
+{
+    public int x;
+    public int y;
+    public int effect;
 }
 
 [System.Serializable]
@@ -23,23 +75,26 @@ public class MatchRequest
     public int enemiesKilled;
     public int playTimeSeconds;
     public bool isFinished;
-    public string lastSaved; // En Unity lo manejamos como string para evitar problemas de parseo
+    public string lastSaved;
 
+    // COMPRUEBA QUE ESTAS TRES LISTAS EXISTAN EN TU SCRIPT DE UNITY:
     public List<SavedCharacter> characters = new List<SavedCharacter>();
+    public List<EnemySaveData> enemies = new List<EnemySaveData>();
+    public List<SavedGridCell> gridCells = new List<SavedGridCell>();
+
     public List<int> purchasedCardIds = new List<int>();
 }
 
 public class SaveManager : MonoBehaviour
 {
     public static SaveManager instance;
-    private string apiUrl = "http://blightedproperty.somee.com/api/matches";
 
-    // Variables Temporales que debemos mantener en memoria
-    [HideInInspector] public int currentMatchId = 0; // 0 = Partida Nueva
+    // OJO: Usamos HTTPS para evitar el error de Mixed Content
+    private string apiUrl = "https://blightedproperty.somee.com/api/matches";
+
+    [HideInInspector] public int currentMatchId = 0;
     [HideInInspector] public int totalEnemiesKilled = 0;
     [HideInInspector] public float playTimeTimer = 0f;
-
-    // Lista temporal de las cartas que el jugador ha ido comprando
     [HideInInspector] public List<int> currentRunCards = new List<int>();
 
     private void Awake()
@@ -50,16 +105,12 @@ public class SaveManager : MonoBehaviour
 
     private void Update()
     {
-        // Contamos el tiempo de juego si estamos en combate/mazmorra
         if (Turn_Controller.instance != null)
         {
             playTimeTimer += Time.deltaTime;
         }
     }
 
-    // ==========================================
-    // MÉTODO PARA GUARDAR PARTIDA
-    // ==========================================
     public void GuardarPartida(bool isFinishedRun)
     {
         StartCoroutine(RutinaGuardar(isFinishedRun));
@@ -69,8 +120,6 @@ public class SaveManager : MonoBehaviour
     {
         MatchRequest request = new MatchRequest();
 
-        // 1. Datos Base
-        // PlayerPrefs.GetInt("UserId") asumimos que se guardó al hacer Login
         request.userId = PlayerPrefs.GetInt("UserId", 1);
         request.matchId = currentMatchId;
         request.floorReached = Floor_Manager.instance.currentFloor;
@@ -78,27 +127,25 @@ public class SaveManager : MonoBehaviour
         request.enemiesKilled = totalEnemiesKilled;
         request.playTimeSeconds = Mathf.FloorToInt(playTimeTimer);
         request.isFinished = isFinishedRun;
+        request.lastSaved = System.DateTime.UtcNow.ToString("o");   
 
-        request.lastSaved = System.DateTime.UtcNow.ToString("o");
-
-        // 2. Las Cartas Compradas
         request.purchasedCardIds = new List<int>(currentRunCards);
 
-        // 3. El Estado de los Personajes
+        // RECOPILACIÓN DE ALIADOS, ENEMIGOS Y CASILLAS
         foreach (Entity entity in Turn_Controller.instance.allEntities)
         {
             if (entity.faction == Faction.Player)
             {
-                SavedCharacter sc = new SavedCharacter();
-                sc.characterName = entity.gameObject.name.Replace("(Clone)", "").Trim();
-                sc.currentLife = entity.CurrentLife;
-                sc.currentMana = entity.CurrentMana;
-
-                request.characters.Add(sc);
+                request.characters.Add(entity.GenerarSaveDataAliado());
             }
+            else if (entity.faction == Faction.Enemy && entity is Enemy enemy)
+            {
+                // Dejamos esto listo para cuando hagamos la parte de los enemigos
+                request.enemies.Add(enemy.GenerarSaveData());
+            }
+            request.gridCells = Grid_Controller.instance.GenerarSaveDataGrid();
         }
 
-        // 4. Convertir a JSON y enviar
         string jsonPayload = JsonUtility.ToJson(request);
 
         using (UnityWebRequest www = new UnityWebRequest(apiUrl, "POST"))
@@ -113,16 +160,12 @@ public class SaveManager : MonoBehaviour
             if (www.result == UnityWebRequest.Result.Success)
             {
                 Debug.Log("¡Partida Guardada Correctamente!");
-
-                // IMPORTANTE: Si era una partida nueva (0), el servidor nos devuelve el nuevo ID asignado.
-                // Podrías extraerlo de la respuesta para que los siguientes guardados hagan un UPDATE.
-                // De momento, como concepto básico, el guardado funciona perfecto.
             }
             else
             {
                 Debug.LogError("Error al guardar: " + www.error);
-                Debug.LogError("Motivo del servidor: " + www.downloadHandler.text);
-            }        
+                Debug.LogError("Motivo: " + www.downloadHandler.text);
+            }
         }
     }
 }

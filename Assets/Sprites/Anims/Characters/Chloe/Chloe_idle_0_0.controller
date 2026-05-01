@@ -145,7 +145,7 @@ MonoBehaviour:
   vueltasParaAlterar: 4
   vueltasParaDesalterar: 3
   probabilidadParpadeo: 0.4
-  triggerParpadeo: t_Parpadeo
+  triggerParpadeo: t_parpadeo
   triggerParpadeoAlterado: t_parpadeoAlterado
   triggerAlterar: t_alterar
   triggerDesalterar: t_desalterar

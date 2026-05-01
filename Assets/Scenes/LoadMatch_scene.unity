@@ -176,6 +176,8 @@ MonoBehaviour:
     cara: {fileID: -7950087435875705327, guid: 2f8a9508736374e448e9e72e29f9b892, type: 3}
   - nombreExacto: Kayla
     cara: {fileID: -5045128834772409528, guid: 5c6d949f238b54949a35b583a0081704, type: 3}
+  - nombreExacto: Sukehiro
+    cara: {fileID: -485347690398259755, guid: cafc483dbc017134291a4fa7a331eb73, type: 3}
   saveSlotPrefab: {fileID: 1702773380160171547, guid: 458dabf863f4c5941812bc3586cd1025, type: 3}
   contenedorLayout: {fileID: 1849627105}
 --- !u!4 &379264930

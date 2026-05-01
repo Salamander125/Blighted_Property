@@ -139,11 +139,14 @@ MonoBehaviour:
   textSpeed: 0.05
   lifeRegenPerFloor: 0
   manaRegenPerFloor: 0
+  deadSprite: {fileID: 0}
+  isDead: 0
   combat: {fileID: 0}
   isBusy: 0
   visualOffset: {x: 0.2, y: 0, z: 0}
   goldValue: 25
   baseSortingOrder: 0
+  enemyID: Espiritu Desertico
   archetype: 1
   abilities: []
 --- !u!114 &3311751929001644335

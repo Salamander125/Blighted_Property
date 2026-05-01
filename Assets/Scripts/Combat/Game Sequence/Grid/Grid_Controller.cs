@@ -25,6 +25,7 @@ public class Grid_Controller : MonoBehaviour
         InitializeGrid();
 
         ToggleGridVisuals(false);
+        // Ojo: Genera trampas por defecto. Si cargamos partida, luego las borraremos.
         GenerateRandomFloorEffects(3);
     }
 
@@ -44,7 +45,8 @@ public class Grid_Controller : MonoBehaviour
 
     public Vector3 GetWorldPosition(Vector2Int gridPos) => worldPositions[gridPos.x, gridPos.y];
 
-    public void PlaceEnemy(Enemy enemy, Vector2Int gridPosition)
+    // MODIFICADO: Añadido el parámetro 'triggerEffect' (por defecto true para que funcione como siempre)
+    public void PlaceEnemy(Enemy enemy, Vector2Int gridPosition, bool triggerEffect = true)
     {
         if (!IsValidCell(gridPosition)) return;
 
@@ -55,9 +57,59 @@ public class Grid_Controller : MonoBehaviour
         enemy.transform.position = targetCell.GetPositionForOccupant(enemy) + enemy.visualOffset;
         UpdateSortingOrder(enemy);
 
-        // Disparamos la trampa al aparecer
-        targetCell.ApplyEffectToEntity(enemy);
+        // SOLO disparamos la trampa si no estamos cargando partida
+        if (triggerEffect)
+        {
+            targetCell.ApplyEffectToEntity(enemy);
+        }
     }
+
+    // ==========================================
+    // NUEVO: SISTEMA DE GUARDADO DEL TABLERO
+    // ==========================================
+
+    /// <summary>
+    /// Escanea el grid y devuelve una lista solo con las casillas que tienen alguna trampa o efecto.
+    /// </summary>
+    public List<SavedGridCell> GenerarSaveDataGrid()
+    {
+        List<SavedGridCell> savedCells = new List<SavedGridCell>();
+        for (int x = 0; x < 3; x++)
+        {
+            for (int y = 0; y < 3; y++)
+            {
+                savedCells.Add(new SavedGridCell
+                {
+                    x = x,
+                    y = y,
+                    effect = (int)matrix[x, y].currentEffect // Lo guardamos como int
+                });
+            }
+        }
+        return savedCells;
+    }
+
+    /// <summary>
+    /// Limpia las trampas aleatorias del Awake y coloca exactamente las que estaban guardadas.
+    /// </summary>
+    public void CargarSaveDataGrid(List<SavedGridCell> savedCells)
+    {
+        if (savedCells == null) return;
+
+        foreach (SavedGridCell sc in savedCells)
+        {
+            if (IsValidCell(new Vector2Int(sc.x, sc.y)))
+            {
+                // Convertimos el Int de la base de datos al Enum de Unity
+                GridCell.CellEffectType efectoRecuperado = (GridCell.CellEffectType)sc.effect;
+                matrix[sc.x, sc.y].ChangeCellEffect(efectoRecuperado);
+            }
+        }
+    }
+
+    // ==========================================
+    // RESTO DE FUNCIONES INTACTAS
+    // ==========================================
 
     public IEnumerator MoveEnemyCoroutine(Enemy enemy, Vector2Int movementOffset)
     {
@@ -89,7 +141,6 @@ public class Grid_Controller : MonoBehaviour
         enemy.SetGridPosition(targetGridPos);
         UpdateSortingOrder(enemy);
 
-        // Disparamos la trampa al pisar
         matrix[targetGridPos.x, targetGridPos.y].ApplyEffectToEntity(enemy);
 
         yield return StartCoroutine(matrix[targetGridPos.x, targetGridPos.y].ReorganizeOccupants());
@@ -180,23 +231,17 @@ public class Grid_Controller : MonoBehaviour
         return null;
     }
 
-    // ==========================================
-    // GENERACIÓN PROCEDURAL DE TABLERO
-    // ==========================================
-
     public void GenerateRandomFloorEffects(int maxSpecialCells = 3)
     {
         Debug.Log($"<color=cyan>--- INICIANDO GENERACIÓN DE {maxSpecialCells} TRAMPAS ---</color>");
 
-        // 1. Limpiamos las trampas del piso anterior
         foreach (GridCell cell in matrix)
         {
             if (cell != null) cell.ChangeCellEffect(GridCell.CellEffectType.Normal);
         }
 
-        // 2. Tiramos dados para las nuevas trampas de forma segura
         int trampasColocadas = 0;
-        int intentosMaximos = 50; // Seguridad anti-bucles infinitos
+        int intentosMaximos = 50;
 
         while (trampasColocadas < maxSpecialCells && intentosMaximos > 0)
         {
@@ -205,24 +250,20 @@ public class Grid_Controller : MonoBehaviour
             int randomX = Random.Range(0, 3);
             int randomY = Random.Range(0, 3);
 
-            // Evitamos poner trampas en la columna central
             if (randomX == 1) continue;
 
             GridCell targetCell = matrix[randomX, randomY];
 
-            // SOLO colocamos la trampa si esa casilla estaba "Normal" (vacía de trampas)
             if (targetCell.currentEffect == GridCell.CellEffectType.Normal)
             {
                 System.Array allEffects = System.Enum.GetValues(typeof(GridCell.CellEffectType));
-                int randomIndex = Random.Range(1, allEffects.Length); // Empieza en 1 para saltar 'Normal'
+                int randomIndex = Random.Range(1, allEffects.Length);
                 GridCell.CellEffectType randomEffect = (GridCell.CellEffectType)allEffects.GetValue(randomIndex);
 
                 targetCell.ChangeCellEffect(randomEffect);
 
-                // CHIVATO DE CONSOLA
                 Debug.Log($"ÉXITO: Trampa [<color=yellow>{randomEffect}</color>] colocada en la coordenada X:{randomX}, Y:{randomY}");
 
-                // Sumamos 1 solo cuando hemos colocado una trampa con éxito
                 trampasColocadas++;
             }
         }
@@ -237,11 +278,6 @@ public class Grid_Controller : MonoBehaviour
         }
     }
 
-    // ==========================================
-    // CONTROL VISUAL DEL TABLERO
-    // ==========================================
-
-    // Botón maestro para mostrar u ocultar el tablero entero
     public void ToggleGridVisuals(bool show)
     {
         foreach (GridCell cell in matrix)
@@ -259,9 +295,9 @@ public class Grid_Controller : MonoBehaviour
         {
             if (cell != null)
             {
-                cell.occupants.Clear(); // Limpiamos la lista de la celda
-                cell.isBlocked = false; // Desbloqueamos por si acaso
-                cell.ChangeCellEffect(GridCell.CellEffectType.Normal); // Quitamos trampas
+                cell.occupants.Clear();
+                cell.isBlocked = false;
+                cell.ChangeCellEffect(GridCell.CellEffectType.Normal);
             }
         }
     }

@@ -1,7 +1,6 @@
 using UnityEngine;
 using System.Collections.Generic;
 
-// Se encarga de instanciar los enemigos al inicio de cada piso mediante un sistema de "Mazo".
 public class Enemy_Spawn : MonoBehaviour
 {
     [Header("Settings")]
@@ -10,14 +9,13 @@ public class Enemy_Spawn : MonoBehaviour
     [SerializeField] private int minEnemies;
     [SerializeField] private int maxEnemies;
 
+    // Generación Aleatoria (Para Pisos Nuevos)
     public void SpawnRandomEnemies()
     {
         if (enemyPool == null || enemyPool.Length == 0) return;
 
-        // --- CREACIÓN Y BARAJADO DEL MAZO ---
         List<GameObject> enemyDeck = new List<GameObject>();
 
-        // Llenamos la bolsa opaca con la cantidad exacta de enemigos configurada
         foreach (var card in enemyPool)
         {
             for (int i = 0; i < card.copiesInDeck; i++)
@@ -26,7 +24,6 @@ public class Enemy_Spawn : MonoBehaviour
             }
         }
 
-        // Agitamos la bolsa (Algoritmo de barajado Fisher-Yates)
         for (int i = 0; i < enemyDeck.Count; i++)
         {
             GameObject temp = enemyDeck[i];
@@ -35,12 +32,10 @@ public class Enemy_Spawn : MonoBehaviour
             enemyDeck[randomIndex] = temp;
         }
 
-        // --- FASE DE GENERACIÓN EN EL TABLERO ---
         int enemyCount = Random.Range(minEnemies, maxEnemies + 1);
 
         for (int i = 0; i < enemyCount; i++)
         {
-            // Medida de seguridad: Si nos quedamos sin cartas en la bolsa, dejamos de generar
             if (enemyDeck.Count == 0) break;
 
             List<Vector2Int> emptyCells = new List<Vector2Int>();
@@ -54,7 +49,6 @@ public class Enemy_Spawn : MonoBehaviour
                 for (int y = 0; y < alto; y++)
                 {
                     GridCell cell = gridController.matrix[x, y];
-
                     if (cell == null || cell.isBlocked) continue;
 
                     if (cell.occupants.Count == 0)
@@ -79,12 +73,59 @@ public class Enemy_Spawn : MonoBehaviour
                 break;
             }
 
-            // Sacamos la primera carta de la parte superior del mazo ya barajado
             GameObject prefabToSpawn = enemyDeck[0];
             enemyDeck.RemoveAt(0);
 
-            // Le pasamos ese prefab específico a la función de spawn
             SpawnEnemyAt(chosenPos, prefabToSpawn);
+        }
+    }
+
+    // ==========================================
+    // NUEVO: CARGAR ENEMIGOS DESDE PARTIDA GUARDADA
+    // ==========================================
+    public void SpawnLoadedEnemies(List<EnemySaveData> savedEnemies)
+    {
+        if (enemyPool == null || enemyPool.Length == 0 || savedEnemies == null) return;
+
+        // Diccionario para buscar rápidamente el prefab por su nombre/ID
+        Dictionary<string, GameObject> prefabDictionary = new Dictionary<string, GameObject>();
+        foreach (var poolItem in enemyPool)
+        {
+            if (!prefabDictionary.ContainsKey(poolItem.enemyName))
+            {
+                prefabDictionary.Add(poolItem.enemyName, poolItem.prefab);
+            }
+        }
+
+        foreach (EnemySaveData data in savedEnemies)
+        {
+            if (prefabDictionary.TryGetValue(data.enemyID, out GameObject prefabToSpawn))
+            {
+                Vector2Int pos = new Vector2Int(data.gridX, data.gridY);
+
+                GameObject enemyObject = Instantiate(prefabToSpawn);
+                Enemy enemy = enemyObject.GetComponent<Enemy>();
+
+                if (enemy != null)
+                {
+                    // 1. Inyección masiva de stats y estados alterados
+                    enemy.InitializeStatsIfNeeded();
+                    enemy.CargarSaveData(data);
+
+                    // 2. Colocar en el grid con el SEGURO ANTI-BUFO (triggerEffect = false)
+                    gridController.PlaceEnemy(enemy, pos, false);
+
+                    // 3. Registrar en el sistema de turnos
+                    if (Turn_Controller.instance != null)
+                    {
+                        Turn_Controller.instance.allEntities.Add(enemy);
+                    }
+                }
+            }
+            else
+            {
+                Debug.LogError($"Enemy_Spawn: No se encontró el prefab para '{data.enemyID}'. Asegúrate de rellenar los IDs.");
+            }
         }
     }
 
@@ -95,7 +136,14 @@ public class Enemy_Spawn : MonoBehaviour
 
         if (enemy != null)
         {
-            gridController.PlaceEnemy(enemy, pos);
+            // Generación normal sí dispara el efecto de la casilla (true)
+            gridController.PlaceEnemy(enemy, pos, true);
+
+            // Registrar en el sistema de turnos (Los enemigos nuevos también deben registrarse)
+            if (Turn_Controller.instance != null)
+            {
+                Turn_Controller.instance.allEntities.Add(enemy);
+            }
         }
     }
 

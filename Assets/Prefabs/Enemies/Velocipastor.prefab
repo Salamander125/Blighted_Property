@@ -139,11 +139,14 @@ MonoBehaviour:
   textSpeed: 0.05
   lifeRegenPerFloor: 0
   manaRegenPerFloor: 0
+  deadSprite: {fileID: 0}
+  isDead: 0
   combat: {fileID: 0}
   isBusy: 0
   visualOffset: {x: 0, y: 0, z: 0}
   goldValue: 15
   baseSortingOrder: 0
+  enemyID: Velocipastor
   archetype: 0
   abilities:
   - {fileID: 11400000, guid: 469414d826782174d86d224bd34f8ed3, type: 2}

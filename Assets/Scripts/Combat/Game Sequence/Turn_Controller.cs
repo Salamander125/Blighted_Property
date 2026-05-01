@@ -193,6 +193,17 @@ public class Turn_Controller : MonoBehaviour
         // --- (AQUÍ ESTABA EL POPUP, YA ELIMINADO PARA SIEMPRE) ---
 
         // 4. Procesa los estados que tenga la entidad actual (Veneno, etc)
+
+        // CONTROL DE CC: SUEÑO
+        if (currentEntity.activeEffects.Any(e => e.type == State.StateType.Sueno))
+        {
+            currentEntity.ShowPopup("Zzz...", Color.white);
+
+            yield return new WaitForSeconds(0.5f);
+
+            EndTurn();
+            yield break;
+        }
         if (State.instance != null)
         {
             State.instance.ProcessEffects(currentEntity);
@@ -238,22 +249,6 @@ public class Turn_Controller : MonoBehaviour
     // =============================
     // UI Y POPUPS
     // =============================
-
-    //Couritina para mostrar el popup del turno
-    private IEnumerator ShowTurnPopupCoroutine(Entity entity)
-    {
-        if (turnPopupPrefab == null) yield break;
-
-        GameObject PopupPrefab = Instantiate(turnPopupPrefab, Vector3.zero, Quaternion.identity);
-        TurnPopup popup = PopupPrefab.GetComponent<TurnPopup>();
-        if (popup != null)
-        {
-            string mensaje = entity.faction == Faction.Player ? "Turno Aliado" : "Turno Enemigo";
-            popup.Setup(mensaje);
-            yield return new WaitForSeconds(popup.TotalDuration);
-        }
-        Destroy(PopupPrefab);
-    }
 
     // Couritina para mostrar el mismo popup que el de arriba pero de forma mas generica y personalizado.
     private IEnumerator ShowRoundPopup(string message)

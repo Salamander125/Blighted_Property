@@ -272,7 +272,7 @@ public class Shop_Manager : MonoBehaviour
                     case BuffType.MaxMana: entidad.ControlMaxMana((int)carta.amount, true); break;
                     case BuffType.Attack: entidad.ControlAttack((int)carta.amount, true); break;
                     case BuffType.Speed: entidad.ControlSpeed((int)carta.amount, true); break;
-                    case BuffType.Defense: entidad.ControlDefense(carta.amount, true); break;
+                    case BuffType.Defense: entidad.ControlDefense(carta.amount / 100f, true); break;
                     case BuffType.HealCurrentLife: entidad.HealCurrentLife((int)carta.amount); break;
                     case BuffType.RestoreCurrentMana: entidad.RestoreCurrentMana((int)carta.amount); break;
                     case BuffType.BonusLifeRegenPerFloor: entidad.lifeRegenPerFloor += (int)carta.amount; break;

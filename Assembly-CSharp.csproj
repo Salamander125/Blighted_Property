@@ -75,6 +75,7 @@
     <Compile Include="Assets\Scripts\Combat\Game Sequence\Combat_Controller.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
     <Compile Include="Assets\Scripts\Combat\Game Sequence\Grid\GridSelector.cs" />
+    <Compile Include="Assets\Scripts\Combat\Ui\InspectorManager.cs" />
     <Compile Include="Assets\Scripts\Combat\Ui\AbilityMenuUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
     <Compile Include="Assets\Scripts\Combat\Ability\Ability_Controller.cs" />
@@ -111,7 +112,6 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
-    <Compile Include="Assets\Scripts\Combat\Game Sequence\InspectorManager.cs" />
     <Compile Include="Assets\Scripts\Combat\Game Sequence\Shop\ShopCard.cs" />
     <Compile Include="Assets\Scripts\Combat\State.cs" />
     <Compile Include="Assets\Scripts\Combat\Ui\TurnTimelineUI.cs" />

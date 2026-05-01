@@ -124,7 +124,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 153864bc8ab425d498a34ae7bd34cf69, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  faction: 0
+  faction: 2
   damagePopupPrefab: {fileID: 0}
   damagePopupOffset: {x: 0, y: 1.5, z: 0}
   activeEffects: []
@@ -139,11 +139,14 @@ MonoBehaviour:
   textSpeed: 0.05
   lifeRegenPerFloor: 0
   manaRegenPerFloor: 0
+  deadSprite: {fileID: 0}
+  isDead: 0
   combat: {fileID: 0}
   isBusy: 0
   visualOffset: {x: 0.4, y: 0, z: 0}
   goldValue: 50
   baseSortingOrder: 0
+  enemyID: Monrockst
   archetype: 0
   abilities: []
 --- !u!114 &7923393523702100182
