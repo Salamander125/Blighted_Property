@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: 1d4a7b1e1911eba4dbcbff01e2026db9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4593705093727984584
+    second: TrazoRelampago_0
+  - first:
+      213: -1361644330265038435
+    second: TrazoRelampago_1
+  - first:
+      213: -7553281197247090052
+    second: TrazoRelampago_2
+  - first:
+      213: 4836433772847164991
+    second: TrazoRelampago_3
+  - first:
+      213: -4749495006811003413
+    second: TrazoRelampago_4
+  - first:
+      213: -4486692458092844546
+    second: TrazoRelampago_5
+  - first:
+      213: 3252298614538841066
+    second: TrazoRelampago_6
+  - first:
+      213: 1675071264121901168
+    second: TrazoRelampago_7
+  - first:
+      213: -6391115951522769895
+    second: TrazoRelampago_8
+  - first:
+      213: 8735949465873532894
+    second: TrazoRelampago_9
+  - first:
+      213: 5762758803818548545
+    second: TrazoRelampago_10
+  - first:
+      213: -3303928730531231325
+    second: TrazoRelampago_11
+  - first:
+      213: -4300447216056960947
+    second: TrazoRelampago_12
+  - first:
+      213: 8946995216757287307
+    second: TrazoRelampago_13
+  - first:
+      213: 1630276776722971523
+    second: TrazoRelampago_14
+  - first:
+      213: 4442210920497243352
+    second: TrazoRelampago_15
+  - first:
+      213: -4533637963740871406
+    second: TrazoRelampago_16
+  - first:
+      213: 2871714993865092716
+    second: TrazoRelampago_17
+  - first:
+      213: 1820043394833237057
+    second: TrazoRelampago_18
+  - first:
+      213: 2910800686784651047
+    second: TrazoRelampago_19
+  - first:
+      213: 4635742405027935027
+    second: TrazoRelampago_20
+  - first:
+      213: -5103947107668646210
+    second: TrazoRelampago_21
+  - first:
+      213: 4582146764923737890
+    second: TrazoRelampago_22
+  - first:
+      213: 6587222949591863478
+    second: TrazoRelampago_23
+  - first:
+      213: -5095251288038639977
+    second: TrazoRelampago_24
+  - first:
+      213: 1523807369569119873
+    second: TrazoRelampago_25
+  - first:
+      213: -8301703719202312567
+    second: TrazoRelampago_26
+  - first:
+      213: -6324813474866927731
+    second: TrazoRelampago_27
+  - first:
+      213: -1818789499586318925
+    second: TrazoRelampago_28
+  - first:
+      213: -252546353484241522
+    second: TrazoRelampago_29
+  - first:
+      213: 3860939767929266477
+    second: TrazoRelampago_30
+  - first:
+      213: 9116136761854635028
+    second: TrazoRelampago_31
+  - first:
+      213: -4893369151607141383
+    second: TrazoRelampago_32
+  - first:
+      213: -8212223179094020988
+    second: TrazoRelampago_33
+  - first:
+      213: 552455861550737804
+    second: TrazoRelampago_34
+  - first:
+      213: 2364052555344543923
+    second: TrazoRelampago_35
+  - first:
+      213: -4912758656862418593
+    second: TrazoRelampago_36
+  - first:
+      213: -6054408381051742573
+    second: TrazoRelampago_37
+  - first:
+      213: -3723742815016523675
+    second: TrazoRelampago_38
+  - first:
+      213: -8051245671056952543
+    second: TrazoRelampago_39
+  - first:
+      213: 4950557089786282639
+    second: TrazoRelampago_40
+  - first:
+      213: -5472346046876738560
+    second: TrazoRelampago_41
+  - first:
+      213: 6603622643423771029
+    second: TrazoRelampago_42
+  - first:
+      213: 7629890176202315926
+    second: TrazoRelampago_43
+  - first:
+      213: 284159896030790947
+    second: TrazoRelampago_44
+  - first:
+      213: -6472891274097763177
+    second: TrazoRelampago_45
+  - first:
+      213: 8188440708890465029
+    second: TrazoRelampago_46
+  - first:
+      213: -3050651604336215814
+    second: TrazoRelampago_47
+  - first:
+      213: 6116056653793766968
+    second: TrazoRelampago_48
+  - first:
+      213: -4760927507720038472
+    second: TrazoRelampago_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TrazoRelampago_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb1f8ab17e10cf30800000000000000
+      internalID: 4593705093727984584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrazoRelampago_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91b02822b77a1de0800000000000000
+      internalID: -1361644330265038435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrazoRelampago_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72337525ca5d2790800000000000000
+      internalID: -7553281197247090052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrazoRelampago_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ee14254e67e1340800000000000000
+      internalID: 4836433772847164991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrazoRelampago_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5e9888477661eb0800000000000000
+      internalID: -4749495006811003413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrazoRelampago_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9a3fa1bf01cb1c0800000000000000
+      internalID: -4486692458092844546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrazoRelampago_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb2517cb5c722d20800000000000000
+      internalID: 3252298614538841066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrazoRelampago_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0705377907c0f3710800000000000000
+      internalID: 1675071264121901168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cb4416b33d7b6b84f80ad66be19c7339
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TrazoRelampago_0: 4593705093727984584
+      TrazoRelampago_1: -1361644330265038435
+      TrazoRelampago_2: -7553281197247090052
+      TrazoRelampago_3: 4836433772847164991
+      TrazoRelampago_4: -4749495006811003413
+      TrazoRelampago_5: -4486692458092844546
+      TrazoRelampago_6: 3252298614538841066
+      TrazoRelampago_7: 1675071264121901168
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1539 @@
+fileFormatVersion: 2
+guid: 75db5c00b5945a948a8c6ac550a3d729
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4902682891559363009
+    second: MarcaDebil_0
+  - first:
+      213: -7134446295910045625
+    second: MarcaDebil_1
+  - first:
+      213: -3829121721433541566
+    second: MarcaDebil_2
+  - first:
+      213: -1788471216352650057
+    second: MarcaDebil_3
+  - first:
+      213: 5385622630806318401
+    second: MarcaDebil_4
+  - first:
+      213: 1816354260574659732
+    second: MarcaDebil_5
+  - first:
+      213: 2570183118459589653
+    second: MarcaDebil_6
+  - first:
+      213: 6701363944024871269
+    second: MarcaDebil_7
+  - first:
+      213: -4364788119788609393
+    second: MarcaDebil_8
+  - first:
+      213: -3361674000034141278
+    second: MarcaDebil_9
+  - first:
+      213: -8644334635481040907
+    second: MarcaDebil_10
+  - first:
+      213: 4931424990239415824
+    second: MarcaDebil_11
+  - first:
+      213: 6200307119106778573
+    second: MarcaDebil_12
+  - first:
+      213: -3403014884781060797
+    second: MarcaDebil_13
+  - first:
+      213: -5132604173894858138
+    second: MarcaDebil_14
+  - first:
+      213: 1961890975129019350
+    second: MarcaDebil_15
+  - first:
+      213: 1403680630034801419
+    second: MarcaDebil_16
+  - first:
+      213: 3922750677706176121
+    second: MarcaDebil_17
+  - first:
+      213: -7530226472518431300
+    second: MarcaDebil_18
+  - first:
+      213: -3463979222030606602
+    second: MarcaDebil_19
+  - first:
+      213: 5431100882539299517
+    second: MarcaDebil_20
+  - first:
+      213: -1678287754763038131
+    second: MarcaDebil_21
+  - first:
+      213: 945738925502767312
+    second: MarcaDebil_22
+  - first:
+      213: 7311280277939763284
+    second: MarcaDebil_23
+  - first:
+      213: -2614004899516417825
+    second: MarcaDebil_24
+  - first:
+      213: -3896771659058559086
+    second: MarcaDebil_25
+  - first:
+      213: -1784185227890119318
+    second: MarcaDebil_26
+  - first:
+      213: 6694733468343222284
+    second: MarcaDebil_27
+  - first:
+      213: 1768260566452319391
+    second: MarcaDebil_28
+  - first:
+      213: -1519640514650812166
+    second: MarcaDebil_29
+  - first:
+      213: 7612850324065282448
+    second: MarcaDebil_30
+  - first:
+      213: -4416111175512739206
+    second: MarcaDebil_31
+  - first:
+      213: -2227008858092369325
+    second: MarcaDebil_32
+  - first:
+      213: 7952014152560598832
+    second: MarcaDebil_33
+  - first:
+      213: 2895545756133934214
+    second: MarcaDebil_34
+  - first:
+      213: -4263850690383355953
+    second: MarcaDebil_35
+  - first:
+      213: -981190157186916692
+    second: MarcaDebil_36
+  - first:
+      213: 8957216508889540100
+    second: MarcaDebil_37
+  - first:
+      213: -2336293182151232231
+    second: MarcaDebil_38
+  - first:
+      213: -1010718584476004422
+    second: MarcaDebil_39
+  - first:
+      213: 3162902215442444456
+    second: MarcaDebil_40
+  - first:
+      213: 6680495500755727580
+    second: MarcaDebil_41
+  - first:
+      213: 4556324334574168080
+    second: MarcaDebil_42
+  - first:
+      213: -3998701130916229945
+    second: MarcaDebil_43
+  - first:
+      213: 4895095127261787376
+    second: MarcaDebil_44
+  - first:
+      213: -4269219369254517717
+    second: MarcaDebil_45
+  - first:
+      213: -2788542194604283061
+    second: MarcaDebil_46
+  - first:
+      213: 954229723585924450
+    second: MarcaDebil_47
+  - first:
+      213: 8774142980830687217
+    second: MarcaDebil_48
+  - first:
+      213: 9092859790834693269
+    second: MarcaDebil_49
+  - first:
+      213: -7064564665131694087
+    second: MarcaDebil_50
+  - first:
+      213: 2828026226102346448
+    second: MarcaDebil_51
+  - first:
+      213: -1393063190290833572
+    second: MarcaDebil_52
+  - first:
+      213: 8045635509983513680
+    second: MarcaDebil_53
+  - first:
+      213: -7776608994691056239
+    second: MarcaDebil_54
+  - first:
+      213: 3235764761630600879
+    second: MarcaDebil_55
+  - first:
+      213: 4829732693427434166
+    second: MarcaDebil_56
+  - first:
+      213: 1983453545018592009
+    second: MarcaDebil_57
+  - first:
+      213: -5278528584426994278
+    second: MarcaDebil_58
+  - first:
+      213: 188345319257574846
+    second: MarcaDebil_59
+  - first:
+      213: 3175341851993206873
+    second: MarcaDebil_60
+  - first:
+      213: 5106506380576539783
+    second: MarcaDebil_61
+  - first:
+      213: 9065945082270599472
+    second: MarcaDebil_62
+  - first:
+      213: 8664025906351850293
+    second: MarcaDebil_63
+  - first:
+      213: -3806407697471011525
+    second: MarcaDebil_64
+  - first:
+      213: -5035203570716050829
+    second: MarcaDebil_65
+  - first:
+      213: -3937950449959246319
+    second: MarcaDebil_66
+  - first:
+      213: 5948967875373379173
+    second: MarcaDebil_67
+  - first:
+      213: -7538209672744755835
+    second: MarcaDebil_68
+  - first:
+      213: -6761667803013425923
+    second: MarcaDebil_69
+  - first:
+      213: 4752072027631320241
+    second: MarcaDebil_70
+  - first:
+      213: 6961897708702895934
+    second: MarcaDebil_71
+  - first:
+      213: 7770390737435948120
+    second: MarcaDebil_72
+  - first:
+      213: 5549468243980058406
+    second: MarcaDebil_73
+  - first:
+      213: -1422635012811423395
+    second: MarcaDebil_74
+  - first:
+      213: 7533704275809029094
+    second: MarcaDebil_75
+  - first:
+      213: 6002175722085179010
+    second: MarcaDebil_76
+  - first:
+      213: 4720928486184848480
+    second: MarcaDebil_77
+  - first:
+      213: -7550792021297405022
+    second: MarcaDebil_78
+  - first:
+      213: 3391799691489260977
+    second: MarcaDebil_79
+  - first:
+      213: 735040855028287865
+    second: MarcaDebil_80
+  - first:
+      213: 7575251499108635577
+    second: MarcaDebil_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MarcaDebil_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1e7c54d14d90440800000000000000
+      internalID: 4902682891559363009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7482e2fc4ea5dfc90800000000000000
+      internalID: -7134446295910045625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244b838f41a3cdac0800000000000000
+      internalID: -3829121721433541566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc1a4a87e21e27e0800000000000000
+      internalID: -1788471216352650057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14de38b9f339dba40800000000000000
+      internalID: 5385622630806318401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494e1d7939cf43910800000000000000
+      internalID: 1816354260574659732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5145d77cdef1ba320800000000000000
+      internalID: 2570183118459589653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56196327007000d50800000000000000
+      internalID: 6701363944024871269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80a728a4582d63c0800000000000000
+      internalID: -4364788119788609393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab6c41de4fe851d0800000000000000
+      internalID: -3361674000034141278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7fb8cd277290880800000000000000
+      internalID: -8644334635481040907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e54bb96e0ff6440800000000000000
+      internalID: 4931424990239415824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc56fa4697aeb0650800000000000000
+      internalID: 6200307119106778573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d02430eff06c0d0800000000000000
+      internalID: -3403014884781060797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a4f4292b355c8b0800000000000000
+      internalID: -5132604173894858138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d32c9482790a3b10800000000000000
+      internalID: 1961890975129019350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0322539810ea7310800000000000000
+      internalID: 1403680630034801419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976791f25f8607630800000000000000
+      internalID: 3922750677706176121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdcb4b8be24f7790800000000000000
+      internalID: -7530226472518431300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe188120497defc0800000000000000
+      internalID: -3463979222030606602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2c01b3a752f5b40800000000000000
+      internalID: 5431100882539299517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d421672dd2685b8e0800000000000000
+      internalID: -1678287754763038131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d02ad0ca80ff1d00800000000000000
+      internalID: 945738925502767312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4583beb0da2e67560800000000000000
+      internalID: 7311280277939763284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8713bb46039bbd0800000000000000
+      internalID: -2614004899516417825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297410372d2ebe9c0800000000000000
+      internalID: -3896771659058559086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_26
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d2c1efcfc4d37e0800000000000000
+      internalID: -1784185227890119318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_27
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0044868e9878ec50800000000000000
+      internalID: 6694733468343222284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_28
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94b8b5dd9f1a8810800000000000000
+      internalID: 1768260566452319391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_29
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af052f9d00729eae0800000000000000
+      internalID: -1519640514650812166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099e02ef80746a960800000000000000
+      internalID: 7612850324065282448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_31
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a723eee8842d6b2c0800000000000000
+      internalID: -4416111175512739206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_32
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a81c52e331811e0800000000000000
+      internalID: -2227008858092369325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_33
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fd04c7dba3b5e60800000000000000
+      internalID: 7952014152560598832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_34
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684c041268b0f2820800000000000000
+      internalID: 2895545756133934214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_35
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf55605362c3d4c0800000000000000
+      internalID: -4263850690383355953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_36
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae93c720cc1262f0800000000000000
+      internalID: -981190157186916692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_37
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40620ac15fc6e4c70800000000000000
+      internalID: 8957216508889540100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_38
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91575b2aab1d39fd0800000000000000
+      internalID: -2336293182151232231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_39
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf0c6c6dc439f1f0800000000000000
+      internalID: -1010718584476004422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a03eb2aec2e4eb20800000000000000
+      internalID: 3162902215442444456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_41
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4f32e5343e5bc50800000000000000
+      internalID: 6680495500755727580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_42
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018e2c387d05b3f30800000000000000
+      internalID: 4556324334574168080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_43
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc09c8e182c188c0800000000000000
+      internalID: -3998701130916229945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_44
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f43f2a351fdee340800000000000000
+      internalID: 4895095127261787376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_45
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b240e5b5a9fa0c4c0800000000000000
+      internalID: -4269219369254517717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_46
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b6c69f5ab1d49d0800000000000000
+      internalID: -2788542194604283061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_47
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d457cb0ea1e3d00800000000000000
+      internalID: 954229723585924450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_48
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff66ecbd8404c970800000000000000
+      internalID: 8774142980830687217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarcaDebil_49
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5947221cdc3503e70800000000000000
+      internalID: 9092859790834693269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 50ad061ded4375741aa36c45ecc59c43
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MarcaDebil_0: 4902682891559363009
+      MarcaDebil_1: -7134446295910045625
+      MarcaDebil_10: -8644334635481040907
+      MarcaDebil_11: 4931424990239415824
+      MarcaDebil_12: 6200307119106778573
+      MarcaDebil_13: -3403014884781060797
+      MarcaDebil_14: -5132604173894858138
+      MarcaDebil_15: 1961890975129019350
+      MarcaDebil_16: 1403680630034801419
+      MarcaDebil_17: 3922750677706176121
+      MarcaDebil_18: -7530226472518431300
+      MarcaDebil_19: -3463979222030606602
+      MarcaDebil_2: -3829121721433541566
+      MarcaDebil_20: 5431100882539299517
+      MarcaDebil_21: -1678287754763038131
+      MarcaDebil_22: 945738925502767312
+      MarcaDebil_23: 7311280277939763284
+      MarcaDebil_24: -2614004899516417825
+      MarcaDebil_25: -3896771659058559086
+      MarcaDebil_26: -1784185227890119318
+      MarcaDebil_27: 6694733468343222284
+      MarcaDebil_28: 1768260566452319391
+      MarcaDebil_29: -1519640514650812166
+      MarcaDebil_3: -1788471216352650057
+      MarcaDebil_30: 7612850324065282448
+      MarcaDebil_31: -4416111175512739206
+      MarcaDebil_32: -2227008858092369325
+      MarcaDebil_33: 7952014152560598832
+      MarcaDebil_34: 2895545756133934214
+      MarcaDebil_35: -4263850690383355953
+      MarcaDebil_36: -981190157186916692
+      MarcaDebil_37: 8957216508889540100
+      MarcaDebil_38: -2336293182151232231
+      MarcaDebil_39: -1010718584476004422
+      MarcaDebil_4: 5385622630806318401
+      MarcaDebil_40: 3162902215442444456
+      MarcaDebil_41: 6680495500755727580
+      MarcaDebil_42: 4556324334574168080
+      MarcaDebil_43: -3998701130916229945
+      MarcaDebil_44: 4895095127261787376
+      MarcaDebil_45: -4269219369254517717
+      MarcaDebil_46: -2788542194604283061
+      MarcaDebil_47: 954229723585924450
+      MarcaDebil_48: 8774142980830687217
+      MarcaDebil_49: 9092859790834693269
+      MarcaDebil_5: 1816354260574659732
+      MarcaDebil_6: 2570183118459589653
+      MarcaDebil_7: 6701363944024871269
+      MarcaDebil_8: -4364788119788609393
+      MarcaDebil_9: -3361674000034141278
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

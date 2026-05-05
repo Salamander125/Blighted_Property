@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: 1e43e98c05820f7409c2ed4eb25e42b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7125894721568293287
+    second: BombaDeHumo_0
+  - first:
+      213: 4551025343455577755
+    second: BombaDeHumo_1
+  - first:
+      213: 996900953541854404
+    second: BombaDeHumo_2
+  - first:
+      213: 5456093203367207072
+    second: BombaDeHumo_3
+  - first:
+      213: -2419547649098520252
+    second: BombaDeHumo_4
+  - first:
+      213: 7115500319038986920
+    second: BombaDeHumo_5
+  - first:
+      213: 5909528566223668058
+    second: BombaDeHumo_6
+  - first:
+      213: 5796861333390938570
+    second: BombaDeHumo_7
+  - first:
+      213: -4883635353889952012
+    second: BombaDeHumo_8
+  - first:
+      213: -217889964380077553
+    second: BombaDeHumo_9
+  - first:
+      213: 7671711554619922429
+    second: BombaDeHumo_10
+  - first:
+      213: -1854244376262756692
+    second: BombaDeHumo_11
+  - first:
+      213: 5426900966673552368
+    second: BombaDeHumo_12
+  - first:
+      213: -4988591403688337131
+    second: BombaDeHumo_13
+  - first:
+      213: -6120414379011274867
+    second: BombaDeHumo_14
+  - first:
+      213: -8832002005052944162
+    second: BombaDeHumo_15
+  - first:
+      213: 8639211451817624
+    second: BombaDeHumo_16
+  - first:
+      213: 5145253078587131310
+    second: BombaDeHumo_17
+  - first:
+      213: -2628965224627430738
+    second: BombaDeHumo_18
+  - first:
+      213: 2396741351663083783
+    second: BombaDeHumo_19
+  - first:
+      213: -1871114437581198562
+    second: BombaDeHumo_20
+  - first:
+      213: -7744711524018679218
+    second: BombaDeHumo_21
+  - first:
+      213: 8090555398869777465
+    second: BombaDeHumo_22
+  - first:
+      213: -8683723341922163129
+    second: BombaDeHumo_23
+  - first:
+      213: -5610760144163230584
+    second: BombaDeHumo_24
+  - first:
+      213: 8377035816276570942
+    second: BombaDeHumo_25
+  - first:
+      213: -6537032382923686037
+    second: BombaDeHumo_26
+  - first:
+      213: 8949522879761802834
+    second: BombaDeHumo_27
+  - first:
+      213: -6417964560710584249
+    second: BombaDeHumo_28
+  - first:
+      213: 9002869507488555455
+    second: BombaDeHumo_29
+  - first:
+      213: -2894953587115818706
+    second: BombaDeHumo_30
+  - first:
+      213: 7873527308596810084
+    second: BombaDeHumo_31
+  - first:
+      213: 2952540534215983718
+    second: BombaDeHumo_32
+  - first:
+      213: -6472176094580378934
+    second: BombaDeHumo_33
+  - first:
+      213: -5965629106084237364
+    second: BombaDeHumo_34
+  - first:
+      213: -1165604038708709013
+    second: BombaDeHumo_35
+  - first:
+      213: 7175919346317550086
+    second: BombaDeHumo_36
+  - first:
+      213: 7213857171842983919
+    second: BombaDeHumo_37
+  - first:
+      213: -8601980763626858125
+    second: BombaDeHumo_38
+  - first:
+      213: -485992698665553907
+    second: BombaDeHumo_39
+  - first:
+      213: 1101018130943059794
+    second: BombaDeHumo_40
+  - first:
+      213: -2309869349073287247
+    second: BombaDeHumo_41
+  - first:
+      213: -4998584272281392706
+    second: BombaDeHumo_42
+  - first:
+      213: -8714696811400484005
+    second: BombaDeHumo_43
+  - first:
+      213: -6598101722370143875
+    second: BombaDeHumo_44
+  - first:
+      213: 680819511095890143
+    second: BombaDeHumo_45
+  - first:
+      213: 7821206458548280415
+    second: BombaDeHumo_46
+  - first:
+      213: 4625523174011635042
+    second: BombaDeHumo_47
+  - first:
+      213: -5275303762816208563
+    second: BombaDeHumo_48
+  - first:
+      213: 7509442936678769767
+    second: BombaDeHumo_49
+  - first:
+      213: -3580504940200757722
+    second: BombaDeHumo_50
+  - first:
+      213: 4424535775189953444
+    second: BombaDeHumo_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BombaDeHumo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1c8e1ae7344e260800000000000000
+      internalID: 7125894721568293287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombaDeHumo_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b964870007d782f30800000000000000
+      internalID: 4551025343455577755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombaDeHumo_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c44c1ca224b5dd00800000000000000
+      internalID: 996900953541854404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombaDeHumo_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a020206cdfe7bb40800000000000000
+      internalID: 5456093203367207072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombaDeHumo_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449e9528b3a0c6ed0800000000000000
+      internalID: -2419547649098520252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombaDeHumo_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa5f7337d55fb260800000000000000
+      internalID: 7115500319038986920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombaDeHumo_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5309c3cbecd20250800000000000000
+      internalID: 5909528566223668058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombaDeHumo_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1d6fc6ba6927050800000000000000
+      internalID: 5796861333390938570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombaDeHumo_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fea9de2587d93cb0800000000000000
+      internalID: -4883635353889952012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombaDeHumo_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02c0095b36e9fcf0800000000000000
+      internalID: -217889964380077553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a3159c460888dc34c8944125df4efc37
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BombaDeHumo_0: 7125894721568293287
+      BombaDeHumo_1: 4551025343455577755
+      BombaDeHumo_2: 996900953541854404
+      BombaDeHumo_3: 5456093203367207072
+      BombaDeHumo_4: -2419547649098520252
+      BombaDeHumo_5: 7115500319038986920
+      BombaDeHumo_6: 5909528566223668058
+      BombaDeHumo_7: 5796861333390938570
+      BombaDeHumo_8: -4883635353889952012
+      BombaDeHumo_9: -217889964380077553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

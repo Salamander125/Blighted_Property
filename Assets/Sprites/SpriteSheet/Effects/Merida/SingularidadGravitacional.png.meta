@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 4de7b347cb520a9459a93656a715a991
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1157604293845847001
+    second: SingularidadGravitacional_0
+  - first:
+      213: 3343507178951587148
+    second: SingularidadGravitacional_1
+  - first:
+      213: 5506820258064420008
+    second: SingularidadGravitacional_2
+  - first:
+      213: 5580311093692178622
+    second: SingularidadGravitacional_3
+  - first:
+      213: 7274295901295802811
+    second: SingularidadGravitacional_4
+  - first:
+      213: -2792057054335634644
+    second: SingularidadGravitacional_5
+  - first:
+      213: -2505187159479563123
+    second: SingularidadGravitacional_6
+  - first:
+      213: 4118515824780874880
+    second: SingularidadGravitacional_7
+  - first:
+      213: -4325100605094628810
+    second: SingularidadGravitacional_8
+  - first:
+      213: 8684442085671136717
+    second: SingularidadGravitacional_9
+  - first:
+      213: 1772956538392611434
+    second: SingularidadGravitacional_10
+  - first:
+      213: 5796737079931734467
+    second: SingularidadGravitacional_11
+  - first:
+      213: -1078279460099279636
+    second: SingularidadGravitacional_12
+  - first:
+      213: -1948570661291876685
+    second: SingularidadGravitacional_13
+  - first:
+      213: 7954673631752317949
+    second: SingularidadGravitacional_14
+  - first:
+      213: -8975941313551548192
+    second: SingularidadGravitacional_15
+  - first:
+      213: 3185192589607577245
+    second: SingularidadGravitacional_16
+  - first:
+      213: -979666272147520306
+    second: SingularidadGravitacional_17
+  - first:
+      213: 2362746447551800220
+    second: SingularidadGravitacional_18
+  - first:
+      213: 929763624780963677
+    second: SingularidadGravitacional_19
+  - first:
+      213: 160414739062314626
+    second: SingularidadGravitacional_20
+  - first:
+      213: 923026971829099032
+    second: SingularidadGravitacional_21
+  - first:
+      213: 2552845445516612822
+    second: SingularidadGravitacional_22
+  - first:
+      213: -4502575080091104830
+    second: SingularidadGravitacional_23
+  - first:
+      213: -4952299251940759071
+    second: SingularidadGravitacional_24
+  - first:
+      213: -2340432941440409934
+    second: SingularidadGravitacional_25
+  - first:
+      213: 5946239907466871518
+    second: SingularidadGravitacional_26
+  - first:
+      213: 7614689152192962169
+    second: SingularidadGravitacional_27
+  - first:
+      213: -1364065087334716153
+    second: SingularidadGravitacional_28
+  - first:
+      213: -704040585165218288
+    second: SingularidadGravitacional_29
+  - first:
+      213: 6875777521608818652
+    second: SingularidadGravitacional_30
+  - first:
+      213: 3651755046127884096
+    second: SingularidadGravitacional_31
+  - first:
+      213: -4991779634713792086
+    second: SingularidadGravitacional_32
+  - first:
+      213: -6971397403425934634
+    second: SingularidadGravitacional_33
+  - first:
+      213: -2619637310882960431
+    second: SingularidadGravitacional_34
+  - first:
+      213: 8292790999278838250
+    second: SingularidadGravitacional_35
+  - first:
+      213: -537936922838410216
+    second: SingularidadGravitacional_36
+  - first:
+      213: 8806395506115020878
+    second: SingularidadGravitacional_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SingularidadGravitacional_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724f9da270d5fefe0800000000000000
+      internalID: -1157604293845847001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingularidadGravitacional_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45b0698016866e20800000000000000
+      internalID: 3343507178951587148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingularidadGravitacional_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8accadb29d72c6c40800000000000000
+      internalID: 5506820258064420008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingularidadGravitacional_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0a1bbbf5f317d40800000000000000
+      internalID: 5580311093692178622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingularidadGravitacional_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9f0d3d49d73f460800000000000000
+      internalID: 7274295901295802811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingularidadGravitacional_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2373bbe6ee9049d0800000000000000
+      internalID: -2792057054335634644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingularidadGravitacional_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cc95f2d89cb3dd0800000000000000
+      internalID: -2505187159479563123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingularidadGravitacional_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08493e16258e72930800000000000000
+      internalID: 4118515824780874880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingularidadGravitacional_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632f18f3ae72af3c0800000000000000
+      internalID: -4325100605094628810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingularidadGravitacional_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd61e49016558870800000000000000
+      internalID: 8684442085671136717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingularidadGravitacional_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a0911049eca9810800000000000000
+      internalID: 1772956538392611434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingularidadGravitacional_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c98aa969a5227050800000000000000
+      internalID: 5796737079931734467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a4f1dd384ec249349b0561772868d40c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SingularidadGravitacional_0: -1157604293845847001
+      SingularidadGravitacional_1: 3343507178951587148
+      SingularidadGravitacional_10: 1772956538392611434
+      SingularidadGravitacional_11: 5796737079931734467
+      SingularidadGravitacional_2: 5506820258064420008
+      SingularidadGravitacional_3: 5580311093692178622
+      SingularidadGravitacional_4: 7274295901295802811
+      SingularidadGravitacional_5: -2792057054335634644
+      SingularidadGravitacional_6: -2505187159479563123
+      SingularidadGravitacional_7: 4118515824780874880
+      SingularidadGravitacional_8: -4325100605094628810
+      SingularidadGravitacional_9: 8684442085671136717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: af4c379c11e31d54884768be2f75c268
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4546532633866790879
+    second: LluviaDeDagas_0
+  - first:
+      213: -7713978221808787876
+    second: LluviaDeDagas_1
+  - first:
+      213: -6140982711938885024
+    second: LluviaDeDagas_2
+  - first:
+      213: -5886186675309272392
+    second: LluviaDeDagas_3
+  - first:
+      213: -7092744263037058626
+    second: LluviaDeDagas_4
+  - first:
+      213: -761532914938096235
+    second: LluviaDeDagas_5
+  - first:
+      213: 5711256708948774750
+    second: LluviaDeDagas_6
+  - first:
+      213: -3450146680120745775
+    second: LluviaDeDagas_7
+  - first:
+      213: 5598549383301438858
+    second: LluviaDeDagas_8
+  - first:
+      213: -7911551059594674669
+    second: LluviaDeDagas_9
+  - first:
+      213: -4345407102710853393
+    second: LluviaDeDagas_10
+  - first:
+      213: -3804395331115262992
+    second: LluviaDeDagas_11
+  - first:
+      213: -8647849280183042688
+    second: LluviaDeDagas_12
+  - first:
+      213: 709440744960410210
+    second: LluviaDeDagas_13
+  - first:
+      213: 4199020238277889836
+    second: LluviaDeDagas_14
+  - first:
+      213: -6874268135355612570
+    second: LluviaDeDagas_15
+  - first:
+      213: -4093686296980561113
+    second: LluviaDeDagas_16
+  - first:
+      213: -2245029644683634461
+    second: LluviaDeDagas_17
+  - first:
+      213: 5514980592211814933
+    second: LluviaDeDagas_18
+  - first:
+      213: 3748535472717167626
+    second: LluviaDeDagas_19
+  - first:
+      213: 7126468333900784156
+    second: LluviaDeDagas_20
+  - first:
+      213: 781991538071631842
+    second: LluviaDeDagas_21
+  - first:
+      213: 6354931451319232411
+    second: LluviaDeDagas_22
+  - first:
+      213: 4578599628642206759
+    second: LluviaDeDagas_23
+  - first:
+      213: 6203581726974870767
+    second: LluviaDeDagas_24
+  - first:
+      213: 515426227543326038
+    second: LluviaDeDagas_25
+  - first:
+      213: -7222050164305082868
+    second: LluviaDeDagas_26
+  - first:
+      213: 2992065269003381734
+    second: LluviaDeDagas_27
+  - first:
+      213: -4719106315427532572
+    second: LluviaDeDagas_28
+  - first:
+      213: -8112280279396752612
+    second: LluviaDeDagas_29
+  - first:
+      213: 7218480401343623022
+    second: LluviaDeDagas_30
+  - first:
+      213: -2451292912903913652
+    second: LluviaDeDagas_31
+  - first:
+      213: 7839138066925473749
+    second: LluviaDeDagas_32
+  - first:
+      213: -1338182472209172400
+    second: LluviaDeDagas_33
+  - first:
+      213: -185752532172535742
+    second: LluviaDeDagas_34
+  - first:
+      213: 8175774267492529159
+    second: LluviaDeDagas_35
+  - first:
+      213: -8123512378036980780
+    second: LluviaDeDagas_36
+  - first:
+      213: 8853365716857742351
+    second: LluviaDeDagas_37
+  - first:
+      213: -993464203202895714
+    second: LluviaDeDagas_38
+  - first:
+      213: -1680636508304832836
+    second: LluviaDeDagas_39
+  - first:
+      213: -4947307431860465241
+    second: LluviaDeDagas_40
+  - first:
+      213: 7724908776181283120
+    second: LluviaDeDagas_41
+  - first:
+      213: 844705921693282589
+    second: LluviaDeDagas_42
+  - first:
+      213: 6727767096813314976
+    second: LluviaDeDagas_43
+  - first:
+      213: -3315371961435423036
+    second: LluviaDeDagas_44
+  - first:
+      213: -4712529453409244352
+    second: LluviaDeDagas_45
+  - first:
+      213: -743161619129555128
+    second: LluviaDeDagas_46
+  - first:
+      213: -2804698040623279585
+    second: LluviaDeDagas_47
+  - first:
+      213: 1037351229130756271
+    second: LluviaDeDagas_48
+  - first:
+      213: 9219767737897319526
+    second: LluviaDeDagas_49
+  - first:
+      213: -531607622894607313
+    second: LluviaDeDagas_50
+  - first:
+      213: 4700922529717303921
+    second: LluviaDeDagas_51
+  - first:
+      213: 6782263912041746077
+    second: LluviaDeDagas_52
+  - first:
+      213: -4326328028122746032
+    second: LluviaDeDagas_53
+  - first:
+      213: 8605121762726738713
+    second: LluviaDeDagas_54
+  - first:
+      213: -3012580307094362423
+    second: LluviaDeDagas_55
+  - first:
+      213: -7738657344383452395
+    second: LluviaDeDagas_56
+  - first:
+      213: -5138644381540456371
+    second: LluviaDeDagas_57
+  - first:
+      213: 2731461178233466763
+    second: LluviaDeDagas_58
+  - first:
+      213: -3122826479154469512
+    second: LluviaDeDagas_59
+  - first:
+      213: 7865131610896562056
+    second: LluviaDeDagas_60
+  - first:
+      213: -7807931845994783203
+    second: LluviaDeDagas_61
+  - first:
+      213: 2308216769420825233
+    second: LluviaDeDagas_62
+  - first:
+      213: 5373705206656781208
+    second: LluviaDeDagas_63
+  - first:
+      213: -8370151964945448272
+    second: LluviaDeDagas_64
+  - first:
+      213: 6219786593151441008
+    second: LluviaDeDagas_65
+  - first:
+      213: 3343151083931739582
+    second: LluviaDeDagas_66
+  - first:
+      213: -1570167213337792681
+    second: LluviaDeDagas_67
+  - first:
+      213: 153405086977156647
+    second: LluviaDeDagas_68
+  - first:
+      213: -6780592298618513184
+    second: LluviaDeDagas_69
+  - first:
+      213: -2201328969687953570
+    second: LluviaDeDagas_70
+  - first:
+      213: 5161451961339209866
+    second: LluviaDeDagas_71
+  - first:
+      213: -2223692322821441772
+    second: LluviaDeDagas_72
+  - first:
+      213: -2475785981523613150
+    second: LluviaDeDagas_73
+  - first:
+      213: -5494450636981557391
+    second: LluviaDeDagas_74
+  - first:
+      213: 5597065990568209053
+    second: LluviaDeDagas_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LluviaDeDagas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12816a678a877e0c0800000000000000
+      internalID: -4546532633866790879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LluviaDeDagas_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5edcfb7da172f490800000000000000
+      internalID: -7713978221808787876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LluviaDeDagas_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a511382c8d6caa0800000000000000
+      internalID: -6140982711938885024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LluviaDeDagas_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2ad88b760105ea0800000000000000
+      internalID: -5886186675309272392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LluviaDeDagas_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb18cf6fba2819d90800000000000000
+      internalID: -7092744263037058626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LluviaDeDagas_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595d85049dd7e65f0800000000000000
+      internalID: -761532914938096235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LluviaDeDagas_6
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f45fd97b5724f40800000000000000
+      internalID: 5711256708948774750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LluviaDeDagas_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0e864cfdd9e10d0800000000000000
+      internalID: -3450146680120745775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2e29ea9ce96f0ac4f82b8ab69f64aabb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LluviaDeDagas_0: -4546532633866790879
+      LluviaDeDagas_1: -7713978221808787876
+      LluviaDeDagas_2: -6140982711938885024
+      LluviaDeDagas_3: -5886186675309272392
+      LluviaDeDagas_4: -7092744263037058626
+      LluviaDeDagas_5: -761532914938096235
+      LluviaDeDagas_6: 5711256708948774750
+      LluviaDeDagas_7: -3450146680120745775
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

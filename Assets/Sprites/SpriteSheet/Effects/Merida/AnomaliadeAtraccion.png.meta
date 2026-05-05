@@ -1,0 +1,678 @@
+fileFormatVersion: 2
+guid: fcea7e81701c3ff4d99f451ed8467c25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1430301058466147553
+    second: AnomaliadeAtraccion_0
+  - first:
+      213: -9064780346882330932
+    second: AnomaliadeAtraccion_1
+  - first:
+      213: 4421707051684286487
+    second: AnomaliadeAtraccion_2
+  - first:
+      213: -1878240331487096672
+    second: AnomaliadeAtraccion_3
+  - first:
+      213: -7558438670785210228
+    second: AnomaliadeAtraccion_4
+  - first:
+      213: 3225782807420562098
+    second: AnomaliadeAtraccion_5
+  - first:
+      213: 1291384844303181176
+    second: AnomaliadeAtraccion_6
+  - first:
+      213: 4391664183340513057
+    second: AnomaliadeAtraccion_7
+  - first:
+      213: -1482804741499165693
+    second: AnomaliadeAtraccion_8
+  - first:
+      213: 9186334083932863801
+    second: AnomaliadeAtraccion_9
+  - first:
+      213: -4018915622986265005
+    second: AnomaliadeAtraccion_10
+  - first:
+      213: -6385851142340399391
+    second: AnomaliadeAtraccion_11
+  - first:
+      213: 1537291873001089500
+    second: AnomaliadeAtraccion_12
+  - first:
+      213: 5915733641547473698
+    second: AnomaliadeAtraccion_13
+  - first:
+      213: -1068415142328064060
+    second: AnomaliadeAtraccion_14
+  - first:
+      213: -8813726665665241107
+    second: AnomaliadeAtraccion_15
+  - first:
+      213: 1383826738875919364
+    second: AnomaliadeAtraccion_16
+  - first:
+      213: 7339016458110868673
+    second: AnomaliadeAtraccion_17
+  - first:
+      213: 8690458073841319314
+    second: AnomaliadeAtraccion_18
+  - first:
+      213: -8108438969921089895
+    second: AnomaliadeAtraccion_19
+  - first:
+      213: 5699483400577287313
+    second: AnomaliadeAtraccion_20
+  - first:
+      213: -4178653707194373497
+    second: AnomaliadeAtraccion_21
+  - first:
+      213: -1553533216889035863
+    second: AnomaliadeAtraccion_22
+  - first:
+      213: 6980111515005468798
+    second: AnomaliadeAtraccion_23
+  - first:
+      213: -2512520613184816757
+    second: AnomaliadeAtraccion_24
+  - first:
+      213: -1194600650588708542
+    second: AnomaliadeAtraccion_25
+  - first:
+      213: 8646788035845581415
+    second: AnomaliadeAtraccion_26
+  - first:
+      213: -1617036022151032031
+    second: AnomaliadeAtraccion_27
+  - first:
+      213: -4401762644959989718
+    second: AnomaliadeAtraccion_28
+  - first:
+      213: 1248450389963262936
+    second: AnomaliadeAtraccion_29
+  - first:
+      213: -336886759771668557
+    second: AnomaliadeAtraccion_30
+  - first:
+      213: 1533071960257790918
+    second: AnomaliadeAtraccion_31
+  - first:
+      213: -8675275842410625832
+    second: AnomaliadeAtraccion_32
+  - first:
+      213: -5288775721472637609
+    second: AnomaliadeAtraccion_33
+  - first:
+      213: -2079372255737503076
+    second: AnomaliadeAtraccion_34
+  - first:
+      213: 6467892354920092575
+    second: AnomaliadeAtraccion_35
+  - first:
+      213: 6228260958613307386
+    second: AnomaliadeAtraccion_36
+  - first:
+      213: 7965667239405333777
+    second: AnomaliadeAtraccion_37
+  - first:
+      213: 561068058788216852
+    second: AnomaliadeAtraccion_38
+  - first:
+      213: 4076752956020445207
+    second: AnomaliadeAtraccion_39
+  - first:
+      213: 3729306905968185130
+    second: AnomaliadeAtraccion_40
+  - first:
+      213: -1411203749112730925
+    second: AnomaliadeAtraccion_41
+  - first:
+      213: 5383020097918209383
+    second: AnomaliadeAtraccion_42
+  - first:
+      213: -9069725308298150409
+    second: AnomaliadeAtraccion_43
+  - first:
+      213: -7566499663685450697
+    second: AnomaliadeAtraccion_44
+  - first:
+      213: 2097562291715304588
+    second: AnomaliadeAtraccion_45
+  - first:
+      213: 4242866585793625624
+    second: AnomaliadeAtraccion_46
+  - first:
+      213: -8815754452881510407
+    second: AnomaliadeAtraccion_47
+  - first:
+      213: 4225373512553537353
+    second: AnomaliadeAtraccion_48
+  - first:
+      213: -7551673673559191279
+    second: AnomaliadeAtraccion_49
+  - first:
+      213: 1223306947373415758
+    second: AnomaliadeAtraccion_50
+  - first:
+      213: -3574969167773579716
+    second: AnomaliadeAtraccion_51
+  - first:
+      213: 258898227063652385
+    second: AnomaliadeAtraccion_52
+  - first:
+      213: -5343364105861049829
+    second: AnomaliadeAtraccion_53
+  - first:
+      213: 1957514858485386087
+    second: AnomaliadeAtraccion_54
+  - first:
+      213: 175243063383158754
+    second: AnomaliadeAtraccion_55
+  - first:
+      213: -7367377463617271283
+    second: AnomaliadeAtraccion_56
+  - first:
+      213: -7260957714219927641
+    second: AnomaliadeAtraccion_57
+  - first:
+      213: -7955455782126909574
+    second: AnomaliadeAtraccion_58
+  - first:
+      213: -5016514443015312067
+    second: AnomaliadeAtraccion_59
+  - first:
+      213: -8594523670310049489
+    second: AnomaliadeAtraccion_60
+  - first:
+      213: 3402516021905895075
+    second: AnomaliadeAtraccion_61
+  - first:
+      213: -196224908671900594
+    second: AnomaliadeAtraccion_62
+  - first:
+      213: 5716393493110657099
+    second: AnomaliadeAtraccion_63
+  - first:
+      213: -3049644002412930073
+    second: AnomaliadeAtraccion_64
+  - first:
+      213: 9185306797794112152
+    second: AnomaliadeAtraccion_65
+  - first:
+      213: 4519923391846368550
+    second: AnomaliadeAtraccion_66
+  - first:
+      213: -539108417335248116
+    second: AnomaliadeAtraccion_67
+  - first:
+      213: 5674372445975132377
+    second: AnomaliadeAtraccion_68
+  - first:
+      213: -6332915949467568469
+    second: AnomaliadeAtraccion_69
+  - first:
+      213: -5953696834283505643
+    second: AnomaliadeAtraccion_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AnomaliadeAtraccion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec6dbf0c3379d310800000000000000
+      internalID: 1430301058466147553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnomaliadeAtraccion_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccee2214d4e633280800000000000000
+      internalID: -9064780346882330932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnomaliadeAtraccion_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7105b74e22f0d5d30800000000000000
+      internalID: 4421707051684286487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnomaliadeAtraccion_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a056eeae562fe5e0800000000000000
+      internalID: -1878240331487096672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnomaliadeAtraccion_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88954343180b1790800000000000000
+      internalID: -7558438670785210228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnomaliadeAtraccion_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba6dd65f5844cc20800000000000000
+      internalID: 3225782807420562098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnomaliadeAtraccion_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875a3018cabebe110800000000000000
+      internalID: 1291384844303181176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnomaliadeAtraccion_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12731d48e4352fc30800000000000000
+      internalID: 4391664183340513057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnomaliadeAtraccion_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3046daf91f40c6be0800000000000000
+      internalID: -1482804741499165693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnomaliadeAtraccion_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93db1e49d2a6c7f70800000000000000
+      internalID: 9186334083932863801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnomaliadeAtraccion_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ec2a5b881f938c0800000000000000
+      internalID: -4018915622986265005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnomaliadeAtraccion_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee27404836e067a0800000000000000
+      internalID: -6385851142340399391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnomaliadeAtraccion_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9235640de855510800000000000000
+      internalID: 1537291873001089500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnomaliadeAtraccion_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223e3427768e81250800000000000000
+      internalID: 5915733641547473698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5049ce21d67265d4694f9356731266f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AnomaliadeAtraccion_0: 1430301058466147553
+      AnomaliadeAtraccion_1: -9064780346882330932
+      AnomaliadeAtraccion_10: -4018915622986265005
+      AnomaliadeAtraccion_11: -6385851142340399391
+      AnomaliadeAtraccion_12: 1537291873001089500
+      AnomaliadeAtraccion_13: 5915733641547473698
+      AnomaliadeAtraccion_2: 4421707051684286487
+      AnomaliadeAtraccion_3: -1878240331487096672
+      AnomaliadeAtraccion_4: -7558438670785210228
+      AnomaliadeAtraccion_5: 3225782807420562098
+      AnomaliadeAtraccion_6: 1291384844303181176
+      AnomaliadeAtraccion_7: 4391664183340513057
+      AnomaliadeAtraccion_8: -1482804741499165693
+      AnomaliadeAtraccion_9: 9186334083932863801
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

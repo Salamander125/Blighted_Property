@@ -251,6 +251,8 @@ public class Floor_Manager : MonoBehaviour
                 {
                     enemySpawner.SpawnRandomEnemies();
                     ScaleEnemiesDifficulty(floorNum);
+                    if(currentFloor!=0)
+                    AudioManager.instance.PlayAudioFloor();
                 }
             }
         }

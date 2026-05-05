@@ -89,7 +89,6 @@ public class SaveManager : MonoBehaviour
 {
     public static SaveManager instance;
 
-    // OJO: Usamos HTTPS para evitar el error de Mixed Content
     private string apiUrl = "https://blightedproperty.somee.com/api/matches";
 
     [HideInInspector] public int currentMatchId = 0;

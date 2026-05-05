@@ -131,6 +131,8 @@ public class Entity : MonoBehaviour
         // 2. Le enviamos el golpe al objetivo
         bool acerto = target.TakeDamage(finalDamage, isCritical);
 
+        AudioManager.instance.PlayAudioAttack();
+
         // 3. --- ESTADO REACTIVO: SIFÓN (Robo de vida) ---
         if (acerto)
         {
@@ -325,25 +327,6 @@ public class Entity : MonoBehaviour
         return Mathf.Max(1, damage - (int)(damage * _currentDefense));
     }
 
-    public virtual IEnumerator ShowText(string message, TextMeshProUGUI text)
-    {
-        if (text == null)
-        {
-            Debug.Log($"{name} dice: {message}");
-            yield return new WaitForSeconds(1f);
-            yield break;
-        }
-
-        text.text = message;
-        text.maxVisibleCharacters = 0;
-
-        for (int i = 0; i <= message.Length; i++)
-        {
-            text.maxVisibleCharacters = i;
-            yield return new WaitForSeconds(textSpeed);
-        }
-    }
-
     public void SetHighlight(bool value)
     {
         SpriteRenderer sr = GetComponentInChildren<SpriteRenderer>();
@@ -385,6 +368,7 @@ public class Entity : MonoBehaviour
     {
         InitializeStatsIfNeeded();
         _currentMana += amount;
+        ShowPopup("+" + amount, Color.blue);
         if (_currentMana > _maxMana) _currentMana = _maxMana;
     }
 

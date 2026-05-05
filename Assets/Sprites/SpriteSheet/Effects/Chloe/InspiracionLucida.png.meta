@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: 102343dfb4892d841bb7b1ddd06d54b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6587863970454000729
+    second: InspiracionLucida_0
+  - first:
+      213: 9128513072895436759
+    second: InspiracionLucida_1
+  - first:
+      213: -9121018734745943589
+    second: InspiracionLucida_2
+  - first:
+      213: 7757428255586516988
+    second: InspiracionLucida_3
+  - first:
+      213: 4366372900691518774
+    second: InspiracionLucida_4
+  - first:
+      213: 420221942459200154
+    second: InspiracionLucida_5
+  - first:
+      213: -8505632446342592624
+    second: InspiracionLucida_6
+  - first:
+      213: 3074555047480391438
+    second: InspiracionLucida_7
+  - first:
+      213: -272980921423940375
+    second: InspiracionLucida_8
+  - first:
+      213: -8762259087846307125
+    second: InspiracionLucida_9
+  - first:
+      213: 189622513650590201
+    second: InspiracionLucida_10
+  - first:
+      213: 9196169985200645628
+    second: InspiracionLucida_11
+  - first:
+      213: 1561718613862509581
+    second: InspiracionLucida_12
+  - first:
+      213: -1912239248314729134
+    second: InspiracionLucida_13
+  - first:
+      213: 9015660868588786186
+    second: InspiracionLucida_14
+  - first:
+      213: -5448384211805193174
+    second: InspiracionLucida_15
+  - first:
+      213: 6356310684250577210
+    second: InspiracionLucida_16
+  - first:
+      213: 8853162053452267790
+    second: InspiracionLucida_17
+  - first:
+      213: -2470818501062586611
+    second: InspiracionLucida_18
+  - first:
+      213: -748731806382895165
+    second: InspiracionLucida_19
+  - first:
+      213: 5727325372148975488
+    second: InspiracionLucida_20
+  - first:
+      213: 3939956691897194517
+    second: InspiracionLucida_21
+  - first:
+      213: 7234216790991299060
+    second: InspiracionLucida_22
+  - first:
+      213: -722073057745019866
+    second: InspiracionLucida_23
+  - first:
+      213: 3684322338513615536
+    second: InspiracionLucida_24
+  - first:
+      213: 8386850051513088906
+    second: InspiracionLucida_25
+  - first:
+      213: 7782706399145622779
+    second: InspiracionLucida_26
+  - first:
+      213: -6382994614256325553
+    second: InspiracionLucida_27
+  - first:
+      213: 3455306431027961806
+    second: InspiracionLucida_28
+  - first:
+      213: 4331673287988914530
+    second: InspiracionLucida_29
+  - first:
+      213: -2113813719816281003
+    second: InspiracionLucida_30
+  - first:
+      213: 6375968530199872496
+    second: InspiracionLucida_31
+  - first:
+      213: -8048013895377486177
+    second: InspiracionLucida_32
+  - first:
+      213: -2909213739127308498
+    second: InspiracionLucida_33
+  - first:
+      213: -8596311331465158703
+    second: InspiracionLucida_34
+  - first:
+      213: 6294372912762981630
+    second: InspiracionLucida_35
+  - first:
+      213: -7950282142743352031
+    second: InspiracionLucida_36
+  - first:
+      213: 8641885638003589954
+    second: InspiracionLucida_37
+  - first:
+      213: 9051154396483508518
+    second: InspiracionLucida_38
+  - first:
+      213: -2980372193553203285
+    second: InspiracionLucida_39
+  - first:
+      213: 6983929994275639560
+    second: InspiracionLucida_40
+  - first:
+      213: -3785180330619571107
+    second: InspiracionLucida_41
+  - first:
+      213: 5682638239557565102
+    second: InspiracionLucida_42
+  - first:
+      213: -8523038272926547138
+    second: InspiracionLucida_43
+  - first:
+      213: 4825053882435531229
+    second: InspiracionLucida_44
+  - first:
+      213: 6278387606223424481
+    second: InspiracionLucida_45
+  - first:
+      213: 1880241994867999506
+    second: InspiracionLucida_46
+  - first:
+      213: 5506790351187007501
+    second: InspiracionLucida_47
+  - first:
+      213: -497660756173741080
+    second: InspiracionLucida_48
+  - first:
+      213: -7570277551568253882
+    second: InspiracionLucida_49
+  - first:
+      213: 60296277438470267
+    second: InspiracionLucida_50
+  - first:
+      213: 2924785176404400274
+    second: InspiracionLucida_51
+  - first:
+      213: -1156113477779360033
+    second: InspiracionLucida_52
+  - first:
+      213: -4389805657234445526
+    second: InspiracionLucida_53
+  - first:
+      213: -524818151744784725
+    second: InspiracionLucida_54
+  - first:
+      213: -2699126271557661405
+    second: InspiracionLucida_55
+  - first:
+      213: 1863148786854967096
+    second: InspiracionLucida_56
+  - first:
+      213: 8121673388849071965
+    second: InspiracionLucida_57
+  - first:
+      213: 7688386977391173731
+    second: InspiracionLucida_58
+  - first:
+      213: 6420882702543371084
+    second: InspiracionLucida_59
+  - first:
+      213: 5578490989062597884
+    second: InspiracionLucida_60
+  - first:
+      213: -1970611825927465975
+    second: InspiracionLucida_61
+  - first:
+      213: 3844953170759150690
+    second: InspiracionLucida_62
+  - first:
+      213: 7433069598674057935
+    second: InspiracionLucida_63
+  - first:
+      213: -4105734129725919787
+    second: InspiracionLucida_64
+  - first:
+      213: -1063881330491611712
+    second: InspiracionLucida_65
+  - first:
+      213: 8074382883958115757
+    second: InspiracionLucida_66
+  - first:
+      213: -432011402861092658
+    second: InspiracionLucida_67
+  - first:
+      213: -3393976051116217019
+    second: InspiracionLucida_68
+  - first:
+      213: 2404450227028806164
+    second: InspiracionLucida_69
+  - first:
+      213: 1842559892165972810
+    second: InspiracionLucida_70
+  - first:
+      213: -3449552161932514220
+    second: InspiracionLucida_71
+  - first:
+      213: 2404726655308356557
+    second: InspiracionLucida_72
+  - first:
+      213: 2440382802580694809
+    second: InspiracionLucida_73
+  - first:
+      213: 2832290500463874199
+    second: InspiracionLucida_74
+  - first:
+      213: -1173640903956567039
+    second: InspiracionLucida_75
+  - first:
+      213: 4097463577212578608
+    second: InspiracionLucida_76
+  - first:
+      213: -3096234864764103841
+    second: InspiracionLucida_77
+  - first:
+      213: -1460203593030133160
+    second: InspiracionLucida_78
+  - first:
+      213: 5041418148005442557
+    second: InspiracionLucida_79
+  - first:
+      213: 8670888289358066483
+    second: InspiracionLucida_80
+  - first:
+      213: 3122275464908151119
+    second: InspiracionLucida_81
+  - first:
+      213: 3242737955984194794
+    second: InspiracionLucida_82
+  - first:
+      213: -2947734370255147054
+    second: InspiracionLucida_83
+  - first:
+      213: -4457506758025491608
+    second: InspiracionLucida_84
+  - first:
+      213: 1210981928902249365
+    second: InspiracionLucida_85
+  - first:
+      213: -6001244366792455890
+    second: InspiracionLucida_86
+  - first:
+      213: 1793141000995567983
+    second: InspiracionLucida_87
+  - first:
+      213: -8421238543868985800
+    second: InspiracionLucida_88
+  - first:
+      213: -8224034076345382314
+    second: InspiracionLucida_89
+  - first:
+      213: -2533937574248753214
+    second: InspiracionLucida_90
+  - first:
+      213: -3900936898456272751
+    second: InspiracionLucida_91
+  - first:
+      213: -5269875908078001377
+    second: InspiracionLucida_92
+  - first:
+      213: -8068658492508002379
+    second: InspiracionLucida_93
+  - first:
+      213: -6717040634642005873
+    second: InspiracionLucida_94
+  - first:
+      213: -8316925635395783443
+    second: InspiracionLucida_95
+  - first:
+      213: 5955095795103045625
+    second: InspiracionLucida_96
+  - first:
+      213: 3998529057943609687
+    second: InspiracionLucida_97
+  - first:
+      213: 6136005085807523777
+    second: InspiracionLucida_98
+  - first:
+      213: -6805324511758580145
+    second: InspiracionLucida_99
+  - first:
+      213: 2110436731319135454
+    second: InspiracionLucida_100
+  - first:
+      213: 2509891777003471668
+    second: InspiracionLucida_101
+  - first:
+      213: 3321552298583194479
+    second: InspiracionLucida_102
+  - first:
+      213: 5250881739089349257
+    second: InspiracionLucida_103
+  - first:
+      213: -7836902040502081414
+    second: InspiracionLucida_104
+  - first:
+      213: -9006134817418148710
+    second: InspiracionLucida_105
+  - first:
+      213: -1583164134286542291
+    second: InspiracionLucida_106
+  - first:
+      213: -5063330848737459527
+    second: InspiracionLucida_107
+  - first:
+      213: -5025799407692226867
+    second: InspiracionLucida_108
+  - first:
+      213: -4824837528063969246
+    second: InspiracionLucida_109
+  - first:
+      213: -4453346921817723630
+    second: InspiracionLucida_110
+  - first:
+      213: 306100411674863591
+    second: InspiracionLucida_111
+  - first:
+      213: -4562660570345564565
+    second: InspiracionLucida_112
+  - first:
+      213: 4869833659282267050
+    second: InspiracionLucida_113
+  - first:
+      213: 5945781448593896630
+    second: InspiracionLucida_114
+  - first:
+      213: 4896010560671723808
+    second: InspiracionLucida_115
+  - first:
+      213: 505888086825660540
+    second: InspiracionLucida_116
+  - first:
+      213: -382681731858122398
+    second: InspiracionLucida_117
+  - first:
+      213: 2725104303999531212
+    second: InspiracionLucida_118
+  - first:
+      213: -4214986211220870021
+    second: InspiracionLucida_119
+  - first:
+      213: -5123511993792023226
+    second: InspiracionLucida_120
+  - first:
+      213: 2884299766612748135
+    second: InspiracionLucida_121
+  - first:
+      213: -9123783916704850510
+    second: InspiracionLucida_122
+  - first:
+      213: 16992857246361943
+    second: InspiracionLucida_123
+  - first:
+      213: 823899357192578950
+    second: InspiracionLucida_124
+  - first:
+      213: -7066178859381032812
+    second: InspiracionLucida_125
+  - first:
+      213: -4717697153433484771
+    second: InspiracionLucida_126
+  - first:
+      213: 4753362731722274889
+    second: InspiracionLucida_127
+  - first:
+      213: 8880495811610480780
+    second: InspiracionLucida_128
+  - first:
+      213: -1431669527710933242
+    second: InspiracionLucida_129
+  - first:
+      213: -8400206996286636192
+    second: InspiracionLucida_130
+  - first:
+      213: 718646535759061938
+    second: InspiracionLucida_131
+  - first:
+      213: 7656889504497448719
+    second: InspiracionLucida_132
+  - first:
+      213: -718395742833835728
+    second: InspiracionLucida_133
+  - first:
+      213: -8616821924983045246
+    second: InspiracionLucida_134
+  - first:
+      213: 8396655114572817552
+    second: InspiracionLucida_135
+  - first:
+      213: -8799857242702294459
+    second: InspiracionLucida_136
+  - first:
+      213: 371724878505086199
+    second: InspiracionLucida_137
+  - first:
+      213: -5117430602908548212
+    second: InspiracionLucida_138
+  - first:
+      213: 1959736602702396175
+    second: InspiracionLucida_139
+  - first:
+      213: 1674657174831076266
+    second: InspiracionLucida_140
+  - first:
+      213: 3792687871767051913
+    second: InspiracionLucida_141
+  - first:
+      213: 8246883485615612461
+    second: InspiracionLucida_142
+  - first:
+      213: 8406084143082463207
+    second: InspiracionLucida_143
+  - first:
+      213: 8718799347888173204
+    second: InspiracionLucida_144
+  - first:
+      213: 2062681824113446439
+    second: InspiracionLucida_145
+  - first:
+      213: 522316406011121701
+    second: InspiracionLucida_146
+  - first:
+      213: -6328989434522238549
+    second: InspiracionLucida_147
+  - first:
+      213: 5002525452707734951
+    second: InspiracionLucida_148
+  - first:
+      213: -698319897469406407
+    second: InspiracionLucida_149
+  - first:
+      213: -405830481200826835
+    second: InspiracionLucida_150
+  - first:
+      213: 607988426684656159
+    second: InspiracionLucida_151
+  - first:
+      213: -2281113952859578222
+    second: InspiracionLucida_152
+  - first:
+      213: -9166486191684993123
+    second: InspiracionLucida_153
+  - first:
+      213: -4421251433836849418
+    second: InspiracionLucida_154
+  - first:
+      213: 7106260839192045790
+    second: InspiracionLucida_155
+  - first:
+      213: -6873156758371723277
+    second: InspiracionLucida_156
+  - first:
+      213: -3259699724538301703
+    second: InspiracionLucida_157
+  - first:
+      213: 8980925143404925894
+    second: InspiracionLucida_158
+  - first:
+      213: -4371528965081237473
+    second: InspiracionLucida_159
+  - first:
+      213: 370841113732863072
+    second: InspiracionLucida_160
+  - first:
+      213: 1099274229989769695
+    second: InspiracionLucida_161
+  - first:
+      213: 2212050914319279663
+    second: InspiracionLucida_162
+  - first:
+      213: 2759583644417701875
+    second: InspiracionLucida_163
+  - first:
+      213: 2483918029199927764
+    second: InspiracionLucida_164
+  - first:
+      213: 544782840909087170
+    second: InspiracionLucida_165
+  - first:
+      213: -8847586001997405150
+    second: InspiracionLucida_166
+  - first:
+      213: -5121085214151044035
+    second: InspiracionLucida_167
+  - first:
+      213: -2105855164343074520
+    second: InspiracionLucida_168
+  - first:
+      213: 6478785179276645401
+    second: InspiracionLucida_169
+  - first:
+      213: -8268527536111207527
+    second: InspiracionLucida_170
+  - first:
+      213: -5399486776217729059
+    second: InspiracionLucida_171
+  - first:
+      213: -8974214968330696888
+    second: InspiracionLucida_172
+  - first:
+      213: -7594588403686660491
+    second: InspiracionLucida_173
+  - first:
+      213: -7471587715902056401
+    second: InspiracionLucida_174
+  - first:
+      213: -672395045648109663
+    second: InspiracionLucida_175
+  - first:
+      213: -5433808467342957593
+    second: InspiracionLucida_176
+  - first:
+      213: -5273948180552502760
+    second: InspiracionLucida_177
+  - first:
+      213: 2381743259997966789
+    second: InspiracionLucida_178
+  - first:
+      213: -5724916576125725352
+    second: InspiracionLucida_179
+  - first:
+      213: -8855158539520694347
+    second: InspiracionLucida_180
+  - first:
+      213: -6136582587874921460
+    second: InspiracionLucida_181
+  - first:
+      213: -8678437481439610913
+    second: InspiracionLucida_182
+  - first:
+      213: -5009011151874135978
+    second: InspiracionLucida_183
+  - first:
+      213: 6669620638466782890
+    second: InspiracionLucida_184
+  - first:
+      213: 6976879714941882517
+    second: InspiracionLucida_185
+  - first:
+      213: -3919591290535472338
+    second: InspiracionLucida_186
+  - first:
+      213: -953660403865955566
+    second: InspiracionLucida_187
+  - first:
+      213: 8697180750925502044
+    second: InspiracionLucida_188
+  - first:
+      213: -4554769822896346946
+    second: InspiracionLucida_189
+  - first:
+      213: -8616136659610736370
+    second: InspiracionLucida_190
+  - first:
+      213: -5121261423646998121
+    second: InspiracionLucida_191
+  - first:
+      213: -3502070221693487625
+    second: InspiracionLucida_192
+  - first:
+      213: -7342587884969945922
+    second: InspiracionLucida_193
+  - first:
+      213: -2618143143492081173
+    second: InspiracionLucida_194
+  - first:
+      213: 5799324253901347428
+    second: InspiracionLucida_195
+  - first:
+      213: 8153710006606844862
+    second: InspiracionLucida_196
+  - first:
+      213: -6708410340516750327
+    second: InspiracionLucida_197
+  - first:
+      213: 13929993290014708
+    second: InspiracionLucida_198
+  - first:
+      213: 178686868009777892
+    second: InspiracionLucida_199
+  - first:
+      213: -6622225825712806458
+    second: InspiracionLucida_200
+  - first:
+      213: -1518639261784501786
+    second: InspiracionLucida_201
+  - first:
+      213: -7065667645789385859
+    second: InspiracionLucida_202
+  - first:
+      213: 2011125832580177663
+    second: InspiracionLucida_203
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InspiracionLucida_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abae747f943394a0800000000000000
+      internalID: -6587863970454000729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7217d564efeae70800000000000000
+      internalID: 9128513072895436759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd109c539c1ab6180800000000000000
+      internalID: -9121018734745943589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffffc8d5ebe7ab60800000000000000
+      internalID: 7757428255586516988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6352c96e409789c30800000000000000
+      internalID: 4366372900691518774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92fa1751ade4d500800000000000000
+      internalID: 420221942459200154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09786b5da5ce5f980800000000000000
+      internalID: -8505632446342592624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07f377a6830baa20800000000000000
+      internalID: 3074555047480391438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4311c5c4d263cf0800000000000000
+      internalID: -272980921423940375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca8bf6b8c3366680800000000000000
+      internalID: -8762259087846307125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f16f87ebaca1a200800000000000000
+      internalID: 189622513650590201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf56efdc0eb5f9f70800000000000000
+      internalID: 9196169985200645628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ce3621ec65ca510800000000000000
+      internalID: 1561718613862509581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25df3aef88c5675e0800000000000000
+      internalID: -1912239248314729134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02df9ffacf0e1d70800000000000000
+      internalID: 9015660868588786186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c31871d637364b0800000000000000
+      internalID: -5448384211805193174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3996c0e3e6263850800000000000000
+      internalID: 6356310684250577210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e018df64bffbcda70800000000000000
+      internalID: 8853162053452267790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f83bb0aa3e5bdd0800000000000000
+      internalID: -2470818501062586611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfc2889368fb95f0800000000000000
+      internalID: -748731806382895165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0878500d41c8b7f40800000000000000
+      internalID: 5727325372148975488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51894fa8cb98da630800000000000000
+      internalID: 3939956691897194517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1e337c7d9156460800000000000000
+      internalID: 7234216790991299060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c5a33316eaaf5f0800000000000000
+      internalID: -722073057745019866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baf32185a7512330800000000000000
+      internalID: 3684322338513615536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b77e8bfa3146470800000000000000
+      internalID: 8386850051513088906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_26
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcfb384c3ab10c60800000000000000
+      internalID: 7782706399145622779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c2506873c0b67a0800000000000000
+      internalID: -6382994614256325553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf5b8b54e6b3ff20800000000000000
+      internalID: 3455306431027961806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269a0adb7e13d1c30800000000000000
+      internalID: 4331673287988914530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_30
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554e00d0f993aa2e0800000000000000
+      internalID: -2113813719816281003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_31
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f302adc89dfb7850800000000000000
+      internalID: 6375968530199872496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_32
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9efd9a9006bf4090800000000000000
+      internalID: -8048013895377486177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_33
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f71a7948560a7d0800000000000000
+      internalID: -2909213739127308498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_34
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df9a55a364c3b880800000000000000
+      internalID: -8596311331465158703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_35
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dcb64c70541c84887d425310b9de37
+      internalID: 6294372912762981630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_36
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5486e436ace26d949a33ca1fd77eb183
+      internalID: -7950282142743352031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_37
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592f4f03a264c804aad8ac80dbb3b975
+      internalID: 8641885638003589954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_38
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd28d135fae7f5419e89acc227b3b45
+      internalID: 9051154396483508518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InspiracionLucida_39
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5624b0c4245322644aadff3327b8731c
+      internalID: -2980372193553203285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 623f7ed8c7e58024c8b04f135511badd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InspiracionLucida_0: -6587863970454000729
+      InspiracionLucida_1: 9128513072895436759
+      InspiracionLucida_10: 189622513650590201
+      InspiracionLucida_11: 9196169985200645628
+      InspiracionLucida_12: 1561718613862509581
+      InspiracionLucida_13: -1912239248314729134
+      InspiracionLucida_14: 9015660868588786186
+      InspiracionLucida_15: -5448384211805193174
+      InspiracionLucida_16: 6356310684250577210
+      InspiracionLucida_17: 8853162053452267790
+      InspiracionLucida_18: -2470818501062586611
+      InspiracionLucida_19: -748731806382895165
+      InspiracionLucida_2: -9121018734745943589
+      InspiracionLucida_20: 5727325372148975488
+      InspiracionLucida_21: 3939956691897194517
+      InspiracionLucida_22: 7234216790991299060
+      InspiracionLucida_23: -722073057745019866
+      InspiracionLucida_24: 3684322338513615536
+      InspiracionLucida_25: 8386850051513088906
+      InspiracionLucida_26: 7782706399145622779
+      InspiracionLucida_27: -6382994614256325553
+      InspiracionLucida_28: 3455306431027961806
+      InspiracionLucida_29: 4331673287988914530
+      InspiracionLucida_3: 7757428255586516988
+      InspiracionLucida_30: -2113813719816281003
+      InspiracionLucida_31: 6375968530199872496
+      InspiracionLucida_32: -8048013895377486177
+      InspiracionLucida_33: -2909213739127308498
+      InspiracionLucida_34: -8596311331465158703
+      InspiracionLucida_35: 6294372912762981630
+      InspiracionLucida_36: -7950282142743352031
+      InspiracionLucida_37: 8641885638003589954
+      InspiracionLucida_38: 9051154396483508518
+      InspiracionLucida_39: -2980372193553203285
+      InspiracionLucida_4: 4366372900691518774
+      InspiracionLucida_5: 420221942459200154
+      InspiracionLucida_6: -8505632446342592624
+      InspiracionLucida_7: 3074555047480391438
+      InspiracionLucida_8: -272980921423940375
+      InspiracionLucida_9: -8762259087846307125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -79,6 +79,7 @@ public class ApiManager : MonoBehaviour
             {
                 ownerCharacter = dto.ownerCharacter,
                 nombre = dto.nombre,
+                descripcion = dto.descripcion,
                 damage = dto.damage,
                 manaCost = dto.manaCost,        
                 healAmount = dto.healAmount,
@@ -138,6 +139,7 @@ public class AbilityModelDTO
 {
     public string ownerCharacter;
     public string nombre;
+    public string descripcion;
     public int damage;
     public int manaCost;
     public int healAmount;

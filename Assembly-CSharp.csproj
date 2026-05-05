@@ -106,6 +106,7 @@
     <Compile Include="Assets\Scripts\Combat\Save\SaveManager.cs" />
     <Compile Include="Assets\Scripts\Combat\Game Sequence\Grid\Grid_Controller.cs" />
     <Compile Include="Assets\Scripts\Combat\Character\PlayerTurnController.cs" />
+    <Compile Include="Assets\Scripts\Combat\Audio\AudioManager.cs" />
     <Compile Include="Assets\Scripts\LoadMatch_scene\SaveSlotUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />

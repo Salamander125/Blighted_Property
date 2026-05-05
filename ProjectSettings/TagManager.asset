@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ataque
   - Habilidad
+  - Audio
   layers:
   - Default
   - TransparentFX

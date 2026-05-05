@@ -19,6 +19,6 @@ MonoBehaviour:
   damage: 0
   heal: 20
   appliesState: 0
-  stateToApply: 0
-  stateDuration: 0
-  stateIntensity: 0
+  stateToApply: 5
+  stateDuration: 3
+  stateIntensity: 5

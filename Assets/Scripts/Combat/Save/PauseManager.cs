@@ -35,7 +35,7 @@ public class PauseManager : MonoBehaviour
     private int navMenuIndex = 0;
     private bool salirDespuesDeGuardar = false;
 
-    private string apiUrl = "http://blightedproperty.somee.com/api/matches/active/";
+    private string apiUrl = "https://blightedproperty.somee.com/api/matches/active/";
 
     private void Awake()
     {

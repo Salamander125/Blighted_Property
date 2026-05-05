@@ -25,16 +25,15 @@ public class AbilityMenuUI : MonoBehaviour
     public AbilityPreviewPanel previewPanel;
 
     [Header("Animación")]
-    [SerializeField] private float tiempoAnimacion = 0.15f; // Lo rápido que hace el Pop
+    [SerializeField] private float tiempoAnimacion = 0.15f;
 
     private List<GameObject> botonesCreados = new List<GameObject>();
     private int indiceActual = 0;
     private Character_Controller controllerReferencia;
 
     private bool menuActivo = false;
-    private bool isAnimating = false; // Bloquea el input mientras se anima
+    private bool isAnimating = false;
 
-    // Usamos diccionarios para trackear las animaciones de cada panel por separado
     private Dictionary<Transform, Coroutine> animacionesActivas = new Dictionary<Transform, Coroutine>();
     private Dictionary<Transform, Vector3> escalaOriginalMap = new Dictionary<Transform, Vector3>();
 
@@ -45,12 +44,8 @@ public class AbilityMenuUI : MonoBehaviour
         instance = this;
     }
 
-    // =============================
-    // FLUJO DEL MENÚ
-    // =============================
     public void AbrirMenu(Character_Controller pj, Ability[] habilidades)
     {
-        // 1. Posicionamiento en el Canvas
         Canvas parentCanvas = GetComponentInParent<Canvas>();
         RectTransform canvasRect = parentCanvas.GetComponent<RectTransform>();
         RectTransform menuRect = panel.GetComponent<RectTransform>();
@@ -62,13 +57,11 @@ public class AbilityMenuUI : MonoBehaviour
         float dynamicY = canvasRect.sizeDelta.y * verticalOffsetPercent;
         menuRect.anchoredPosition = localPoint + new Vector2(dynamicX, dynamicY);
 
-        // 2. Inicialización de datos
         controllerReferencia = pj;
         habilidadesActuales = habilidades;
         indiceActual = 0;
         menuActivo = true;
 
-        // 3. Generación de botones
         LimpiarBotones();
 
         for (int i = 0; i < habilidades.Length; i++)
@@ -83,48 +76,40 @@ public class AbilityMenuUI : MonoBehaviour
             if (textoBoton != null) textoBoton.text = habilidades[i].nombre;
         }
 
-        ActualizarVisualizacion();
-
-        // 4. Lanzamos las animaciones de APERTURA para AMBOS paneles
         TogglePanelWithAnimation(panel.transform, true);
 
-        if (previewPanel != null)
-        {
-            // Nota: MostrarInfo ya hace SetActive(true), pero necesitamos forzar la animación
-            TogglePanelWithAnimation(previewPanel.transform, true);
-        }
+        // Retrasamos un frame la visualización para asegurar que Unity instanció todo
+        StartCoroutine(EsperarYActualizarVisualizacion());
+    }
+
+    private IEnumerator EsperarYActualizarVisualizacion()
+    {
+        yield return new WaitForEndOfFrame();
+        ActualizarVisualizacion();
     }
 
     private void Update()
     {
-        // Bloqueamos el input si el menú no está activo o se está animando
         if (!menuActivo || isAnimating) return;
 
-        // Navegación
         if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W)) CambiarSeleccion(-1);
         if (Input.GetKeyDown(KeyCode.DownArrow) || Input.GetKeyDown(KeyCode.S)) CambiarSeleccion(1);
 
-        // Selección
         if (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.Space))
         {
             ConfirmarHabilidad();
         }
 
-        // Cancelar
         if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.B))
         {
             RegresarABotonesPrincipales();
         }
     }
 
-    // =============================
-    // SISTEMA DE ANIMACIÓN GENERAL
-    // =============================
     private void TogglePanelWithAnimation(Transform target, bool abrir)
     {
         if (target == null) return;
 
-        // Si ya se está animando este panel, paramos la animación anterior
         if (animacionesActivas.ContainsKey(target) && animacionesActivas[target] != null)
         {
             StopCoroutine(animacionesActivas[target]);
@@ -134,10 +119,8 @@ public class AbilityMenuUI : MonoBehaviour
             escalaOriginalMap[target] = target.localScale;
         }
 
-        // Aseguramos que el objeto esté activo para ver la animación
         target.gameObject.SetActive(true);
 
-        // Lanzamos la nueva animación y la guardamos en el diccionario
         Coroutine nuevaAnimacion = StartCoroutine(AnimarPanelGenerico(target, abrir));
         animacionesActivas[target] = nuevaAnimacion;
     }
@@ -147,7 +130,6 @@ public class AbilityMenuUI : MonoBehaviour
         if (target == panel.transform) isAnimating = true;
 
         float elapsed = 0f;
-
         Vector3 escalaOriginal = escalaOriginalMap[target];
         Vector3 inicio = abrir ? Vector3.zero : escalaOriginal;
         Vector3 fin = abrir ? escalaOriginal : Vector3.zero;
@@ -159,7 +141,6 @@ public class AbilityMenuUI : MonoBehaviour
             elapsed += Time.deltaTime;
             float t = elapsed / tiempoAnimacion;
             float curve = t * t * (3f - 2f * t);
-
             target.localScale = Vector3.Lerp(inicio, fin, curve);
             yield return null;
         }
@@ -171,29 +152,22 @@ public class AbilityMenuUI : MonoBehaviour
         if (!abrir)
         {
             target.gameObject.SetActive(false);
-
             if (target == panel.transform) LimpiarBotones();
         }
 
         animacionesActivas.Remove(target);
     }
 
-    // =============================
-    // LÓGICA INTERNA
-    // =============================
     private void ConfirmarHabilidad()
     {
         menuActivo = false;
-        // Lanzamos las animaciones de CIERRE para AMBOS paneles
         TogglePanelWithAnimation(panel.transform, false);
 
         if (previewPanel != null)
         {
-            TogglePanelWithAnimation(previewPanel.transform, false);
             previewPanel.Ocultar();
         }
 
-        // Avisamos al personaje
         controllerReferencia.OnAbilitySelectedFromMenu(indiceActual);
     }
 
@@ -210,6 +184,8 @@ public class AbilityMenuUI : MonoBehaviour
     {
         if (botonesCreados.Count == 0) return;
         indiceActual = (indiceActual + direccion + botonesCreados.Count) % botonesCreados.Count;
+
+        // ¡AQUÍ ES DONDE LE DECIMOS A LA PERSIANA QUÉ HABILIDAD ES!
         ActualizarVisualizacion();
     }
 
@@ -224,10 +200,18 @@ public class AbilityMenuUI : MonoBehaviour
             if (txt != null) txt.color = (i == indiceActual) ? Color.red : Color.black;
         }
 
-        if (previewPanel != null && habilidadesActuales != null && habilidadesActuales.Length > 0)
+        if (previewPanel == null)
+        {
+            Debug.LogError("¡Falta asignar el Preview Panel en el inspector de AbilityMenuUI!");
+            return;
+        }
+
+        if (habilidadesActuales != null && habilidadesActuales.Length > 0)
         {
             Ability habilidadSeleccionada = habilidadesActuales[indiceActual];
             int danoBasico = controllerReferencia.player.CurrentAttack;
+
+            // LLAMADA A LA PERSIANA CON LA HABILIDAD SELECCIONADA
             previewPanel.MostrarInfo(habilidadSeleccionada, danoBasico);
         }
     }
@@ -235,12 +219,10 @@ public class AbilityMenuUI : MonoBehaviour
     public void CerrarMenu()
     {
         menuActivo = false;
-
         TogglePanelWithAnimation(panel.transform, false);
 
         if (previewPanel != null)
         {
-            TogglePanelWithAnimation(previewPanel.transform, false);
             previewPanel.Ocultar();
         }
     }

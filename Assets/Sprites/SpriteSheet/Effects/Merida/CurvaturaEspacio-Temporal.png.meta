@@ -1,0 +1,1756 @@
+fileFormatVersion: 2
+guid: cd20ba0dcd90ea347a6d58980bd6eea8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6443034589288623432
+    second: CurvaturaEspacio-Temporal_0
+  - first:
+      213: -1826401802806666630
+    second: CurvaturaEspacio-Temporal_1
+  - first:
+      213: -8180694710391123646
+    second: CurvaturaEspacio-Temporal_2
+  - first:
+      213: 6963697764475430869
+    second: CurvaturaEspacio-Temporal_3
+  - first:
+      213: -8510402989493135333
+    second: CurvaturaEspacio-Temporal_4
+  - first:
+      213: 2489758599179451758
+    second: CurvaturaEspacio-Temporal_5
+  - first:
+      213: -3717165632314827688
+    second: CurvaturaEspacio-Temporal_6
+  - first:
+      213: -7551296767064582940
+    second: CurvaturaEspacio-Temporal_7
+  - first:
+      213: 3374740852653850262
+    second: CurvaturaEspacio-Temporal_8
+  - first:
+      213: -2122447458121291858
+    second: CurvaturaEspacio-Temporal_9
+  - first:
+      213: 3065335382684471602
+    second: CurvaturaEspacio-Temporal_10
+  - first:
+      213: -8885814810669763147
+    second: CurvaturaEspacio-Temporal_11
+  - first:
+      213: 2429341382567311273
+    second: CurvaturaEspacio-Temporal_12
+  - first:
+      213: -5368900215737473678
+    second: CurvaturaEspacio-Temporal_13
+  - first:
+      213: -4797718738420228058
+    second: CurvaturaEspacio-Temporal_14
+  - first:
+      213: 7832500351310649607
+    second: CurvaturaEspacio-Temporal_15
+  - first:
+      213: 5671907346867647733
+    second: CurvaturaEspacio-Temporal_16
+  - first:
+      213: 48766326573045562
+    second: CurvaturaEspacio-Temporal_17
+  - first:
+      213: -2646252318564845965
+    second: CurvaturaEspacio-Temporal_18
+  - first:
+      213: 8176693179852209497
+    second: CurvaturaEspacio-Temporal_19
+  - first:
+      213: -7081657425350165002
+    second: CurvaturaEspacio-Temporal_20
+  - first:
+      213: 8184808055178559930
+    second: CurvaturaEspacio-Temporal_21
+  - first:
+      213: 2709456901255250396
+    second: CurvaturaEspacio-Temporal_22
+  - first:
+      213: 8080579469263597753
+    second: CurvaturaEspacio-Temporal_23
+  - first:
+      213: -6379650238802447717
+    second: CurvaturaEspacio-Temporal_24
+  - first:
+      213: 1441077136413799393
+    second: CurvaturaEspacio-Temporal_25
+  - first:
+      213: 3741486303038436342
+    second: CurvaturaEspacio-Temporal_26
+  - first:
+      213: 4976983796929455156
+    second: CurvaturaEspacio-Temporal_27
+  - first:
+      213: -7132596387218402901
+    second: CurvaturaEspacio-Temporal_28
+  - first:
+      213: 989592785584270319
+    second: CurvaturaEspacio-Temporal_29
+  - first:
+      213: -709070689413713135
+    second: CurvaturaEspacio-Temporal_30
+  - first:
+      213: 4036056653776724465
+    second: CurvaturaEspacio-Temporal_31
+  - first:
+      213: -6177307152012482877
+    second: CurvaturaEspacio-Temporal_32
+  - first:
+      213: -146075961801042741
+    second: CurvaturaEspacio-Temporal_33
+  - first:
+      213: 4864416794683649491
+    second: CurvaturaEspacio-Temporal_34
+  - first:
+      213: 5046028481066394339
+    second: CurvaturaEspacio-Temporal_35
+  - first:
+      213: -2671497141571914515
+    second: CurvaturaEspacio-Temporal_36
+  - first:
+      213: 9210083803114912987
+    second: CurvaturaEspacio-Temporal_37
+  - first:
+      213: -772447076481343411
+    second: CurvaturaEspacio-Temporal_38
+  - first:
+      213: -6875746908191147549
+    second: CurvaturaEspacio-Temporal_39
+  - first:
+      213: -2639986904478563684
+    second: CurvaturaEspacio-Temporal_40
+  - first:
+      213: -8815111387251580867
+    second: CurvaturaEspacio-Temporal_41
+  - first:
+      213: -7878581650039984158
+    second: CurvaturaEspacio-Temporal_42
+  - first:
+      213: 3239528562110275046
+    second: CurvaturaEspacio-Temporal_43
+  - first:
+      213: 5386921788094562962
+    second: CurvaturaEspacio-Temporal_44
+  - first:
+      213: 7316127858952871511
+    second: CurvaturaEspacio-Temporal_45
+  - first:
+      213: 6494050413573691903
+    second: CurvaturaEspacio-Temporal_46
+  - first:
+      213: 2894740460645496057
+    second: CurvaturaEspacio-Temporal_47
+  - first:
+      213: 2941782763516603486
+    second: CurvaturaEspacio-Temporal_48
+  - first:
+      213: 2528819355572873500
+    second: CurvaturaEspacio-Temporal_49
+  - first:
+      213: 3257428927746411189
+    second: CurvaturaEspacio-Temporal_50
+  - first:
+      213: 6877280642098728355
+    second: CurvaturaEspacio-Temporal_51
+  - first:
+      213: 4602191829948935539
+    second: CurvaturaEspacio-Temporal_52
+  - first:
+      213: 7009240095546179563
+    second: CurvaturaEspacio-Temporal_53
+  - first:
+      213: 9120013890605989055
+    second: CurvaturaEspacio-Temporal_54
+  - first:
+      213: 3526780509673859984
+    second: CurvaturaEspacio-Temporal_55
+  - first:
+      213: -3569093196548554554
+    second: CurvaturaEspacio-Temporal_56
+  - first:
+      213: 595629398994358217
+    second: CurvaturaEspacio-Temporal_57
+  - first:
+      213: 7981849508341096115
+    second: CurvaturaEspacio-Temporal_58
+  - first:
+      213: 7160353053043998704
+    second: CurvaturaEspacio-Temporal_59
+  - first:
+      213: -3640978771621358559
+    second: CurvaturaEspacio-Temporal_60
+  - first:
+      213: 174160854915746212
+    second: CurvaturaEspacio-Temporal_61
+  - first:
+      213: -7025873649923513139
+    second: CurvaturaEspacio-Temporal_62
+  - first:
+      213: 5149130630753950101
+    second: CurvaturaEspacio-Temporal_63
+  - first:
+      213: -1795038970335827760
+    second: CurvaturaEspacio-Temporal_64
+  - first:
+      213: 2936028803368834360
+    second: CurvaturaEspacio-Temporal_65
+  - first:
+      213: -8835259576868925626
+    second: CurvaturaEspacio-Temporal_66
+  - first:
+      213: 2696624427815786159
+    second: CurvaturaEspacio-Temporal_67
+  - first:
+      213: 6708235473268259422
+    second: CurvaturaEspacio-Temporal_68
+  - first:
+      213: 3037096589588961661
+    second: CurvaturaEspacio-Temporal_69
+  - first:
+      213: 7247649925351380417
+    second: CurvaturaEspacio-Temporal_70
+  - first:
+      213: -9154811017783241832
+    second: CurvaturaEspacio-Temporal_71
+  - first:
+      213: -3744618704298697665
+    second: CurvaturaEspacio-Temporal_72
+  - first:
+      213: 7572934204979147524
+    second: CurvaturaEspacio-Temporal_73
+  - first:
+      213: -3821218888454109775
+    second: CurvaturaEspacio-Temporal_74
+  - first:
+      213: 5966860562385280828
+    second: CurvaturaEspacio-Temporal_75
+  - first:
+      213: -5422107116482306626
+    second: CurvaturaEspacio-Temporal_76
+  - first:
+      213: -8774874681624316740
+    second: CurvaturaEspacio-Temporal_77
+  - first:
+      213: 8752857558750495637
+    second: CurvaturaEspacio-Temporal_78
+  - first:
+      213: -3059307432549725073
+    second: CurvaturaEspacio-Temporal_79
+  - first:
+      213: 8209667048090436237
+    second: CurvaturaEspacio-Temporal_80
+  - first:
+      213: 4194035138667252185
+    second: CurvaturaEspacio-Temporal_81
+  - first:
+      213: -1024929693910652888
+    second: CurvaturaEspacio-Temporal_82
+  - first:
+      213: 1532493909243693434
+    second: CurvaturaEspacio-Temporal_83
+  - first:
+      213: -6848683266472094663
+    second: CurvaturaEspacio-Temporal_84
+  - first:
+      213: 6887044094921292489
+    second: CurvaturaEspacio-Temporal_85
+  - first:
+      213: 4970800833339850165
+    second: CurvaturaEspacio-Temporal_86
+  - first:
+      213: 5585168276644371425
+    second: CurvaturaEspacio-Temporal_87
+  - first:
+      213: 4827007359241234093
+    second: CurvaturaEspacio-Temporal_88
+  - first:
+      213: -6071886834480452200
+    second: CurvaturaEspacio-Temporal_89
+  - first:
+      213: -2813445223395327568
+    second: CurvaturaEspacio-Temporal_90
+  - first:
+      213: -6418151405418258473
+    second: CurvaturaEspacio-Temporal_91
+  - first:
+      213: 851048584639796747
+    second: CurvaturaEspacio-Temporal_92
+  - first:
+      213: 6382068159865677728
+    second: CurvaturaEspacio-Temporal_93
+  - first:
+      213: 8195700804014666235
+    second: CurvaturaEspacio-Temporal_94
+  - first:
+      213: -3199758503338022210
+    second: CurvaturaEspacio-Temporal_95
+  - first:
+      213: 111466313077549048
+    second: CurvaturaEspacio-Temporal_96
+  - first:
+      213: 9131914661038041125
+    second: CurvaturaEspacio-Temporal_97
+  - first:
+      213: -7741332659264234510
+    second: CurvaturaEspacio-Temporal_98
+  - first:
+      213: -7280981650369729855
+    second: CurvaturaEspacio-Temporal_99
+  - first:
+      213: 136239191755988131
+    second: CurvaturaEspacio-Temporal_100
+  - first:
+      213: -1833557037936561407
+    second: CurvaturaEspacio-Temporal_101
+  - first:
+      213: -2553010012007003596
+    second: CurvaturaEspacio-Temporal_102
+  - first:
+      213: -9148848595206395367
+    second: CurvaturaEspacio-Temporal_103
+  - first:
+      213: 3522388890480137080
+    second: CurvaturaEspacio-Temporal_104
+  - first:
+      213: 1734389806130876434
+    second: CurvaturaEspacio-Temporal_105
+  - first:
+      213: 1602906622269797352
+    second: CurvaturaEspacio-Temporal_106
+  - first:
+      213: -2252448903374047468
+    second: CurvaturaEspacio-Temporal_107
+  - first:
+      213: 7549242998584103976
+    second: CurvaturaEspacio-Temporal_108
+  - first:
+      213: -4326017143030815494
+    second: CurvaturaEspacio-Temporal_109
+  - first:
+      213: 3709392141723279379
+    second: CurvaturaEspacio-Temporal_110
+  - first:
+      213: 1847501068562069009
+    second: CurvaturaEspacio-Temporal_111
+  - first:
+      213: 3305635001523994887
+    second: CurvaturaEspacio-Temporal_112
+  - first:
+      213: -2137743837380724622
+    second: CurvaturaEspacio-Temporal_113
+  - first:
+      213: 7116655252253563386
+    second: CurvaturaEspacio-Temporal_114
+  - first:
+      213: 8434495292114706227
+    second: CurvaturaEspacio-Temporal_115
+  - first:
+      213: -2976570134663863093
+    second: CurvaturaEspacio-Temporal_116
+  - first:
+      213: -3738946120873946728
+    second: CurvaturaEspacio-Temporal_117
+  - first:
+      213: 9064625074825314325
+    second: CurvaturaEspacio-Temporal_118
+  - first:
+      213: -5630477184703674502
+    second: CurvaturaEspacio-Temporal_119
+  - first:
+      213: 7508785809820278082
+    second: CurvaturaEspacio-Temporal_120
+  - first:
+      213: -7670124460640814559
+    second: CurvaturaEspacio-Temporal_121
+  - first:
+      213: 5949711422858574464
+    second: CurvaturaEspacio-Temporal_122
+  - first:
+      213: 4899821538717824602
+    second: CurvaturaEspacio-Temporal_123
+  - first:
+      213: -614188854998435336
+    second: CurvaturaEspacio-Temporal_124
+  - first:
+      213: -492067755409184692
+    second: CurvaturaEspacio-Temporal_125
+  - first:
+      213: -634919555248562860
+    second: CurvaturaEspacio-Temporal_126
+  - first:
+      213: -8842611935844777360
+    second: CurvaturaEspacio-Temporal_127
+  - first:
+      213: -5451134229203776990
+    second: CurvaturaEspacio-Temporal_128
+  - first:
+      213: -6767043294299816359
+    second: CurvaturaEspacio-Temporal_129
+  - first:
+      213: -3663388011378718127
+    second: CurvaturaEspacio-Temporal_130
+  - first:
+      213: -6379593126263030946
+    second: CurvaturaEspacio-Temporal_131
+  - first:
+      213: -1939894134599142036
+    second: CurvaturaEspacio-Temporal_132
+  - first:
+      213: -2578900928820011500
+    second: CurvaturaEspacio-Temporal_133
+  - first:
+      213: 1801897643547267915
+    second: CurvaturaEspacio-Temporal_134
+  - first:
+      213: -8179140354882185881
+    second: CurvaturaEspacio-Temporal_135
+  - first:
+      213: 7756442405801380249
+    second: CurvaturaEspacio-Temporal_136
+  - first:
+      213: 1728883850272173996
+    second: CurvaturaEspacio-Temporal_137
+  - first:
+      213: 4067689400269486909
+    second: CurvaturaEspacio-Temporal_138
+  - first:
+      213: 2423523175981164657
+    second: CurvaturaEspacio-Temporal_139
+  - first:
+      213: 2082085911686829194
+    second: CurvaturaEspacio-Temporal_140
+  - first:
+      213: -911956151829150413
+    second: CurvaturaEspacio-Temporal_141
+  - first:
+      213: -3102491522725492567
+    second: CurvaturaEspacio-Temporal_142
+  - first:
+      213: 4688463248321895124
+    second: CurvaturaEspacio-Temporal_143
+  - first:
+      213: -2984530404105882087
+    second: CurvaturaEspacio-Temporal_144
+  - first:
+      213: -3558575323746951893
+    second: CurvaturaEspacio-Temporal_145
+  - first:
+      213: 3855229425840092374
+    second: CurvaturaEspacio-Temporal_146
+  - first:
+      213: -7190485415501535753
+    second: CurvaturaEspacio-Temporal_147
+  - first:
+      213: 1542622176028368004
+    second: CurvaturaEspacio-Temporal_148
+  - first:
+      213: -9082557241979700983
+    second: CurvaturaEspacio-Temporal_149
+  - first:
+      213: -7748314143322096209
+    second: CurvaturaEspacio-Temporal_150
+  - first:
+      213: -7532172459979337108
+    second: CurvaturaEspacio-Temporal_151
+  - first:
+      213: -8520835447259738416
+    second: CurvaturaEspacio-Temporal_152
+  - first:
+      213: 4963872107043554943
+    second: CurvaturaEspacio-Temporal_153
+  - first:
+      213: 489037312971863242
+    second: CurvaturaEspacio-Temporal_154
+  - first:
+      213: 497485530792154052
+    second: CurvaturaEspacio-Temporal_155
+  - first:
+      213: -1122941573084481124
+    second: CurvaturaEspacio-Temporal_156
+  - first:
+      213: 3530130888595746431
+    second: CurvaturaEspacio-Temporal_157
+  - first:
+      213: 4121879554949810957
+    second: CurvaturaEspacio-Temporal_158
+  - first:
+      213: 5410944812841240619
+    second: CurvaturaEspacio-Temporal_159
+  - first:
+      213: -7725715164679128222
+    second: CurvaturaEspacio-Temporal_160
+  - first:
+      213: -8894832085330706844
+    second: CurvaturaEspacio-Temporal_161
+  - first:
+      213: -3197910566403888022
+    second: CurvaturaEspacio-Temporal_162
+  - first:
+      213: -7072162045784526811
+    second: CurvaturaEspacio-Temporal_163
+  - first:
+      213: -6806768375427469333
+    second: CurvaturaEspacio-Temporal_164
+  - first:
+      213: 7597225073945579230
+    second: CurvaturaEspacio-Temporal_165
+  - first:
+      213: 3602653059818444142
+    second: CurvaturaEspacio-Temporal_166
+  - first:
+      213: -3557397499608121942
+    second: CurvaturaEspacio-Temporal_167
+  - first:
+      213: 1710965342889035760
+    second: CurvaturaEspacio-Temporal_168
+  - first:
+      213: 1467209658441404577
+    second: CurvaturaEspacio-Temporal_169
+  - first:
+      213: 6078813332183315881
+    second: CurvaturaEspacio-Temporal_170
+  - first:
+      213: -6319458712287162041
+    second: CurvaturaEspacio-Temporal_171
+  - first:
+      213: -759392246374197581
+    second: CurvaturaEspacio-Temporal_172
+  - first:
+      213: -2238935852489987914
+    second: CurvaturaEspacio-Temporal_173
+  - first:
+      213: 8497362780470859183
+    second: CurvaturaEspacio-Temporal_174
+  - first:
+      213: -7105480912071295318
+    second: CurvaturaEspacio-Temporal_175
+  - first:
+      213: -5075350204272182201
+    second: CurvaturaEspacio-Temporal_176
+  - first:
+      213: -5504969191810830794
+    second: CurvaturaEspacio-Temporal_177
+  - first:
+      213: -7934420382091393760
+    second: CurvaturaEspacio-Temporal_178
+  - first:
+      213: 5269723906702165665
+    second: CurvaturaEspacio-Temporal_179
+  - first:
+      213: 5589275295053102365
+    second: CurvaturaEspacio-Temporal_180
+  - first:
+      213: 6338735466250636370
+    second: CurvaturaEspacio-Temporal_181
+  - first:
+      213: -7545217717775009167
+    second: CurvaturaEspacio-Temporal_182
+  - first:
+      213: 780352038153351115
+    second: CurvaturaEspacio-Temporal_183
+  - first:
+      213: -160085793925605673
+    second: CurvaturaEspacio-Temporal_184
+  - first:
+      213: -7220274333571932061
+    second: CurvaturaEspacio-Temporal_185
+  - first:
+      213: 7014384669293497676
+    second: CurvaturaEspacio-Temporal_186
+  - first:
+      213: 5400844334112231285
+    second: CurvaturaEspacio-Temporal_187
+  - first:
+      213: -8875774016997242358
+    second: CurvaturaEspacio-Temporal_188
+  - first:
+      213: -9047933618794227256
+    second: CurvaturaEspacio-Temporal_189
+  - first:
+      213: -7918912165250541446
+    second: CurvaturaEspacio-Temporal_190
+  - first:
+      213: -8745280853058289534
+    second: CurvaturaEspacio-Temporal_191
+  - first:
+      213: -8381631462517707720
+    second: CurvaturaEspacio-Temporal_192
+  - first:
+      213: 75582995808108770
+    second: CurvaturaEspacio-Temporal_193
+  - first:
+      213: -2667642008479753378
+    second: CurvaturaEspacio-Temporal_194
+  - first:
+      213: -6475497629641630574
+    second: CurvaturaEspacio-Temporal_195
+  - first:
+      213: -5290102705485099465
+    second: CurvaturaEspacio-Temporal_196
+  - first:
+      213: -7313805229101100020
+    second: CurvaturaEspacio-Temporal_197
+  - first:
+      213: 8127540539159307774
+    second: CurvaturaEspacio-Temporal_198
+  - first:
+      213: 1496116629998053341
+    second: CurvaturaEspacio-Temporal_199
+  - first:
+      213: -2763100493565298198
+    second: CurvaturaEspacio-Temporal_200
+  - first:
+      213: 5540023540830243485
+    second: CurvaturaEspacio-Temporal_201
+  - first:
+      213: 2836844346214118933
+    second: CurvaturaEspacio-Temporal_202
+  - first:
+      213: 5274577205346212682
+    second: CurvaturaEspacio-Temporal_203
+  - first:
+      213: -8208065906835167515
+    second: CurvaturaEspacio-Temporal_204
+  - first:
+      213: 8468071458515968932
+    second: CurvaturaEspacio-Temporal_205
+  - first:
+      213: 6561574170898343229
+    second: CurvaturaEspacio-Temporal_206
+  - first:
+      213: -6897616479432940244
+    second: CurvaturaEspacio-Temporal_207
+  - first:
+      213: -4171177795097010261
+    second: CurvaturaEspacio-Temporal_208
+  - first:
+      213: -7707233740332752790
+    second: CurvaturaEspacio-Temporal_209
+  - first:
+      213: -3990722788432272949
+    second: CurvaturaEspacio-Temporal_210
+  - first:
+      213: 6065836569375716765
+    second: CurvaturaEspacio-Temporal_211
+  - first:
+      213: 4363694669118836934
+    second: CurvaturaEspacio-Temporal_212
+  - first:
+      213: -6106675717461077473
+    second: CurvaturaEspacio-Temporal_213
+  - first:
+      213: -7919899931176496113
+    second: CurvaturaEspacio-Temporal_214
+  - first:
+      213: 8354599571992924669
+    second: CurvaturaEspacio-Temporal_215
+  - first:
+      213: 2336863109766381384
+    second: CurvaturaEspacio-Temporal_216
+  - first:
+      213: -7391502995331377985
+    second: CurvaturaEspacio-Temporal_217
+  - first:
+      213: 5849601847403197791
+    second: CurvaturaEspacio-Temporal_218
+  - first:
+      213: 2415652925175697519
+    second: CurvaturaEspacio-Temporal_219
+  - first:
+      213: 2285788035997529511
+    second: CurvaturaEspacio-Temporal_220
+  - first:
+      213: 4658179822357299836
+    second: CurvaturaEspacio-Temporal_221
+  - first:
+      213: 7679542697316502211
+    second: CurvaturaEspacio-Temporal_222
+  - first:
+      213: -6579680515071995521
+    second: CurvaturaEspacio-Temporal_223
+  - first:
+      213: -4615927639712831670
+    second: CurvaturaEspacio-Temporal_224
+  - first:
+      213: -906377007226788428
+    second: CurvaturaEspacio-Temporal_225
+  - first:
+      213: 2314134117112036781
+    second: CurvaturaEspacio-Temporal_226
+  - first:
+      213: -877047175860669824
+    second: CurvaturaEspacio-Temporal_227
+  - first:
+      213: 2833902847338613557
+    second: CurvaturaEspacio-Temporal_228
+  - first:
+      213: -9124556042397910902
+    second: CurvaturaEspacio-Temporal_229
+  - first:
+      213: -2905664772808605896
+    second: CurvaturaEspacio-Temporal_230
+  - first:
+      213: -609420409384297314
+    second: CurvaturaEspacio-Temporal_231
+  - first:
+      213: 8807267531944743026
+    second: CurvaturaEspacio-Temporal_232
+  - first:
+      213: -4948258327041484652
+    second: CurvaturaEspacio-Temporal_233
+  - first:
+      213: 2985580498308373797
+    second: CurvaturaEspacio-Temporal_234
+  - first:
+      213: 1531019383577968371
+    second: CurvaturaEspacio-Temporal_235
+  - first:
+      213: 2572891543775177894
+    second: CurvaturaEspacio-Temporal_236
+  - first:
+      213: -5861094043725437753
+    second: CurvaturaEspacio-Temporal_237
+  - first:
+      213: -8889580445530194470
+    second: CurvaturaEspacio-Temporal_238
+  - first:
+      213: -2525542133820404837
+    second: CurvaturaEspacio-Temporal_239
+  - first:
+      213: -134598832515490871
+    second: CurvaturaEspacio-Temporal_240
+  - first:
+      213: -1616435176941749327
+    second: CurvaturaEspacio-Temporal_241
+  - first:
+      213: 5825200618013365956
+    second: CurvaturaEspacio-Temporal_242
+  - first:
+      213: 3783686042911502037
+    second: CurvaturaEspacio-Temporal_243
+  - first:
+      213: -2888754186036201480
+    second: CurvaturaEspacio-Temporal_244
+  - first:
+      213: -198881369653209698
+    second: CurvaturaEspacio-Temporal_245
+  - first:
+      213: 747309369065469844
+    second: CurvaturaEspacio-Temporal_246
+  - first:
+      213: 3593979252258538540
+    second: CurvaturaEspacio-Temporal_247
+  - first:
+      213: -101239694375563324
+    second: CurvaturaEspacio-Temporal_248
+  - first:
+      213: 6709826027507023032
+    second: CurvaturaEspacio-Temporal_249
+  - first:
+      213: 8657657982586437499
+    second: CurvaturaEspacio-Temporal_250
+  - first:
+      213: 1951995122332777652
+    second: CurvaturaEspacio-Temporal_251
+  - first:
+      213: -6199955390327823141
+    second: CurvaturaEspacio-Temporal_252
+  - first:
+      213: -7419759371272811369
+    second: CurvaturaEspacio-Temporal_253
+  - first:
+      213: -2720305239933213059
+    second: CurvaturaEspacio-Temporal_254
+  - first:
+      213: 2276350809436896103
+    second: CurvaturaEspacio-Temporal_255
+  - first:
+      213: 3893358913755353900
+    second: CurvaturaEspacio-Temporal_256
+  - first:
+      213: 5997757785111518782
+    second: CurvaturaEspacio-Temporal_257
+  - first:
+      213: 4660964072933597380
+    second: CurvaturaEspacio-Temporal_258
+  - first:
+      213: 7849056915628701617
+    second: CurvaturaEspacio-Temporal_259
+  - first:
+      213: -2344452607469054987
+    second: CurvaturaEspacio-Temporal_260
+  - first:
+      213: -1961038935034697198
+    second: CurvaturaEspacio-Temporal_261
+  - first:
+      213: 1969628975018836696
+    second: CurvaturaEspacio-Temporal_262
+  - first:
+      213: -5930038117332367868
+    second: CurvaturaEspacio-Temporal_263
+  - first:
+      213: -3506925799674350703
+    second: CurvaturaEspacio-Temporal_264
+  - first:
+      213: -771470775464091521
+    second: CurvaturaEspacio-Temporal_265
+  - first:
+      213: 3592359295190120853
+    second: CurvaturaEspacio-Temporal_266
+  - first:
+      213: 139427203060575233
+    second: CurvaturaEspacio-Temporal_267
+  - first:
+      213: 1570742856503229457
+    second: CurvaturaEspacio-Temporal_268
+  - first:
+      213: 5693313647586291182
+    second: CurvaturaEspacio-Temporal_269
+  - first:
+      213: -1516860658062341189
+    second: CurvaturaEspacio-Temporal_270
+  - first:
+      213: 2269129447783903672
+    second: CurvaturaEspacio-Temporal_271
+  - first:
+      213: 295421344225475495
+    second: CurvaturaEspacio-Temporal_272
+  - first:
+      213: -5841386848371752068
+    second: CurvaturaEspacio-Temporal_273
+  - first:
+      213: 3217945677240325119
+    second: CurvaturaEspacio-Temporal_274
+  - first:
+      213: 4599213444138864667
+    second: CurvaturaEspacio-Temporal_275
+  - first:
+      213: -4860430097102477872
+    second: CurvaturaEspacio-Temporal_276
+  - first:
+      213: -5759924400869024953
+    second: CurvaturaEspacio-Temporal_277
+  - first:
+      213: -7243532561136298413
+    second: CurvaturaEspacio-Temporal_278
+  - first:
+      213: 4514274677301332927
+    second: CurvaturaEspacio-Temporal_279
+  - first:
+      213: 165332702528275443
+    second: CurvaturaEspacio-Temporal_280
+  - first:
+      213: -8805705045402197110
+    second: CurvaturaEspacio-Temporal_281
+  - first:
+      213: -3033187122595505552
+    second: CurvaturaEspacio-Temporal_282
+  - first:
+      213: 6149594878810493724
+    second: CurvaturaEspacio-Temporal_283
+  - first:
+      213: 4684839325032685749
+    second: CurvaturaEspacio-Temporal_284
+  - first:
+      213: 2932313979167974572
+    second: CurvaturaEspacio-Temporal_285
+  - first:
+      213: -2124701433656336997
+    second: CurvaturaEspacio-Temporal_286
+  - first:
+      213: 3180704272137448269
+    second: CurvaturaEspacio-Temporal_287
+  - first:
+      213: -1146785249460173382
+    second: CurvaturaEspacio-Temporal_288
+  - first:
+      213: -1343267159766794434
+    second: CurvaturaEspacio-Temporal_289
+  - first:
+      213: -4451369428660854444
+    second: CurvaturaEspacio-Temporal_290
+  - first:
+      213: 8477838727456854046
+    second: CurvaturaEspacio-Temporal_291
+  - first:
+      213: 9004028344422477550
+    second: CurvaturaEspacio-Temporal_292
+  - first:
+      213: -2156447057556927750
+    second: CurvaturaEspacio-Temporal_293
+  - first:
+      213: 7099661604313632906
+    second: CurvaturaEspacio-Temporal_294
+  - first:
+      213: 5309261500933424242
+    second: CurvaturaEspacio-Temporal_295
+  - first:
+      213: 853380121828013417
+    second: CurvaturaEspacio-Temporal_296
+  - first:
+      213: -8629392106760338385
+    second: CurvaturaEspacio-Temporal_297
+  - first:
+      213: 854709107267021480
+    second: CurvaturaEspacio-Temporal_298
+  - first:
+      213: -1193133822011914432
+    second: CurvaturaEspacio-Temporal_299
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d6a1282d14a6950800000000000000
+      internalID: 6443034589288623432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a539eac3157a6e0800000000000000
+      internalID: -1826401802806666630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241583b0185587e80800000000000000
+      internalID: -8180694710391123646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d76db6b83604a060800000000000000
+      internalID: 6963697764475430869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18d6d33299f4e980800000000000000
+      internalID: -8510402989493135333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6db09031466d8220800000000000000
+      internalID: 2489758599179451758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c95924d89f96cc0800000000000000
+      internalID: -3717165632314827688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e45f8d4997643790800000000000000
+      internalID: -7551296767064582940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e7e63ecec75de20800000000000000
+      internalID: 3374740852653850262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7ef34384d8b82e0800000000000000
+      internalID: -2122447458121291858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231185a2a424a8a20800000000000000
+      internalID: 3065335382684471602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5bf1e328e3fa480800000000000000
+      internalID: -8885814810669763147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7b412cd11c6b120800000000000000
+      internalID: 2429341382567311273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275237e03b5dd75b0800000000000000
+      internalID: -5368900215737473678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6202a301a341b6db0800000000000000
+      internalID: -4797718738420228058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7095ef63291a2bc60800000000000000
+      internalID: 7832500351310649607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f479f05ea9a6be40800000000000000
+      internalID: 5671907346867647733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37136437b04da000800000000000000
+      internalID: 48766326573045562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37673e5698f964bd0800000000000000
+      internalID: -2646252318564845965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d33760023797170800000000000000
+      internalID: 8176693179852209497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdfef48716e8bd90800000000000000
+      internalID: -7081657425350165002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab18cabaf87469170800000000000000
+      internalID: 8184808055178559930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1cc8542bce99520800000000000000
+      internalID: 2709456901255250396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b075cce63cf32070800000000000000
+      internalID: 8080579469263597753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92b1fc98ede677a0800000000000000
+      internalID: -6379650238802447717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3b1e9350cbff310800000000000000
+      internalID: 1441077136413799393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_26
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3789828fd6ce330800000000000000
+      internalID: 3741486303038436342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434ead4e46cc11540800000000000000
+      internalID: 4976983796929455156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1dc9d306de30d90800000000000000
+      internalID: -7132596387218402901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb2a09356dbbbd00800000000000000
+      internalID: 989592785584270319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvaturaEspacio-Temporal_30
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113badcf6ffd826f0800000000000000
+      internalID: -709070689413713135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 362a633ed245cd54e84bc94cfe736ad4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CurvaturaEspacio-Temporal_0: 6443034589288623432
+      CurvaturaEspacio-Temporal_1: -1826401802806666630
+      CurvaturaEspacio-Temporal_10: 3065335382684471602
+      CurvaturaEspacio-Temporal_11: -8885814810669763147
+      CurvaturaEspacio-Temporal_12: 2429341382567311273
+      CurvaturaEspacio-Temporal_13: -5368900215737473678
+      CurvaturaEspacio-Temporal_14: -4797718738420228058
+      CurvaturaEspacio-Temporal_15: 7832500351310649607
+      CurvaturaEspacio-Temporal_16: 5671907346867647733
+      CurvaturaEspacio-Temporal_17: 48766326573045562
+      CurvaturaEspacio-Temporal_18: -2646252318564845965
+      CurvaturaEspacio-Temporal_19: 8176693179852209497
+      CurvaturaEspacio-Temporal_2: -8180694710391123646
+      CurvaturaEspacio-Temporal_20: -7081657425350165002
+      CurvaturaEspacio-Temporal_21: 8184808055178559930
+      CurvaturaEspacio-Temporal_22: 2709456901255250396
+      CurvaturaEspacio-Temporal_23: 8080579469263597753
+      CurvaturaEspacio-Temporal_24: -6379650238802447717
+      CurvaturaEspacio-Temporal_25: 1441077136413799393
+      CurvaturaEspacio-Temporal_26: 3741486303038436342
+      CurvaturaEspacio-Temporal_27: 4976983796929455156
+      CurvaturaEspacio-Temporal_28: -7132596387218402901
+      CurvaturaEspacio-Temporal_29: 989592785584270319
+      CurvaturaEspacio-Temporal_3: 6963697764475430869
+      CurvaturaEspacio-Temporal_30: -709070689413713135
+      CurvaturaEspacio-Temporal_4: -8510402989493135333
+      CurvaturaEspacio-Temporal_5: 2489758599179451758
+      CurvaturaEspacio-Temporal_6: -3717165632314827688
+      CurvaturaEspacio-Temporal_7: -7551296767064582940
+      CurvaturaEspacio-Temporal_8: 3374740852653850262
+      CurvaturaEspacio-Temporal_9: -2122447458121291858
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

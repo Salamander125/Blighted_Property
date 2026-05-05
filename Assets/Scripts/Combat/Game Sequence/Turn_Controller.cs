@@ -239,6 +239,7 @@ public class Turn_Controller : MonoBehaviour
                 {
                     // Llamamos a nuestra nueva función centralizada
                     AddGold(enemyScript.goldValue);
+                    AudioManager.instance.PlayAudioGold();
                 }
             }
             allEntities.Remove(entity);

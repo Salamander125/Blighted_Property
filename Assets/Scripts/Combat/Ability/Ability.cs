@@ -11,7 +11,8 @@ public class Ability
 
     [Header("Datos Básicos")]
     public string nombre;
-    public int damage;
+    public string descripcion;
+    public int damage;    
     public int manaCost;
     public int healAmount;
     public bool targetsAllies;

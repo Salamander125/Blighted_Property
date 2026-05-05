@@ -123,4 +123,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e50f09ecb82fced4d9d67a7b214d395f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TimeDestroy: 1.3
+  soundEffect: {fileID: 8300000, guid: 318efca93f970e244933f2f1f3ece070, type: 3}
+  secondSoundEffect: {fileID: 0}
+  audioSource: {fileID: 0}
